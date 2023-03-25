@@ -1,0 +1,34 @@
+{
+  "categories": [
+    {
+      "name": "Kategorie 1",
+      "questions": [
+        {
+          "value": 100,
+          "question": "Frage 1 für 100 Punkte",
+          "answer": "Antwort 1"
+        },
+        {
+          "value": 200,
+          "question": "Frage 2 für 200 Punkte",
+          "answer": "Antwort 2"
+        }
+      ]
+    },
+    {
+      "name": "Kategorie 2",
+      "questions": [
+        {
+          "value": 100,
+          "question": "Frage 1 für 100 Punkte",
+          "answer": "Antwort 1"
+        },
+        {
+          "value": 200,
+          "question": "Frage 2 für 200 Punkte",
+          "answer": "Antwort 2"
+        }
+      ]
+    }
+  ]
+}
