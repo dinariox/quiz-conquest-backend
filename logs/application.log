@@ -1,0 +1,114 @@
+[2023-03-26 13:11:52] INFO: Quiz Conquest Backend läuft auf Port 3000
+[2023-03-26 13:15:28] INFO: Quiz Conquest Backend läuft auf Port 3000
+[2023-03-26 14:13:13] INFO: Server listening on port 3000
+[2023-03-26 16:25:50] INFO: Server listening on port 3000
+[2023-03-26 16:53:08] INFO: A user has connected: Do8_j94V38ipPOwhAAAB
+[2023-03-26 16:53:08] INFO: A user has disconnected: Do8_j94V38ipPOwhAAAB
+[2023-03-26 16:53:27] INFO: A user has connected: HED2joCT8GV57EBXAAAD
+[2023-03-26 16:53:53] INFO: Adding player: HED2joCT8GV57EBXAAAD | Name: Timo | Unique ID: cfde15a2e1d30684b3d5218bb0ce8383
+[2023-03-26 17:14:56] INFO: User rejoined: HED2joCT8GV57EBXAAAD | Name: undefined | Unique ID: cfde15a2e1d30684b3d5218bb0ce8383
+[2023-03-26 17:20:36] INFO: User rejoined: HED2joCT8GV57EBXAAAD | Name: undefined | Unique ID: cfde15a2e1d30684b3d5218bb0ce8383
+[2023-03-26 17:20:54] INFO: User rejoined: HED2joCT8GV57EBXAAAD | Name: undefined | Unique ID: cfde15a2e1d30684b3d5218bb0ce8383
+[2023-03-26 17:24:40] INFO: A user has disconnected: HED2joCT8GV57EBXAAAD
+[2023-03-26 17:24:40] INFO: A user has connected: PzD1vUBERkk-9KYWAAAF
+[2023-03-26 17:24:40] INFO: A user has connected: eOLPHOuSlPXsAfILAAAH
+[2023-03-26 17:24:40] INFO: User rejoined: eOLPHOuSlPXsAfILAAAH | Name: undefined | Unique ID: cfde15a2e1d30684b3d5218bb0ce8383
+[2023-03-26 17:25:00] INFO: A user has connected: ajd1bLphdZHVbcPmAAAJ
+[2023-03-26 17:25:16] INFO: Adding player: ajd1bLphdZHVbcPmAAAJ | Name: Olaf | Unique ID: 6ec41b3b0f8a6da1d53232150b2c0717
+[2023-03-26 17:25:16] INFO: User rejoined: ajd1bLphdZHVbcPmAAAJ | Name: undefined | Unique ID: 6ec41b3b0f8a6da1d53232150b2c0717
+[2023-03-26 17:25:31] INFO: A user has connected: EX-l1WVfGRxFonnBAAAL
+[2023-03-26 17:25:54] INFO: Adding player: EX-l1WVfGRxFonnBAAAL | Name: Klose | Unique ID: 0b27666321aa3c8881e35eb77d330379
+[2023-03-26 17:25:54] INFO: User rejoined: EX-l1WVfGRxFonnBAAAL | Name: undefined | Unique ID: 0b27666321aa3c8881e35eb77d330379
+[2023-03-26 17:26:04] INFO: A user has disconnected: EX-l1WVfGRxFonnBAAAL
+[2023-03-26 17:26:09] INFO: A user has disconnected: ajd1bLphdZHVbcPmAAAJ
+[2023-03-26 17:26:09] INFO: A user has connected: 9tVursE9kuTeh63FAAAN
+[2023-03-26 17:26:09] INFO: User rejoined: 9tVursE9kuTeh63FAAAN | Name: undefined | Unique ID: 0b27666321aa3c8881e35eb77d330379
+[2023-03-26 17:26:11] INFO: A user has disconnected: eOLPHOuSlPXsAfILAAAH
+[2023-03-26 17:26:11] INFO: A user has connected: 1qEUl76JWxisp8_WAAAP
+[2023-03-26 17:26:11] INFO: User rejoined: 1qEUl76JWxisp8_WAAAP | Name: undefined | Unique ID: cfde15a2e1d30684b3d5218bb0ce8383
+[2023-03-26 17:26:28] INFO: A user has disconnected: 9tVursE9kuTeh63FAAAN
+[2023-03-26 17:28:10] INFO: Server listening on port 3000
+[2023-03-26 17:28:10] INFO: A user has connected: NCIHYWjOFPMSUwbLAAAB
+[2023-03-26 17:28:10] INFO: A user has disconnected: NCIHYWjOFPMSUwbLAAAB
+[2023-03-26 17:28:10] INFO: A user has connected: QVMLbxhbHoM9LqYpAAAD
+[2023-03-26 17:28:10] INFO: User tryed to rejoin but is unknown: QVMLbxhbHoM9LqYpAAAD | Unique ID: cfde15a2e1d30684b3d5218bb0ce8383
+[2023-03-26 17:28:14] INFO: A user has connected: NBDbWBVJcAjCc-o7AAAF
+[2023-03-26 17:29:11] INFO: Server listening on port 3000
+[2023-03-26 17:29:13] INFO: A user has connected: hb0bPEsMCtjRvz3eAAAB
+[2023-03-26 17:29:13] INFO: A user has connected: suQi-ZeYtCgsQOBfAAAD
+[2023-03-26 17:30:02] INFO: User tryed to rejoin but is unknown: hb0bPEsMCtjRvz3eAAAB | Unique ID: cfde15a2e1d30684b3d5218bb0ce8383
+[2023-03-26 17:31:59] INFO: A user has disconnected: hb0bPEsMCtjRvz3eAAAB
+[2023-03-26 17:31:59] INFO: A user has connected: vOE0hiO63P5WgToQAAAF
+[2023-03-26 17:31:59] INFO: User tryed to rejoin but is unknown: vOE0hiO63P5WgToQAAAF | Unique ID: cfde15a2e1d30684b3d5218bb0ce8383
+[2023-03-26 17:32:18] INFO: Adding player: vOE0hiO63P5WgToQAAAF | Name: Timo | Unique ID: 5b6096b1945ca9c2cb4d81350da33a83
+[2023-03-26 17:32:18] INFO: User rejoined: vOE0hiO63P5WgToQAAAF | Name: Timo | Unique ID: 5b6096b1945ca9c2cb4d81350da33a83
+[2023-03-26 17:32:34] INFO: A user has connected: KlgNXlBGp4jKnp2ZAAAH
+[2023-03-26 17:32:50] INFO: Adding player: KlgNXlBGp4jKnp2ZAAAH | Name: Ayo | Unique ID: 1f689d548962d116c4bd92ccf63c3973
+[2023-03-26 17:32:50] INFO: User rejoined: KlgNXlBGp4jKnp2ZAAAH | Name: Ayo | Unique ID: 1f689d548962d116c4bd92ccf63c3973
+[2023-03-26 17:35:18] INFO: Server listening on port 3000
+[2023-03-26 17:35:19] INFO: A user has connected: vWCCu1ee__JZ6LJsAAAB
+[2023-03-26 17:35:19] INFO: A user has connected: JFEgHh8g3INcbfAdAAAD
+[2023-03-26 17:35:19] INFO: A user has connected: wcl7UoE7XlDRscfOAAAF
+[2023-03-26 17:35:27] INFO: A user has disconnected: wcl7UoE7XlDRscfOAAAF
+[2023-03-26 17:35:28] INFO: A user has connected: 9VXDZg6kNcHSvvnKAAAH
+[2023-03-26 17:35:28] INFO: User tried to rejoin but is unknown: 9VXDZg6kNcHSvvnKAAAH | Unique ID: 5b6096b1945ca9c2cb4d81350da33a83
+[2023-03-26 17:36:00] INFO: A user has disconnected: JFEgHh8g3INcbfAdAAAD
+[2023-03-26 17:36:01] INFO: A user has connected: 7Gbbt8cjCGBiVq8oAAAJ
+[2023-03-26 17:36:01] INFO: User tried to rejoin but is unknown: 7Gbbt8cjCGBiVq8oAAAJ | Unique ID: 1f689d548962d116c4bd92ccf63c3973
+[2023-03-26 17:36:15] INFO: Adding player: 7Gbbt8cjCGBiVq8oAAAJ | Name: Korke | Unique ID: 2d2438cd6eb553bcb017c283d8f7a84b
+[2023-03-26 17:36:15] INFO: User rejoined: 7Gbbt8cjCGBiVq8oAAAJ | Name: Korke | Unique ID: 2d2438cd6eb553bcb017c283d8f7a84b
+[2023-03-26 17:36:19] INFO: Adding player: 9VXDZg6kNcHSvvnKAAAH | Name: Jesus | Unique ID: bf54aeeda2c9b0aaa4146594a894f101
+[2023-03-26 17:36:19] INFO: User rejoined: 9VXDZg6kNcHSvvnKAAAH | Name: Jesus | Unique ID: bf54aeeda2c9b0aaa4146594a894f101
+[2023-03-26 17:36:24] INFO: A user has disconnected: 7Gbbt8cjCGBiVq8oAAAJ
+[2023-03-26 17:44:19] INFO: A user has disconnected: 9VXDZg6kNcHSvvnKAAAH
+[2023-03-26 17:44:20] INFO: A user has connected: gPGP69WQeMlwLnEVAAAL
+[2023-03-26 17:44:20] INFO: User rejoined: gPGP69WQeMlwLnEVAAAL | Name: Jesus | Unique ID: bf54aeeda2c9b0aaa4146594a894f101
+[2023-03-26 18:20:38] INFO: A user has disconnected: gPGP69WQeMlwLnEVAAAL
+[2023-03-26 18:20:39] INFO: A user has connected: qpzehYIZiXVwukglAAAN
+[2023-03-26 18:20:39] INFO: User rejoined: qpzehYIZiXVwukglAAAN | Name: Jesus | Unique ID: bf54aeeda2c9b0aaa4146594a894f101
+[2023-03-26 18:28:33] INFO: Server listening on port 3000
+[2023-03-26 18:28:35] INFO: A user has connected: C2Xng9yhriCVszm2AAAB
+[2023-03-26 18:28:36] INFO: A user has connected: X6Wz98EOnY0H1911AAAD
+[2023-03-26 18:28:37] INFO: A user has disconnected: C2Xng9yhriCVszm2AAAB
+[2023-03-26 18:28:37] INFO: A user has connected: 4uIUg48voUB-sL3BAAAF
+[2023-03-26 18:28:37] INFO: User tried to rejoin but is unknown: 4uIUg48voUB-sL3BAAAF | Unique ID: bf54aeeda2c9b0aaa4146594a894f101
+[2023-03-26 18:29:00] INFO: Adding player: 4uIUg48voUB-sL3BAAAF | Name: Frauke | Unique ID: 5e06188f37f938f41542e82cb0e7fa43
+[2023-03-26 18:29:00] INFO: User rejoined: 4uIUg48voUB-sL3BAAAF | Name: Frauke | Unique ID: 5e06188f37f938f41542e82cb0e7fa43
+[2023-03-26 18:29:08] INFO: A user has connected: iZa-Cl58IAyfg0q3AAAH
+[2023-03-26 18:29:21] INFO: A user has connected: zqiKAURVO2Lp32ugAAAJ
+[2023-03-26 18:29:27] INFO: Adding player: zqiKAURVO2Lp32ugAAAJ | Name: Fridolin | Unique ID: ca6a69b71fa255c3089af88e2ff5df8e
+[2023-03-26 18:29:27] INFO: User rejoined: zqiKAURVO2Lp32ugAAAJ | Name: Fridolin | Unique ID: ca6a69b71fa255c3089af88e2ff5df8e
+[2023-03-26 18:29:39] INFO: A user has disconnected: zqiKAURVO2Lp32ugAAAJ
+[2023-03-26 18:31:00] INFO: User rejoined: 4uIUg48voUB-sL3BAAAF | Name: Frauke | Unique ID: 5e06188f37f938f41542e82cb0e7fa43
+[2023-03-26 18:31:48] INFO: User rejoined: 4uIUg48voUB-sL3BAAAF | Name: Frauke | Unique ID: 5e06188f37f938f41542e82cb0e7fa43
+[2023-03-26 18:53:12] INFO: User rejoined: 4uIUg48voUB-sL3BAAAF | Name: Frauke | Unique ID: 5e06188f37f938f41542e82cb0e7fa43
+[2023-03-26 18:54:07] INFO: User rejoined: 4uIUg48voUB-sL3BAAAF | Name: Frauke | Unique ID: 5e06188f37f938f41542e82cb0e7fa43
+[2023-03-26 19:00:43] INFO: Server listening on port 3000
+[2023-03-26 19:00:43] INFO: A user has connected: KKkL-a2aCROfBSH2AAAC
+[2023-03-26 19:00:43] INFO: A user has connected: rIk9z-sbtFIbdiKBAAAD
+[2023-03-26 19:00:44] INFO: A user has connected: u_Z3eqVU2Cr-c-rMAAAF
+[2023-03-26 19:00:46] INFO: A user has disconnected: rIk9z-sbtFIbdiKBAAAD
+[2023-03-26 19:00:46] INFO: A user has connected: FUO4ULbgSHFrDwurAAAH
+[2023-03-26 19:00:46] INFO: User tried to rejoin but is unknown: FUO4ULbgSHFrDwurAAAH | Unique ID: 5e06188f37f938f41542e82cb0e7fa43
+[2023-03-26 19:00:56] INFO: Adding player: FUO4ULbgSHFrDwurAAAH | Name: Timo | Unique ID: 5db90bf370f0746b0d443174fb0c75fe
+[2023-03-26 19:00:56] INFO: User rejoined: FUO4ULbgSHFrDwurAAAH | Name: Timo | Unique ID: 5db90bf370f0746b0d443174fb0c75fe
+[2023-03-26 19:01:04] INFO: A user has connected: vRpu_q_WdmlgEeCyAAAJ
+[2023-03-26 19:01:17] INFO: Adding player: vRpu_q_WdmlgEeCyAAAJ | Name: Hundeliebhaberxxx | Unique ID: 2f13d43e687b238590a6830d89318669
+[2023-03-26 19:01:17] INFO: User rejoined: vRpu_q_WdmlgEeCyAAAJ | Name: Hundeliebhaberxxx | Unique ID: 2f13d43e687b238590a6830d89318669
+[2023-03-26 19:01:22] INFO: A user has disconnected: KKkL-a2aCROfBSH2AAAC
+[2023-03-26 19:01:23] INFO: A user has connected: _rGqLh4ujgSQ0nOWAAAL
+[2023-03-26 19:01:34] INFO: A user has disconnected: vRpu_q_WdmlgEeCyAAAJ
+[2023-03-26 19:14:47] INFO: User rejoined: FUO4ULbgSHFrDwurAAAH | Name: Timo | Unique ID: 5db90bf370f0746b0d443174fb0c75fe
+[2023-03-26 22:58:01] INFO: Server listening on port 3000
+[2023-03-26 22:58:02] INFO: A user has connected: bcUOffNHjFTsSCtRAAAB
+[2023-03-26 22:58:03] INFO: A user has connected: 1zyNzmf-cOeT7QupAAAD
+[2023-03-26 22:58:03] INFO: A user has connected: M3EOHU6GXEMgppxcAAAF
+[2023-03-26 22:58:04] INFO: A user has disconnected: bcUOffNHjFTsSCtRAAAB
+[2023-03-26 22:58:05] INFO: A user has connected: -ap2zJ2AfAXUgX3kAAAH
+[2023-03-26 22:58:05] INFO: User tried to rejoin but is unknown: -ap2zJ2AfAXUgX3kAAAH | Unique ID: 5db90bf370f0746b0d443174fb0c75fe
+[2023-03-26 22:58:06] INFO: A user has disconnected: 1zyNzmf-cOeT7QupAAAD
+[2023-03-26 22:58:06] INFO: A user has connected: AYL5R_3hDioxyCMiAAAJ
+[2023-03-26 22:58:12] INFO: Adding player: -ap2zJ2AfAXUgX3kAAAH | Name: Timo | Unique ID: 59c6156541136c0a6ce7020b38cc3c9b
+[2023-03-26 22:58:12] INFO: User rejoined: -ap2zJ2AfAXUgX3kAAAH | Name: Timo | Unique ID: 59c6156541136c0a6ce7020b38cc3c9b
+[2023-03-26 23:09:25] INFO: A user has disconnected: AYL5R_3hDioxyCMiAAAJ
+[2023-03-26 23:09:25] INFO: A user has disconnected: -ap2zJ2AfAXUgX3kAAAH

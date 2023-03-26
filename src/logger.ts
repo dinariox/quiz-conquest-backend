@@ -1,17 +1,25 @@
 import { createLogger, format, transports } from "winston";
-
-const { combine, timestamp, printf } = format;
-
-const customFormat = printf(({ timestamp, level, message }) => {
-  return `${timestamp} ${level}: ${message}`;
-});
+import path from "path";
 
 const logger = createLogger({
   level: "info",
-  format: combine(timestamp(), customFormat),
+  format: format.combine(
+    format.timestamp({ format: "YYYY-MM-DD HH:mm:ss" }),
+    format.printf(({ timestamp, level, message }) => {
+      return `[${timestamp}] ${level.toUpperCase()}: ${message}`;
+    })
+  ),
   transports: [
+    // Konsolen-Transport
     new transports.Console(),
-    new transports.File({ filename: "quiz-conquest.log" }),
+
+    // Datei-Transport
+    new transports.File({
+      filename: path.join("logs", "application.log"),
+      maxsize: 10 * 1024 * 1024, // 10 MB
+      maxFiles: 5,
+      tailable: true,
+    }),
   ],
 });
 

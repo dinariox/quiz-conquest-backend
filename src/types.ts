@@ -1,20 +1,24 @@
 export interface Question {
-  id: string;
-  category: string;
-  points: number;
+  value: number;
   question: string;
   answer: string;
 }
 
-export interface Player {
+export interface Category {
+  name: string;
+  questions: Question[];
+}
+
+export interface Participant {
   id: string;
+  socketId: string;
   name: string;
   score: number;
 }
 
 export interface GameState {
-  players: Player[];
-  questions: Question[];
+  players: Participant[];
+  categories: Category[];
   activeQuestion: Question | null;
-  buzzedPlayer: Player | null;
+  buzzedPlayer: Participant | null;
 }

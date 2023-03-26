@@ -1,16 +1,34 @@
-[
-  {
-    "id": "q1",
-    "category": "Geschichte",
-    "value": 100,
-    "question": "In welchem Jahr endete der Zweite Weltkrieg?",
-    "answer": "1945"
-  },
-  {
-    "id": "q2",
-    "category": "Geschichte",
-    "value": 200,
-    "question": "Wer war der erste Mensch im All?",
-    "answer": "Juri Gagarin"
-  }
-]
+{
+  "categories": [
+    {
+      "name": "Kategorie 1",
+      "questions": [
+        {
+          "value": 100,
+          "question": "Frage 1 für 100 Punkte",
+          "answer": "Antwort 1"
+        },
+        {
+          "value": 200,
+          "question": "Frage 2 für 200 Punkte",
+          "answer": "Antwort 2"
+        }
+      ]
+    },
+    {
+      "name": "Kategorie 2",
+      "questions": [
+        {
+          "value": 100,
+          "question": "Frage 1 für 100 Punkte",
+          "answer": "Antwort 1"
+        },
+        {
+          "value": 200,
+          "question": "Frage 2 für 200 Punkte",
+          "answer": "Antwort 2"
+        }
+      ]
+    }
+  ]
+}
