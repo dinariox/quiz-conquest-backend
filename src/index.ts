@@ -117,6 +117,19 @@ async function main() {
         io.emit("updateGameState", gameState);
       }
     });
+
+    socket.on("openQuestion", (data: { categoryName: string; question: Question }) => {
+      const { categoryName, question } = data;
+      const category = gameState.categories.find((category) => category.name === categoryName);
+      if (category) {
+        const q = category.questions.find((q) => q.question === question.question);
+        if (q) {
+          q.answered = true;
+          gameState.activeQuestion = question;
+          io.emit("updateGameState", gameState);
+        }
+      }
+    });
   });
 
   app.listen(PORT, () => {
