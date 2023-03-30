@@ -112,3 +112,1667 @@
 [2023-03-26 22:58:12] INFO: User rejoined: -ap2zJ2AfAXUgX3kAAAH | Name: Timo | Unique ID: 59c6156541136c0a6ce7020b38cc3c9b
 [2023-03-26 23:09:25] INFO: A user has disconnected: AYL5R_3hDioxyCMiAAAJ
 [2023-03-26 23:09:25] INFO: A user has disconnected: -ap2zJ2AfAXUgX3kAAAH
+[2023-03-28 22:05:56] INFO: Server listening on port 3000
+[2023-03-28 22:06:07] INFO: A user has connected: 6reWcOP_xeQ8q38kAAAB
+[2023-03-28 22:06:13] INFO: Adding player: 6reWcOP_xeQ8q38kAAAB | Name: Timo | Unique ID: 0d418e4f03cc5f0c4edf262a1006867d
+[2023-03-28 22:06:13] INFO: User rejoined: 6reWcOP_xeQ8q38kAAAB | Name: Timo | Unique ID: 0d418e4f03cc5f0c4edf262a1006867d
+[2023-03-28 22:08:13] INFO: A user has disconnected: 6reWcOP_xeQ8q38kAAAB
+[2023-03-28 22:08:13] INFO: A user has connected: US6kns7fbk9oeRe7AAAD
+[2023-03-28 22:08:13] INFO: A user has connected: ncOdwW3L57ZrgwiIAAAF
+[2023-03-28 22:08:13] INFO: User rejoined: ncOdwW3L57ZrgwiIAAAF | Name: Timo | Unique ID: 0d418e4f03cc5f0c4edf262a1006867d
+[2023-03-28 22:09:07] INFO: A user has disconnected: ncOdwW3L57ZrgwiIAAAF
+[2023-03-28 22:09:07] INFO: A user has connected: uiqRmSUmkJzlLGh4AAAH
+[2023-03-28 22:09:07] INFO: User rejoined: uiqRmSUmkJzlLGh4AAAH | Name: Timo | Unique ID: 0d418e4f03cc5f0c4edf262a1006867d
+[2023-03-28 22:09:36] INFO: A user has disconnected: uiqRmSUmkJzlLGh4AAAH
+[2023-03-28 22:09:36] INFO: A user has connected: -cA7zfhSVc3rYQguAAAJ
+[2023-03-28 22:09:36] INFO: User rejoined: -cA7zfhSVc3rYQguAAAJ | Name: Timo | Unique ID: 0d418e4f03cc5f0c4edf262a1006867d
+[2023-03-28 22:09:52] INFO: A user has disconnected: -cA7zfhSVc3rYQguAAAJ
+[2023-03-28 22:09:52] INFO: A user has connected: fgcMTgHs4YxjOnM0AAAL
+[2023-03-28 22:09:52] INFO: User rejoined: fgcMTgHs4YxjOnM0AAAL | Name: Timo | Unique ID: 0d418e4f03cc5f0c4edf262a1006867d
+[2023-03-28 22:10:08] INFO: A user has disconnected: fgcMTgHs4YxjOnM0AAAL
+[2023-03-28 22:10:08] INFO: A user has connected: GtvyCsrVlL5rZFp-AAAN
+[2023-03-28 22:10:08] INFO: User rejoined: GtvyCsrVlL5rZFp-AAAN | Name: Timo | Unique ID: 0d418e4f03cc5f0c4edf262a1006867d
+[2023-03-28 22:10:46] INFO: A user has disconnected: GtvyCsrVlL5rZFp-AAAN
+[2023-03-28 22:10:46] INFO: A user has connected: 3Kb2oCjrAi9SmEzeAAAP
+[2023-03-28 22:10:46] INFO: User rejoined: 3Kb2oCjrAi9SmEzeAAAP | Name: Timo | Unique ID: 0d418e4f03cc5f0c4edf262a1006867d
+[2023-03-28 22:18:46] INFO: A user has disconnected: 3Kb2oCjrAi9SmEzeAAAP
+[2023-03-28 22:18:47] INFO: A user has connected: VtQqusBPFZi_RLK2AAAR
+[2023-03-28 22:18:47] INFO: User rejoined: VtQqusBPFZi_RLK2AAAR | Name: Timo | Unique ID: 0d418e4f03cc5f0c4edf262a1006867d
+[2023-03-28 22:24:04] INFO: A user has disconnected: VtQqusBPFZi_RLK2AAAR
+[2023-03-28 22:24:04] INFO: A user has connected: KbIVvQUPPAwXFRSaAAAT
+[2023-03-28 22:24:04] INFO: User rejoined: KbIVvQUPPAwXFRSaAAAT | Name: Timo | Unique ID: 0d418e4f03cc5f0c4edf262a1006867d
+[2023-03-28 22:30:56] INFO: A user has disconnected: KbIVvQUPPAwXFRSaAAAT
+[2023-03-28 22:30:56] INFO: A user has connected: 0GKuPDzsxADt1kGyAAAV
+[2023-03-28 22:30:56] INFO: User rejoined: 0GKuPDzsxADt1kGyAAAV | Name: Timo | Unique ID: 0d418e4f03cc5f0c4edf262a1006867d
+[2023-03-28 22:32:51] INFO: A user has connected: -iih4ZeKjf-Kej1ZAAAX
+[2023-03-28 22:33:06] INFO: Adding player: -iih4ZeKjf-Kej1ZAAAX | Name: Uwehanspeteregi | Unique ID: 1c55bef3e137e17eda89fe09553d72d9
+[2023-03-28 22:33:06] INFO: User rejoined: -iih4ZeKjf-Kej1ZAAAX | Name: Uwehanspeteregi | Unique ID: 1c55bef3e137e17eda89fe09553d72d9
+[2023-03-28 22:35:13] INFO: A user has disconnected: 0GKuPDzsxADt1kGyAAAV
+[2023-03-28 22:35:14] INFO: A user has connected: OYrQ1f3VE0XVVUyMAAAZ
+[2023-03-28 22:35:14] INFO: User rejoined: OYrQ1f3VE0XVVUyMAAAZ | Name: Timo | Unique ID: 0d418e4f03cc5f0c4edf262a1006867d
+[2023-03-28 22:50:41] INFO: A user has disconnected: -iih4ZeKjf-Kej1ZAAAX
+[2023-03-28 22:50:41] INFO: A user has connected: mguasRKhz0FxkCiIAAAb
+[2023-03-28 22:50:41] INFO: User rejoined: mguasRKhz0FxkCiIAAAb | Name: Uwehanspeteregi | Unique ID: 1c55bef3e137e17eda89fe09553d72d9
+[2023-03-28 22:51:01] INFO: A user has disconnected: mguasRKhz0FxkCiIAAAb
+[2023-03-28 22:58:34] INFO: A user has disconnected: OYrQ1f3VE0XVVUyMAAAZ
+[2023-03-28 22:58:34] INFO: A user has connected: U8ya_JAu16KdJasmAAAd
+[2023-03-28 22:58:34] INFO: User rejoined: U8ya_JAu16KdJasmAAAd | Name: Timo | Unique ID: 0d418e4f03cc5f0c4edf262a1006867d
+[2023-03-28 23:01:26] INFO: A user has disconnected: U8ya_JAu16KdJasmAAAd
+[2023-03-28 23:01:26] INFO: A user has connected: fFrI4lB1ghSx2zzqAAAf
+[2023-03-28 23:01:26] INFO: User rejoined: fFrI4lB1ghSx2zzqAAAf | Name: Timo | Unique ID: 0d418e4f03cc5f0c4edf262a1006867d
+[2023-03-28 23:01:27] INFO: A user has disconnected: fFrI4lB1ghSx2zzqAAAf
+[2023-03-28 23:01:27] INFO: A user has connected: DYJlJ_BKOQ9ZK800AAAh
+[2023-03-28 23:01:27] INFO: User rejoined: DYJlJ_BKOQ9ZK800AAAh | Name: Timo | Unique ID: 0d418e4f03cc5f0c4edf262a1006867d
+[2023-03-28 23:01:29] INFO: A user has disconnected: DYJlJ_BKOQ9ZK800AAAh
+[2023-03-28 23:01:29] INFO: A user has connected: 7rgXE7JNFY6xPdu4AAAj
+[2023-03-28 23:01:29] INFO: User rejoined: 7rgXE7JNFY6xPdu4AAAj | Name: Timo | Unique ID: 0d418e4f03cc5f0c4edf262a1006867d
+[2023-03-28 23:01:30] INFO: A user has disconnected: 7rgXE7JNFY6xPdu4AAAj
+[2023-03-28 23:01:30] INFO: A user has connected: 5lx2FfXx4EQbDnfgAAAl
+[2023-03-28 23:01:30] INFO: User rejoined: 5lx2FfXx4EQbDnfgAAAl | Name: Timo | Unique ID: 0d418e4f03cc5f0c4edf262a1006867d
+[2023-03-28 23:17:21] INFO: A user has disconnected: 5lx2FfXx4EQbDnfgAAAl
+[2023-03-28 23:17:22] INFO: A user has connected: cz4bSx6DwnpHcCVXAAAn
+[2023-03-28 23:17:22] INFO: User rejoined: cz4bSx6DwnpHcCVXAAAn | Name: Timo | Unique ID: 0d418e4f03cc5f0c4edf262a1006867d
+[2023-03-28 23:26:04] INFO: A user has disconnected: cz4bSx6DwnpHcCVXAAAn
+[2023-03-28 23:27:50] INFO: A user has connected: YTBsG6U0ZA_TgleCAAAp
+[2023-03-28 23:27:50] INFO: User rejoined: YTBsG6U0ZA_TgleCAAAp | Name: Timo | Unique ID: 0d418e4f03cc5f0c4edf262a1006867d
+[2023-03-28 23:35:31] INFO: A user has connected: hChdWXG-SLd3EILQAAAr
+[2023-03-28 23:35:58] INFO: Server listening on port 3000
+[2023-03-28 23:35:58] INFO: A user has connected: Yi6Uhho7i5SFGhYPAAAB
+[2023-03-28 23:35:59] INFO: A user has connected: AsgIM7eqLFRI7bMIAAAD
+[2023-03-28 23:35:59] INFO: User tried to rejoin but is unknown: AsgIM7eqLFRI7bMIAAAD | Unique ID: 0d418e4f03cc5f0c4edf262a1006867d
+[2023-03-28 23:36:01] INFO: A user has connected: p18nnga_RfpZ7bqLAAAF
+[2023-03-28 23:36:05] INFO: Adding player: AsgIM7eqLFRI7bMIAAAD | Name: Timo | Unique ID: 1fd5b6af927d5dd083a61b975a29c8d7
+[2023-03-28 23:36:05] INFO: User rejoined: AsgIM7eqLFRI7bMIAAAD | Name: Timo | Unique ID: 1fd5b6af927d5dd083a61b975a29c8d7
+[2023-03-28 23:36:14] INFO: A user has connected: kJnJh4klPFE6PuBGAAAH
+[2023-03-28 23:36:18] INFO: Adding player: kJnJh4klPFE6PuBGAAAH | Name: Peter | Unique ID: 188f1e88c3a14783fb0724e0b95911f0
+[2023-03-28 23:36:18] INFO: User rejoined: kJnJh4klPFE6PuBGAAAH | Name: Peter | Unique ID: 188f1e88c3a14783fb0724e0b95911f0
+[2023-03-28 23:36:25] INFO: A user has disconnected: p18nnga_RfpZ7bqLAAAF
+[2023-03-28 23:36:25] INFO: A user has connected: JWNXvDa7eQR9Mo63AAAJ
+[2023-03-28 23:46:12] INFO: Server listening on port 3000
+[2023-03-28 23:46:12] INFO: A user has connected: ShWCMc5jCf7cfyv6AAAB
+[2023-03-28 23:46:12] INFO: User tried to rejoin but is unknown: ShWCMc5jCf7cfyv6AAAB | Unique ID: 188f1e88c3a14783fb0724e0b95911f0
+[2023-03-28 23:46:13] INFO: A user has connected: STYQhelz8DNPzP5bAAAD
+[2023-03-28 23:46:13] INFO: A user has connected: VSEYkTzlb47fw5KmAAAF
+[2023-03-28 23:46:16] INFO: Adding player: ShWCMc5jCf7cfyv6AAAB | Name: Timo | Unique ID: 2a51ffe92301a2eee72670c27f7444d2
+[2023-03-28 23:46:16] INFO: User rejoined: ShWCMc5jCf7cfyv6AAAB | Name: Timo | Unique ID: 2a51ffe92301a2eee72670c27f7444d2
+[2023-03-28 23:46:16] INFO: A user has connected: opyRlCP0p_MItETPAAAH
+[2023-03-28 23:46:21] INFO: A user has disconnected: opyRlCP0p_MItETPAAAH
+[2023-03-28 23:46:22] INFO: A user has connected: aa48yoBRwQDPazesAAAJ
+[2023-03-28 23:46:22] INFO: User tried to rejoin but is unknown: aa48yoBRwQDPazesAAAJ | Unique ID: 1fd5b6af927d5dd083a61b975a29c8d7
+[2023-03-28 23:46:27] INFO: Adding player: aa48yoBRwQDPazesAAAJ | Name: Uwu | Unique ID: e9e3762cf71f2abe183a3cc688de6627
+[2023-03-28 23:46:27] INFO: User rejoined: aa48yoBRwQDPazesAAAJ | Name: Uwu | Unique ID: e9e3762cf71f2abe183a3cc688de6627
+[2023-03-28 23:46:31] INFO: A user has disconnected: VSEYkTzlb47fw5KmAAAF
+[2023-03-28 23:46:31] INFO: A user has connected: JIXPlvwrpoQEHv1JAAAL
+[2023-03-28 23:48:18] INFO: Server listening on port 3000
+[2023-03-28 23:48:19] INFO: A user has connected: XinicItP7VeSu406AAAB
+[2023-03-28 23:48:19] INFO: A user has connected: hsGamumSOsnwTbs5AAAD
+[2023-03-28 23:48:19] INFO: A user has connected: we2td1Bo8qmn8-GrAAAF
+[2023-03-28 23:48:20] INFO: A user has connected: OsgMYyYcIkguBCjcAAAH
+[2023-03-28 23:48:24] INFO: A user has disconnected: OsgMYyYcIkguBCjcAAAH
+[2023-03-28 23:48:24] INFO: A user has connected: k7pIw22ZQpZITHJJAAAJ
+[2023-03-28 23:48:24] INFO: User tried to rejoin but is unknown: k7pIw22ZQpZITHJJAAAJ | Unique ID: 2a51ffe92301a2eee72670c27f7444d2
+[2023-03-28 23:48:27] INFO: Adding player: k7pIw22ZQpZITHJJAAAJ | Name: uwu | Unique ID: 24d3910f195f50623b986ec93958397c
+[2023-03-28 23:48:27] INFO: User rejoined: k7pIw22ZQpZITHJJAAAJ | Name: uwu | Unique ID: 24d3910f195f50623b986ec93958397c
+[2023-03-28 23:48:32] INFO: A user has disconnected: we2td1Bo8qmn8-GrAAAF
+[2023-03-28 23:48:32] INFO: A user has connected: Ez9deYF8QEHN5ojuAAAL
+[2023-03-28 23:48:35] INFO: A user has disconnected: XinicItP7VeSu406AAAB
+[2023-03-28 23:48:35] INFO: A user has connected: BsIdgwCTaC3oCVLyAAAN
+[2023-03-28 23:48:35] INFO: User tried to rejoin but is unknown: BsIdgwCTaC3oCVLyAAAN | Unique ID: e9e3762cf71f2abe183a3cc688de6627
+[2023-03-28 23:48:40] INFO: Adding player: BsIdgwCTaC3oCVLyAAAN | Name: Timo | Unique ID: ad67da121dc4d7c672a4037c3fba9872
+[2023-03-28 23:48:40] INFO: User rejoined: BsIdgwCTaC3oCVLyAAAN | Name: Timo | Unique ID: ad67da121dc4d7c672a4037c3fba9872
+[2023-03-28 23:49:08] INFO: A user has connected: DWjBczpxNhkJWHt3AAAP
+[2023-03-28 23:49:11] INFO: Adding player: DWjBczpxNhkJWHt3AAAP | Name: owo | Unique ID: 84a213e84501ecb47630d645c12dec8b
+[2023-03-28 23:49:11] INFO: User rejoined: DWjBczpxNhkJWHt3AAAP | Name: owo | Unique ID: 84a213e84501ecb47630d645c12dec8b
+[2023-03-29 00:12:27] INFO: A user has disconnected: k7pIw22ZQpZITHJJAAAJ
+[2023-03-29 00:12:30] INFO: A user has disconnected: DWjBczpxNhkJWHt3AAAP
+[2023-03-29 00:24:33] INFO: A user has disconnected: Ez9deYF8QEHN5ojuAAAL
+[2023-03-29 00:24:33] INFO: A user has disconnected: BsIdgwCTaC3oCVLyAAAN
+[2023-03-29 00:24:33] INFO: A user has connected: v77brLeZcjnK_Up8AAAS
+[2023-03-29 00:24:33] INFO: A user has connected: djjJcxKmUxS4f-j_AAAT
+[2023-03-29 00:24:33] INFO: User rejoined: djjJcxKmUxS4f-j_AAAT | Name: Timo | Unique ID: ad67da121dc4d7c672a4037c3fba9872
+[2023-03-29 00:42:07] INFO: A user has disconnected: v77brLeZcjnK_Up8AAAS
+[2023-03-29 00:42:07] INFO: A user has disconnected: hsGamumSOsnwTbs5AAAD
+[2023-03-29 00:42:08] INFO: A user has connected: swVjlv3iRfwYVIpuAAAV
+[2023-03-29 00:42:08] INFO: A user has connected: A60ilfGHlve2W_XnAAAX
+[2023-03-29 00:58:09] INFO: A user has disconnected: swVjlv3iRfwYVIpuAAAV
+[2023-03-29 00:58:10] INFO: A user has connected: rUQaCXIfZhtoCb8DAAAZ
+[2023-03-29 01:12:05] INFO: A user has disconnected: rUQaCXIfZhtoCb8DAAAZ
+[2023-03-29 01:12:06] INFO: A user has connected: fV4NJnTTpxTgDsW_AAAb
+[2023-03-29 01:29:08] INFO: A user has disconnected: fV4NJnTTpxTgDsW_AAAb
+[2023-03-29 01:29:09] INFO: A user has connected: 0nU166jvNvon2MZCAAAd
+[2023-03-29 01:44:39] INFO: A user has disconnected: 0nU166jvNvon2MZCAAAd
+[2023-03-29 01:44:40] INFO: A user has connected: AU8sWTiQdXXU_goIAAAf
+[2023-03-29 02:01:44] INFO: A user has disconnected: AU8sWTiQdXXU_goIAAAf
+[2023-03-29 02:01:45] INFO: A user has connected: ZjFRXdAgJysiXiL_AAAh
+[2023-03-29 02:18:25] INFO: A user has disconnected: ZjFRXdAgJysiXiL_AAAh
+[2023-03-29 02:18:26] INFO: A user has connected: BtXaFlo6i4bOS1V1AAAj
+[2023-03-29 02:33:37] INFO: A user has disconnected: BtXaFlo6i4bOS1V1AAAj
+[2023-03-29 02:33:38] INFO: A user has connected: 9IUtVnf6EK9urg79AAAl
+[2023-03-29 02:49:56] INFO: A user has disconnected: 9IUtVnf6EK9urg79AAAl
+[2023-03-29 02:49:57] INFO: A user has connected: aBRn6h_apDttA4MqAAAn
+[2023-03-29 03:05:42] INFO: A user has disconnected: aBRn6h_apDttA4MqAAAn
+[2023-03-29 03:05:43] INFO: A user has connected: V_8HtMV1SOuixlRjAAAp
+[2023-03-29 03:22:34] INFO: A user has disconnected: V_8HtMV1SOuixlRjAAAp
+[2023-03-29 03:22:35] INFO: A user has connected: _jqroT0yoWk3Dkl9AAAr
+[2023-03-29 03:38:03] INFO: A user has disconnected: _jqroT0yoWk3Dkl9AAAr
+[2023-03-29 03:38:04] INFO: A user has connected: orlmT6FV5wKBuOkKAAAt
+[2023-03-29 03:53:37] INFO: A user has disconnected: orlmT6FV5wKBuOkKAAAt
+[2023-03-29 03:53:38] INFO: A user has connected: pRUwgkBJMtzY8j4QAAAv
+[2023-03-29 04:11:40] INFO: A user has disconnected: pRUwgkBJMtzY8j4QAAAv
+[2023-03-29 04:11:41] INFO: A user has connected: rxJoLW6YkHARxHRbAAAx
+[2023-03-29 04:29:42] INFO: A user has disconnected: rxJoLW6YkHARxHRbAAAx
+[2023-03-29 04:29:43] INFO: A user has connected: fREuorTLBUX8gipNAAAz
+[2023-03-29 04:45:58] INFO: A user has disconnected: fREuorTLBUX8gipNAAAz
+[2023-03-29 04:45:59] INFO: A user has connected: EffhKiy3z7VW1S8IAAA1
+[2023-03-29 05:01:16] INFO: A user has disconnected: EffhKiy3z7VW1S8IAAA1
+[2023-03-29 05:01:17] INFO: A user has connected: 0O_22zOIZt5Uk3lRAAA3
+[2023-03-29 05:17:38] INFO: A user has disconnected: 0O_22zOIZt5Uk3lRAAA3
+[2023-03-29 05:17:39] INFO: A user has connected: LLTe3KnNW2NiRyxQAAA5
+[2023-03-29 05:24:02] INFO: A user has disconnected: LLTe3KnNW2NiRyxQAAA5
+[2023-03-29 05:24:03] INFO: A user has connected: OvgazhEOWSyHMPl_AAA7
+[2023-03-29 05:40:11] INFO: A user has disconnected: OvgazhEOWSyHMPl_AAA7
+[2023-03-29 05:40:12] INFO: A user has connected: iM6K9l7EgEMCU7b6AAA9
+[2023-03-29 05:55:49] INFO: A user has disconnected: iM6K9l7EgEMCU7b6AAA9
+[2023-03-29 05:55:50] INFO: A user has connected: Oh3xT2bS2FqYQNrDAAA_
+[2023-03-29 06:11:02] INFO: A user has disconnected: Oh3xT2bS2FqYQNrDAAA_
+[2023-03-29 06:11:03] INFO: A user has connected: uvIuMri3JudkYrRHAABB
+[2023-03-29 06:28:16] INFO: A user has disconnected: uvIuMri3JudkYrRHAABB
+[2023-03-29 06:28:17] INFO: A user has connected: bjeXHtLufA4pEeffAABD
+[2023-03-29 06:43:49] INFO: A user has disconnected: bjeXHtLufA4pEeffAABD
+[2023-03-29 06:43:50] INFO: A user has connected: XUA64DJbYXi-2TwTAABF
+[2023-03-29 06:59:37] INFO: A user has disconnected: XUA64DJbYXi-2TwTAABF
+[2023-03-29 06:59:38] INFO: A user has connected: uStFI7PVe_R1b4S3AABH
+[2023-03-29 07:15:08] INFO: A user has disconnected: uStFI7PVe_R1b4S3AABH
+[2023-03-29 07:15:09] INFO: A user has connected: fau6kew85zmkgQTeAABJ
+[2023-03-29 07:30:50] INFO: A user has disconnected: fau6kew85zmkgQTeAABJ
+[2023-03-29 07:30:51] INFO: A user has connected: TCxecP_Z5lEz_MJSAABL
+[2023-03-29 07:48:37] INFO: A user has disconnected: TCxecP_Z5lEz_MJSAABL
+[2023-03-29 07:48:39] INFO: A user has connected: ObsA8xY1WErBT75aAABN
+[2023-03-29 07:50:43] INFO: A user has disconnected: ObsA8xY1WErBT75aAABN
+[2023-03-29 07:50:44] INFO: A user has connected: pq-WLqATf76yhC6RAABP
+[2023-03-29 08:08:35] INFO: A user has disconnected: pq-WLqATf76yhC6RAABP
+[2023-03-29 08:08:36] INFO: A user has connected: f6RGH_f221_8A_t9AABR
+[2023-03-29 08:25:06] INFO: A user has disconnected: f6RGH_f221_8A_t9AABR
+[2023-03-29 08:25:06] INFO: A user has connected: keBx4Q6vOLRvpFh9AABT
+[2023-03-29 08:41:10] INFO: A user has disconnected: keBx4Q6vOLRvpFh9AABT
+[2023-03-29 08:41:10] INFO: A user has connected: 1f6APKWfoEeSpCcJAABV
+[2023-03-29 08:58:22] INFO: A user has disconnected: 1f6APKWfoEeSpCcJAABV
+[2023-03-29 08:58:23] INFO: A user has connected: iHofSmZw7vEB_tnNAABX
+[2023-03-29 09:15:09] INFO: A user has disconnected: iHofSmZw7vEB_tnNAABX
+[2023-03-29 09:15:10] INFO: A user has connected: 1OSC48DCQWOKNDrfAABZ
+[2023-03-29 09:17:51] INFO: A user has disconnected: 1OSC48DCQWOKNDrfAABZ
+[2023-03-29 09:17:53] INFO: A user has connected: Y93wLWun-TvaYnXLAABb
+[2023-03-29 09:17:56] INFO: A user has disconnected: A60ilfGHlve2W_XnAAAX
+[2023-03-29 09:17:56] INFO: A user has disconnected: djjJcxKmUxS4f-j_AAAT
+[2023-03-29 09:17:56] INFO: A user has connected: gIPq5EBZfF25gb97AABd
+[2023-03-29 09:17:56] INFO: A user has connected: xkc9ds12Eqsiaw4PAABf
+[2023-03-29 09:17:56] INFO: User rejoined: xkc9ds12Eqsiaw4PAABf | Name: Timo | Unique ID: ad67da121dc4d7c672a4037c3fba9872
+[2023-03-29 09:49:21] INFO: A user has disconnected: gIPq5EBZfF25gb97AABd
+[2023-03-29 09:49:21] INFO: A user has disconnected: xkc9ds12Eqsiaw4PAABf
+[2023-03-29 09:49:22] INFO: A user has connected: HP9aACDiKSByZF0rAABi
+[2023-03-29 09:49:22] INFO: A user has connected: -EVyQ7Ug6JuNcfpnAABj
+[2023-03-29 09:49:22] INFO: User rejoined: -EVyQ7Ug6JuNcfpnAABj | Name: Timo | Unique ID: ad67da121dc4d7c672a4037c3fba9872
+[2023-03-29 09:57:41] INFO: A user has disconnected: Y93wLWun-TvaYnXLAABb
+[2023-03-29 09:57:42] INFO: A user has connected: uPpIzcHIin4GK8XCAABl
+[2023-03-29 10:06:37] INFO: User rejoined: -EVyQ7Ug6JuNcfpnAABj | Name: Timo | Unique ID: ad67da121dc4d7c672a4037c3fba9872
+[2023-03-29 10:10:50] INFO: User rejoined: -EVyQ7Ug6JuNcfpnAABj | Name: Timo | Unique ID: ad67da121dc4d7c672a4037c3fba9872
+[2023-03-29 10:11:04] INFO: User rejoined: -EVyQ7Ug6JuNcfpnAABj | Name: Timo | Unique ID: ad67da121dc4d7c672a4037c3fba9872
+[2023-03-29 10:15:01] INFO: Server listening on port 3000
+[2023-03-29 10:15:01] INFO: A user has connected: MHJ7eSgdBi-PFkrgAAAB
+[2023-03-29 10:15:05] INFO: A user has connected: YtYOrYUDpjzTvqHRAAAD
+[2023-03-29 10:15:05] INFO: A user has connected: yOHiobaEWLobbjjXAAAF
+[2023-03-29 10:15:10] INFO: A user has disconnected: YtYOrYUDpjzTvqHRAAAD
+[2023-03-29 10:15:11] INFO: A user has connected: 8ydTbcdu8XIPr5hsAAAH
+[2023-03-29 10:15:12] INFO: A user has disconnected: yOHiobaEWLobbjjXAAAF
+[2023-03-29 10:15:12] INFO: A user has connected: VZSfRTbFoAw7-AaQAAAJ
+[2023-03-29 10:15:12] INFO: User tried to rejoin but is unknown: VZSfRTbFoAw7-AaQAAAJ | Unique ID: ad67da121dc4d7c672a4037c3fba9872
+[2023-03-29 10:15:15] INFO: Adding player: VZSfRTbFoAw7-AaQAAAJ | Name: Timo | Unique ID: cac9154a34ea5836854c5104f1e584ae
+[2023-03-29 10:15:15] INFO: User rejoined: VZSfRTbFoAw7-AaQAAAJ | Name: Timo | Unique ID: cac9154a34ea5836854c5104f1e584ae
+[2023-03-29 10:15:21] INFO: A user has connected: hcg6IOCtj0yM7DwHAAAL
+[2023-03-29 10:15:24] INFO: Adding player: hcg6IOCtj0yM7DwHAAAL | Name: Uwe | Unique ID: b55b60c88d0587faaa7aadbff40568c4
+[2023-03-29 10:15:24] INFO: User rejoined: hcg6IOCtj0yM7DwHAAAL | Name: Uwe | Unique ID: b55b60c88d0587faaa7aadbff40568c4
+[2023-03-29 10:17:11] INFO: User rejoined: hcg6IOCtj0yM7DwHAAAL | Name: Uwe | Unique ID: b55b60c88d0587faaa7aadbff40568c4
+[2023-03-29 10:17:11] INFO: User rejoined: VZSfRTbFoAw7-AaQAAAJ | Name: Timo | Unique ID: cac9154a34ea5836854c5104f1e584ae
+[2023-03-29 10:17:22] INFO: Server listening on port 3000
+[2023-03-29 10:17:23] INFO: A user has connected: azlKAHOWsBUV0QgFAAAB
+[2023-03-29 10:17:23] INFO: A user has connected: 3OL1AwFegtLsWKKCAAAD
+[2023-03-29 10:17:24] INFO: A user has connected: DH6Kqpd9FNTafZLDAAAF
+[2023-03-29 10:17:25] INFO: A user has disconnected: DH6Kqpd9FNTafZLDAAAF
+[2023-03-29 10:17:25] INFO: A user has connected: 2Y9vTVL51OvseSbYAAAH
+[2023-03-29 10:17:25] INFO: User tried to rejoin but is unknown: 2Y9vTVL51OvseSbYAAAH | Unique ID: b55b60c88d0587faaa7aadbff40568c4
+[2023-03-29 10:17:26] INFO: A user has connected: _ell4e7OVKof3MOLAAAJ
+[2023-03-29 10:17:29] INFO: Adding player: 2Y9vTVL51OvseSbYAAAH | Name: Uwe | Unique ID: fb99ce626c10cd8a55e9d4aaf96809ca
+[2023-03-29 10:17:29] INFO: User rejoined: 2Y9vTVL51OvseSbYAAAH | Name: Uwe | Unique ID: fb99ce626c10cd8a55e9d4aaf96809ca
+[2023-03-29 10:17:37] INFO: A user has disconnected: 3OL1AwFegtLsWKKCAAAD
+[2023-03-29 10:17:38] INFO: A user has connected: 2sAdxHorm9_glNJfAAAL
+[2023-03-29 10:17:40] INFO: A user has disconnected: azlKAHOWsBUV0QgFAAAB
+[2023-03-29 10:17:40] INFO: A user has connected: rUCxxtJgZiOFx5VrAAAN
+[2023-03-29 10:17:40] INFO: User tried to rejoin but is unknown: rUCxxtJgZiOFx5VrAAAN | Unique ID: cac9154a34ea5836854c5104f1e584ae
+[2023-03-29 10:17:43] INFO: Adding player: rUCxxtJgZiOFx5VrAAAN | Name: Timo | Unique ID: fdef47a2845212d73ff31f1a08bd2d22
+[2023-03-29 10:17:43] INFO: User rejoined: rUCxxtJgZiOFx5VrAAAN | Name: Timo | Unique ID: fdef47a2845212d73ff31f1a08bd2d22
+[2023-03-29 10:18:54] INFO: User rejoined: 2Y9vTVL51OvseSbYAAAH | Name: Uwe | Unique ID: fb99ce626c10cd8a55e9d4aaf96809ca
+[2023-03-29 10:18:54] INFO: User rejoined: rUCxxtJgZiOFx5VrAAAN | Name: Timo | Unique ID: fdef47a2845212d73ff31f1a08bd2d22
+[2023-03-29 10:24:56] INFO: Server listening on port 3000
+[2023-03-29 10:24:57] INFO: A user has connected: zr2CX3v0wht7VohFAAAB
+[2023-03-29 10:24:58] INFO: A user has connected: l1hYR9WxPzVcUr1xAAAD
+[2023-03-29 10:25:00] INFO: A user has connected: WRljk36lGIHGW7i3AAAF
+[2023-03-29 10:25:00] INFO: A user has connected: lfE7yIxuPETUtP8pAAAH
+[2023-03-29 10:25:01] INFO: A user has disconnected: lfE7yIxuPETUtP8pAAAH
+[2023-03-29 10:25:02] INFO: A user has connected: -NcT8VoHurWdJe7eAAAJ
+[2023-03-29 10:25:08] INFO: A user has disconnected: WRljk36lGIHGW7i3AAAF
+[2023-03-29 10:25:08] INFO: A user has connected: hxrvLcTQrE9B3hIxAAAL
+[2023-03-29 10:25:08] INFO: User tried to rejoin but is unknown: hxrvLcTQrE9B3hIxAAAL | Unique ID: fdef47a2845212d73ff31f1a08bd2d22
+[2023-03-29 10:25:11] INFO: Adding player: hxrvLcTQrE9B3hIxAAAL | Name: Timo | Unique ID: a885e55fe2131e501cd5d1d328615629
+[2023-03-29 10:25:11] INFO: User rejoined: hxrvLcTQrE9B3hIxAAAL | Name: Timo | Unique ID: a885e55fe2131e501cd5d1d328615629
+[2023-03-29 10:25:15] INFO: A user has disconnected: zr2CX3v0wht7VohFAAAB
+[2023-03-29 10:25:15] INFO: A user has connected: PRxZisOruvZPxpFPAAAN
+[2023-03-29 10:25:15] INFO: User tried to rejoin but is unknown: PRxZisOruvZPxpFPAAAN | Unique ID: fb99ce626c10cd8a55e9d4aaf96809ca
+[2023-03-29 10:25:19] INFO: Adding player: PRxZisOruvZPxpFPAAAN | Name: Timo | Unique ID: fa4e8e3bc057df799aeae5838706c6dc
+[2023-03-29 10:25:19] INFO: User rejoined: PRxZisOruvZPxpFPAAAN | Name: Timo | Unique ID: fa4e8e3bc057df799aeae5838706c6dc
+[2023-03-29 10:31:04] INFO: Server listening on port 3000
+[2023-03-29 10:31:05] INFO: A user has connected: xjccOqQdbVkTqgPDAAAB
+[2023-03-29 10:31:06] INFO: A user has connected: OwPpe0C8CLGKDvxdAAAD
+[2023-03-29 10:31:06] INFO: A user has connected: zGUQNHi5bpt_s5r9AAAF
+[2023-03-29 10:31:08] INFO: A user has connected: Cd15prqCbqWTGAVEAAAH
+[2023-03-29 10:31:12] INFO: A user has disconnected: OwPpe0C8CLGKDvxdAAAD
+[2023-03-29 10:31:12] INFO: A user has connected: zj9yUg2cPCjEDJ1IAAAJ
+[2023-03-29 10:31:12] INFO: User tried to rejoin but is unknown: zj9yUg2cPCjEDJ1IAAAJ | Unique ID: a885e55fe2131e501cd5d1d328615629
+[2023-03-29 10:31:16] INFO: Adding player: zj9yUg2cPCjEDJ1IAAAJ | Name: Main | Unique ID: 326368845415811669d216b0e0ce3a9d
+[2023-03-29 10:31:16] INFO: User rejoined: zj9yUg2cPCjEDJ1IAAAJ | Name: Main | Unique ID: 326368845415811669d216b0e0ce3a9d
+[2023-03-29 10:31:19] INFO: A user has disconnected: xjccOqQdbVkTqgPDAAAB
+[2023-03-29 10:31:19] INFO: A user has connected: AfRXvHbvu_kyTO15AAAL
+[2023-03-29 10:31:19] INFO: User tried to rejoin but is unknown: AfRXvHbvu_kyTO15AAAL | Unique ID: fa4e8e3bc057df799aeae5838706c6dc
+[2023-03-29 10:31:26] INFO: Adding player: AfRXvHbvu_kyTO15AAAL | Name: Inko | Unique ID: c27bc206144d819a98849a37c157ae41
+[2023-03-29 10:31:26] INFO: User rejoined: AfRXvHbvu_kyTO15AAAL | Name: Inko | Unique ID: c27bc206144d819a98849a37c157ae41
+[2023-03-29 10:43:36] INFO: User rejoined: AfRXvHbvu_kyTO15AAAL | Name: Inko | Unique ID: c27bc206144d819a98849a37c157ae41
+[2023-03-29 10:43:36] INFO: User rejoined: zj9yUg2cPCjEDJ1IAAAJ | Name: Main | Unique ID: 326368845415811669d216b0e0ce3a9d
+[2023-03-29 10:44:41] INFO: User rejoined: AfRXvHbvu_kyTO15AAAL | Name: Inko | Unique ID: c27bc206144d819a98849a37c157ae41
+[2023-03-29 10:44:41] INFO: User rejoined: zj9yUg2cPCjEDJ1IAAAJ | Name: Main | Unique ID: 326368845415811669d216b0e0ce3a9d
+[2023-03-29 10:45:00] INFO: User rejoined: AfRXvHbvu_kyTO15AAAL | Name: Inko | Unique ID: c27bc206144d819a98849a37c157ae41
+[2023-03-29 10:45:00] INFO: User rejoined: zj9yUg2cPCjEDJ1IAAAJ | Name: Main | Unique ID: 326368845415811669d216b0e0ce3a9d
+[2023-03-29 10:45:02] INFO: User rejoined: AfRXvHbvu_kyTO15AAAL | Name: Inko | Unique ID: c27bc206144d819a98849a37c157ae41
+[2023-03-29 10:45:02] INFO: User rejoined: zj9yUg2cPCjEDJ1IAAAJ | Name: Main | Unique ID: 326368845415811669d216b0e0ce3a9d
+[2023-03-29 10:47:02] INFO: User rejoined: AfRXvHbvu_kyTO15AAAL | Name: Inko | Unique ID: c27bc206144d819a98849a37c157ae41
+[2023-03-29 10:47:02] INFO: User rejoined: zj9yUg2cPCjEDJ1IAAAJ | Name: Main | Unique ID: 326368845415811669d216b0e0ce3a9d
+[2023-03-29 10:47:21] INFO: User rejoined: AfRXvHbvu_kyTO15AAAL | Name: Inko | Unique ID: c27bc206144d819a98849a37c157ae41
+[2023-03-29 10:47:21] INFO: User rejoined: zj9yUg2cPCjEDJ1IAAAJ | Name: Main | Unique ID: 326368845415811669d216b0e0ce3a9d
+[2023-03-29 10:53:06] INFO: User rejoined: AfRXvHbvu_kyTO15AAAL | Name: Inko | Unique ID: c27bc206144d819a98849a37c157ae41
+[2023-03-29 10:53:06] INFO: User rejoined: zj9yUg2cPCjEDJ1IAAAJ | Name: Main | Unique ID: 326368845415811669d216b0e0ce3a9d
+[2023-03-29 11:00:45] INFO: Server listening on port 3000
+[2023-03-29 11:00:45] INFO: A user has connected: KNIVNcikhlDsetjsAAAB
+[2023-03-29 11:00:46] INFO: A user has connected: 0QL7614R3LoYlbtnAAAD
+[2023-03-29 11:00:46] INFO: A user has connected: tbLGHEkMAmnObnwhAAAF
+[2023-03-29 11:00:47] INFO: A user has connected: 5lyUDWpWnLN0vGViAAAH
+[2023-03-29 11:00:51] INFO: A user has disconnected: tbLGHEkMAmnObnwhAAAF
+[2023-03-29 11:00:53] INFO: A user has disconnected: 0QL7614R3LoYlbtnAAAD
+[2023-03-29 11:00:53] INFO: A user has connected: icAdJNaRFShyH3e_AAAJ
+[2023-03-29 11:00:55] INFO: A user has disconnected: 5lyUDWpWnLN0vGViAAAH
+[2023-03-29 11:00:55] INFO: A user has connected: hppOCMn3-9ytsF96AAAL
+[2023-03-29 11:00:55] INFO: User tried to rejoin but is unknown: hppOCMn3-9ytsF96AAAL | Unique ID: 326368845415811669d216b0e0ce3a9d
+[2023-03-29 11:00:58] INFO: Adding player: hppOCMn3-9ytsF96AAAL | Name: Timo | Unique ID: 421ae7cc58f59ca2cb7478017b62e0bb
+[2023-03-29 11:00:58] INFO: User rejoined: hppOCMn3-9ytsF96AAAL | Name: Timo | Unique ID: 421ae7cc58f59ca2cb7478017b62e0bb
+[2023-03-29 11:04:31] INFO: Server listening on port 3000
+[2023-03-29 11:04:32] INFO: A user has connected: j7oH31u40HHidX7ZAAAB
+[2023-03-29 11:04:34] INFO: A user has connected: YZ_-lo_nvkAAT3-VAAAD
+[2023-03-29 11:04:36] INFO: A user has connected: bAsp-y_OMUo5HRKpAAAF
+[2023-03-29 11:04:44] INFO: A user has disconnected: bAsp-y_OMUo5HRKpAAAF
+[2023-03-29 11:04:44] INFO: A user has connected: GlUJZv_zMR_zTK8-AAAH
+[2023-03-29 11:04:46] INFO: A user has disconnected: YZ_-lo_nvkAAT3-VAAAD
+[2023-03-29 11:04:46] INFO: A user has connected: UlBCmR6YuH58OHEPAAAJ
+[2023-03-29 11:04:46] INFO: User tried to rejoin but is unknown: UlBCmR6YuH58OHEPAAAJ | Unique ID: 421ae7cc58f59ca2cb7478017b62e0bb
+[2023-03-29 11:04:48] INFO: Adding player: UlBCmR6YuH58OHEPAAAJ | Name: Timo | Unique ID: 0fd903f80c1511a0a46a84e226486aee
+[2023-03-29 11:04:48] INFO: User rejoined: UlBCmR6YuH58OHEPAAAJ | Name: Timo | Unique ID: 0fd903f80c1511a0a46a84e226486aee
+[2023-03-29 11:08:33] INFO: Server listening on port 3000
+[2023-03-29 11:08:33] INFO: A user has connected: zjJ1R5XpyWy9aP4bAAAB
+[2023-03-29 11:08:33] INFO: A user has connected: SEJ0kZt5YvhXUhLEAAAD
+[2023-03-29 11:08:35] INFO: A user has connected: vSjycwQnPmgRs9tEAAAF
+[2023-03-29 11:08:37] INFO: A user has disconnected: zjJ1R5XpyWy9aP4bAAAB
+[2023-03-29 11:08:37] INFO: A user has connected: B-ME56YBX8zPhct6AAAH
+[2023-03-29 11:08:39] INFO: A user has disconnected: vSjycwQnPmgRs9tEAAAF
+[2023-03-29 11:08:40] INFO: A user has connected: TVKzw0e34Tblerd1AAAJ
+[2023-03-29 11:08:40] INFO: User tried to rejoin but is unknown: TVKzw0e34Tblerd1AAAJ | Unique ID: 0fd903f80c1511a0a46a84e226486aee
+[2023-03-29 11:08:44] INFO: Adding player: TVKzw0e34Tblerd1AAAJ | Name: Timo | Unique ID: 28de6bf7a2452de955453e9581a0a647
+[2023-03-29 11:08:44] INFO: User rejoined: TVKzw0e34Tblerd1AAAJ | Name: Timo | Unique ID: 28de6bf7a2452de955453e9581a0a647
+[2023-03-29 11:09:11] INFO: A user has disconnected: B-ME56YBX8zPhct6AAAH
+[2023-03-29 11:09:11] INFO: A user has connected: YxQw4h-U9KxyfsR9AAAL
+[2023-03-29 11:09:26] INFO: Question completed: [IMG]https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Flag_of_Papua_New_Guinea.svg/1920px-Flag_of_Papua_New_Guinea.svg.png
+[2023-03-29 11:10:09] INFO: Question completed: [ENUM]Lily Aldrin|Marshall Eriksen|Ted Mosby|Barney Stinson
+[2023-03-29 11:10:12] INFO: Question completed: [IMG]https://de.wikipedia.org/wiki/Staatsflagge_Bayerns#/media/Datei:Flag_of_Bavaria_(lozengy).svg
+[2023-03-29 11:11:08] INFO: Server listening on port 3000
+[2023-03-29 11:11:08] INFO: A user has connected: C7XAxnOzAMXZMUGoAAAB
+[2023-03-29 11:11:08] INFO: A user has connected: ajJmY7vWLo-yNyLnAAAD
+[2023-03-29 11:11:09] INFO: A user has connected: qis0ts6QjC-jM9bwAAAF
+[2023-03-29 11:11:20] INFO: A user has disconnected: qis0ts6QjC-jM9bwAAAF
+[2023-03-29 11:11:20] INFO: A user has connected: LhLjV80yRNqE0bcEAAAH
+[2023-03-29 11:11:20] INFO: User tried to rejoin but is unknown: LhLjV80yRNqE0bcEAAAH | Unique ID: 28de6bf7a2452de955453e9581a0a647
+[2023-03-29 11:11:23] INFO: Adding player: LhLjV80yRNqE0bcEAAAH | Name: Timo | Unique ID: 6a4b2ed74b1e74eca0168073d79cb76b
+[2023-03-29 11:11:23] INFO: User rejoined: LhLjV80yRNqE0bcEAAAH | Name: Timo | Unique ID: 6a4b2ed74b1e74eca0168073d79cb76b
+[2023-03-29 11:11:25] INFO: A user has disconnected: ajJmY7vWLo-yNyLnAAAD
+[2023-03-29 11:11:25] INFO: A user has connected: 2qUnDCDQ-ceIZv7CAAAJ
+[2023-03-29 11:11:47] INFO: Question completed: Welche Technik nutzt reflektierende Marker oder Sensoren an Schauspielern, um Bewegungen für computergenerierte Charaktere und Effekte zu erfassen?
+[2023-03-29 11:14:50] INFO: Question completed: Wie heißt der flüchtige Speicher in einem Computer, der auch als Hauptspeicher bezeichnet wird (nicht die Abkürzung)?
+[2023-03-29 11:20:59] INFO: Server listening on port 3000
+[2023-03-29 11:21:00] INFO: A user has connected: ltvGncasqSx81Ky7AAAB
+[2023-03-29 11:21:04] INFO: A user has connected: 5cG_0Kr-z9ynPvMeAAAD
+[2023-03-29 11:21:06] INFO: A user has connected: M6OBdfkPIKOB9GPqAAAF
+[2023-03-29 11:21:46] INFO: A user has disconnected: 5cG_0Kr-z9ynPvMeAAAD
+[2023-03-29 11:21:47] INFO: A user has connected: zsDyGwvjxqsq2yA-AAAH
+[2023-03-29 11:21:55] INFO: A user has disconnected: M6OBdfkPIKOB9GPqAAAF
+[2023-03-29 11:21:55] INFO: A user has connected: 6Z-btSABHR9gec5eAAAJ
+[2023-03-29 11:21:55] INFO: User tried to rejoin but is unknown: 6Z-btSABHR9gec5eAAAJ | Unique ID: 6a4b2ed74b1e74eca0168073d79cb76b
+[2023-03-29 11:21:58] INFO: Adding player: 6Z-btSABHR9gec5eAAAJ | Name: Timo | Unique ID: 180762b5b25f75275e436afa942c3e50
+[2023-03-29 11:21:58] INFO: User rejoined: 6Z-btSABHR9gec5eAAAJ | Name: Timo | Unique ID: 180762b5b25f75275e436afa942c3e50
+[2023-03-29 11:22:13] INFO: Selecting random player's turn...
+[2023-03-29 11:22:16] INFO: Random player's turn selected: Timo
+[2023-03-29 11:22:28] INFO: Updated points for player Timo: 2000 (-> 2000)
+[2023-03-29 11:22:42] INFO: Question opened: [IMG]https://upload....}
+[2023-03-29 11:23:34] INFO: Question aborted: [IMG]https://upload....}
+[2023-03-29 11:23:38] INFO: Question opened: [IMG]https://upload....}
+[2023-03-29 11:23:44] INFO: Question completed: [IMG]https://upload....}
+[2023-03-29 11:23:50] INFO: Player buzzed: Timo
+[2023-03-29 11:23:58] INFO: Resetting buzzer
+[2023-03-29 11:24:17] INFO: Question opened: [ENUM]Lt. Dan Taylor...}
+[2023-03-29 11:24:20] INFO: Player buzzed: Timo
+[2023-03-29 11:24:22] INFO: Player answered incorrectly: Timo. Removed 200 points.
+[2023-03-29 11:28:45] INFO: User rejoined: 6Z-btSABHR9gec5eAAAJ | Name: Timo | Unique ID: 180762b5b25f75275e436afa942c3e50
+[2023-03-29 11:34:19] INFO: A user has disconnected: zsDyGwvjxqsq2yA-AAAH
+[2023-03-29 11:34:20] INFO: A user has connected: b75oMSBG24MJjRc3AAAL
+[2023-03-29 11:34:22] INFO: A user has disconnected: 6Z-btSABHR9gec5eAAAJ
+[2023-03-29 11:34:22] INFO: A user has connected: S1tQnWUmbWRLMzsBAAAN
+[2023-03-29 11:34:22] INFO: User rejoined: S1tQnWUmbWRLMzsBAAAN | Name: Timo | Unique ID: 180762b5b25f75275e436afa942c3e50
+[2023-03-29 11:34:54] INFO: Question aborted: [ENUM]Lt. Dan Taylor...}
+[2023-03-29 11:34:56] INFO: Question opened: Wie viele Sprachen w...}
+[2023-03-29 11:41:45] INFO: Server listening on port 3000
+[2023-03-29 11:41:46] INFO: A user has connected: _gHzSFAkgspJGMYuAAAB
+[2023-03-29 11:41:47] INFO: A user has connected: iVa0hWmjaaB2ENi_AAAD
+[2023-03-29 11:41:47] INFO: A user has connected: 8b6AhmMl9thUw05xAAAF
+[2023-03-29 11:42:15] INFO: A user has disconnected: iVa0hWmjaaB2ENi_AAAD
+[2023-03-29 11:42:15] INFO: A user has connected: 17EKwphksilmgTu8AAAH
+[2023-03-29 11:42:15] INFO: User tried to rejoin but is unknown: 17EKwphksilmgTu8AAAH | Unique ID: 180762b5b25f75275e436afa942c3e50
+[2023-03-29 11:42:19] INFO: Adding player: 17EKwphksilmgTu8AAAH | Name: Timo | Unique ID: 4a49c000e359ed43c90b3277d109b523
+[2023-03-29 11:42:19] INFO: User rejoined: 17EKwphksilmgTu8AAAH | Name: Timo | Unique ID: 4a49c000e359ed43c90b3277d109b523
+[2023-03-29 11:42:21] INFO: A user has disconnected: _gHzSFAkgspJGMYuAAAB
+[2023-03-29 11:42:21] INFO: A user has connected: lxLWCj6ScOqi0QYdAAAJ
+[2023-03-29 11:52:44] INFO: Player buzzed: Timo
+[2023-03-29 11:54:07] INFO: Resetting buzzer
+[2023-03-29 11:57:22] INFO: Player buzzed: Timo
+[2023-03-29 11:57:24] INFO: A user has disconnected: 17EKwphksilmgTu8AAAH
+[2023-03-29 11:57:25] INFO: A user has connected: alK4cdajbDJVIXO7AAAL
+[2023-03-29 11:57:25] INFO: User rejoined: alK4cdajbDJVIXO7AAAL | Name: Timo | Unique ID: 4a49c000e359ed43c90b3277d109b523
+[2023-03-29 11:57:29] INFO: Resetting buzzer
+[2023-03-29 11:59:18] INFO: A user has disconnected: alK4cdajbDJVIXO7AAAL
+[2023-03-29 11:59:18] INFO: A user has connected: pDW_UhqQtZS-0-2qAAAN
+[2023-03-29 11:59:18] INFO: User rejoined: pDW_UhqQtZS-0-2qAAAN | Name: Timo | Unique ID: 4a49c000e359ed43c90b3277d109b523
+[2023-03-29 11:59:41] INFO: A user has disconnected: lxLWCj6ScOqi0QYdAAAJ
+[2023-03-29 11:59:41] INFO: A user has connected: TbVPtZHMWU5FUtgaAAAP
+[2023-03-29 11:59:48] INFO: Server listening on port 3000
+[2023-03-29 11:59:48] INFO: A user has connected: L-WeSGYhyU6MiEPgAAAB
+[2023-03-29 11:59:48] INFO: A user has connected: TDejb1egULBZCJi4AAAD
+[2023-03-29 11:59:48] INFO: A user has connected: bklAh3-bUWKBPmLpAAAF
+[2023-03-29 12:00:25] INFO: A user has disconnected: L-WeSGYhyU6MiEPgAAAB
+[2023-03-29 12:00:25] INFO: A user has connected: 0943M8ftYZI939FiAAAH
+[2023-03-29 12:00:29] INFO: A user has disconnected: bklAh3-bUWKBPmLpAAAF
+[2023-03-29 12:00:29] INFO: A user has connected: 9IYHMD_rYD3rJXt_AAAJ
+[2023-03-29 12:00:29] INFO: User tried to rejoin but is unknown: 9IYHMD_rYD3rJXt_AAAJ | Unique ID: 4a49c000e359ed43c90b3277d109b523
+[2023-03-29 12:01:00] INFO: Adding player: 9IYHMD_rYD3rJXt_AAAJ | Name: Timo | Unique ID: 6eb3e1962d968b512d724048bf1c5ca2
+[2023-03-29 12:01:00] INFO: User rejoined: 9IYHMD_rYD3rJXt_AAAJ | Name: Timo | Unique ID: 6eb3e1962d968b512d724048bf1c5ca2
+[2023-03-29 12:01:02] INFO: Player buzzed: Timo
+[2023-03-29 12:01:06] INFO: Resetting buzzer
+[2023-03-29 12:01:09] INFO: Player buzzed: Timo
+[2023-03-29 12:01:14] INFO: Resetting buzzer
+[2023-03-29 12:01:16] INFO: Player buzzed: Timo
+[2023-03-29 12:01:20] INFO: A user has disconnected: 9IYHMD_rYD3rJXt_AAAJ
+[2023-03-29 12:01:20] INFO: A user has connected: 7zIMzxdKpmzC-7RUAAAL
+[2023-03-29 12:01:20] INFO: User rejoined: 7zIMzxdKpmzC-7RUAAAL | Name: Timo | Unique ID: 6eb3e1962d968b512d724048bf1c5ca2
+[2023-03-29 12:01:29] INFO: Resetting buzzer
+[2023-03-29 12:02:11] INFO: A user has disconnected: 7zIMzxdKpmzC-7RUAAAL
+[2023-03-29 12:02:11] INFO: A user has connected: 4OLuYa_RdtFgB1PUAAAN
+[2023-03-29 12:02:11] INFO: User rejoined: 4OLuYa_RdtFgB1PUAAAN | Name: Timo | Unique ID: 6eb3e1962d968b512d724048bf1c5ca2
+[2023-03-29 12:02:19] INFO: Server listening on port 3000
+[2023-03-29 12:02:20] INFO: A user has connected: akx1yNGAwUcMA4CUAAAB
+[2023-03-29 12:02:21] INFO: A user has connected: r0DLIWwYn27nAPO4AAAD
+[2023-03-29 12:02:21] INFO: A user has disconnected: akx1yNGAwUcMA4CUAAAB
+[2023-03-29 12:02:22] INFO: A user has connected: __E84ODmVsAzN4wWAAAF
+[2023-03-29 12:02:22] INFO: A user has connected: EzqviLNhQq_caGBpAAAH
+[2023-03-29 12:02:23] INFO: A user has disconnected: EzqviLNhQq_caGBpAAAH
+[2023-03-29 12:02:23] INFO: A user has connected: u-7Ch6jqDSJHTDdYAAAJ
+[2023-03-29 12:02:23] INFO: User tried to rejoin but is unknown: u-7Ch6jqDSJHTDdYAAAJ | Unique ID: 6eb3e1962d968b512d724048bf1c5ca2
+[2023-03-29 12:02:26] INFO: Adding player: u-7Ch6jqDSJHTDdYAAAJ | Name: Timo | Unique ID: d5a68566cd4b522a8284b0b6a78e656a
+[2023-03-29 12:02:26] INFO: User rejoined: u-7Ch6jqDSJHTDdYAAAJ | Name: Timo | Unique ID: d5a68566cd4b522a8284b0b6a78e656a
+[2023-03-29 12:02:29] INFO: Player buzzed: Timo
+[2023-03-29 12:02:45] INFO: Resetting buzzer
+[2023-03-29 12:02:46] INFO: Player buzzed: Timo
+[2023-03-29 12:02:51] INFO: Resetting buzzer
+[2023-03-29 12:02:52] INFO: Player buzzed: Timo
+[2023-03-29 12:03:18] INFO: Resetting buzzer
+[2023-03-29 12:03:46] INFO: Player buzzed: Timo
+[2023-03-29 12:05:18] INFO: Resetting buzzer
+[2023-03-29 12:05:20] INFO: Player buzzed: Timo
+[2023-03-29 12:07:58] INFO: Resetting buzzer
+[2023-03-29 12:08:06] INFO: Question opened: Bei wie vielen Grad Celsius liegt der ab...}
+[2023-03-29 12:08:10] INFO: Question aborted: Bei wie vielen Grad Celsius liegt der ab...}
+[2023-03-29 12:08:12] INFO: Question opened: Wie heißt der flüchtige Speicher in eine...}
+[2023-03-29 12:08:15] INFO: Question aborted: Wie heißt der flüchtige Speicher in eine...}
+[2023-03-29 12:08:16] INFO: Question opened: [IMG]https://de.wikipedia.org/wiki/Staat...}
+[2023-03-29 12:08:18] INFO: Question aborted: [IMG]https://de.wikipedia.org/wiki/Staat...}
+[2023-03-29 12:10:46] INFO: Question opened: Bei wie vielen Grad Celsius liegt der ab...}
+[2023-03-29 12:10:48] INFO: Question aborted: Bei wie vielen Grad Celsius liegt der ab...}
+[2023-03-29 12:10:49] INFO: Question opened: [IMG]https://de.wikipedia.org/wiki/Staat...}
+[2023-03-29 12:12:04] INFO: Server listening on port 3000
+[2023-03-29 12:12:05] INFO: A user has connected: TxLpxZHZLEoey119AAAB
+[2023-03-29 12:12:07] INFO: A user has connected: nG2gyPWwJVCkbD1EAAAD
+[2023-03-29 12:12:08] INFO: A user has connected: w3ql_EUlE9bfGI3CAAAF
+[2023-03-29 12:12:09] INFO: A user has disconnected: nG2gyPWwJVCkbD1EAAAD
+[2023-03-29 12:12:10] INFO: A user has connected: WrGZ76MDVxjduLZ0AAAH
+[2023-03-29 12:12:10] INFO: User tried to rejoin but is unknown: WrGZ76MDVxjduLZ0AAAH | Unique ID: d5a68566cd4b522a8284b0b6a78e656a
+[2023-03-29 12:12:13] INFO: Adding player: WrGZ76MDVxjduLZ0AAAH | Name: Timo | Unique ID: 0cdb02195bfc165f90391fb977c42174
+[2023-03-29 12:12:13] INFO: User rejoined: WrGZ76MDVxjduLZ0AAAH | Name: Timo | Unique ID: 0cdb02195bfc165f90391fb977c42174
+[2023-03-29 12:12:30] INFO: Question opened: https://de.wikipedia.org/wiki/Staatsflag...}
+[2023-03-29 12:22:38] INFO: Server listening on port 3000
+[2023-03-29 12:23:35] INFO: Server listening on port 3000
+[2023-03-29 12:24:10] INFO: Server listening on port 3000
+[2023-03-29 12:24:11] INFO: A user has connected: rIZ9CxA82pKzOAtKAAAB
+[2023-03-29 12:24:12] INFO: A user has connected: 8BetM7bpFrtwu97wAAAD
+[2023-03-29 12:24:12] INFO: User tried to rejoin but is unknown: 8BetM7bpFrtwu97wAAAD | Unique ID: 0cdb02195bfc165f90391fb977c42174
+[2023-03-29 12:24:13] INFO: A user has connected: i0vUZdhOfA7wZkBBAAAF
+[2023-03-29 12:24:15] INFO: A user has disconnected: 8BetM7bpFrtwu97wAAAD
+[2023-03-29 12:24:16] INFO: A user has connected: WW-UcuMnFnfeRsWqAAAH
+[2023-03-29 12:24:18] INFO: Adding player: WW-UcuMnFnfeRsWqAAAH | Name: Timo | Unique ID: db96d3923cb53b6c774b12c286336219
+[2023-03-29 12:24:18] INFO: User rejoined: WW-UcuMnFnfeRsWqAAAH | Name: Timo | Unique ID: db96d3923cb53b6c774b12c286336219
+[2023-03-29 12:24:21] INFO: Question opened: Wie viele Liter Bier werden in Deutschla...}
+[2023-03-29 12:24:23] INFO: Question aborted: Wie viele Liter Bier werden in Deutschla...}
+[2023-03-29 12:24:26] INFO: Question opened: /flag1.png...}
+[2023-03-29 12:27:02] INFO: A user has disconnected: rIZ9CxA82pKzOAtKAAAB
+[2023-03-29 12:27:03] INFO: A user has disconnected: WW-UcuMnFnfeRsWqAAAH
+[2023-03-29 12:27:03] INFO: A user has connected: Ey6lZLVymTHJr7E3AAAJ
+[2023-03-29 12:27:03] INFO: A user has connected: 6dohyNVv_aVRS9_6AAAM
+[2023-03-29 12:27:03] INFO: A user has connected: ibpaSffnYQJtUI8DAAAN
+[2023-03-29 12:27:03] INFO: User rejoined: ibpaSffnYQJtUI8DAAAN | Name: Timo | Unique ID: db96d3923cb53b6c774b12c286336219
+[2023-03-29 12:27:40] INFO: A user has disconnected: ibpaSffnYQJtUI8DAAAN
+[2023-03-29 12:27:40] INFO: A user has disconnected: 6dohyNVv_aVRS9_6AAAM
+[2023-03-29 12:27:40] INFO: A user has connected: dq8CkjcZNoAW04EiAAAP
+[2023-03-29 12:27:40] INFO: A user has connected: kkn6t6IxUNqHRhHLAAAR
+[2023-03-29 12:27:40] INFO: A user has connected: 7TAlFTO23QtXzn1tAAAT
+[2023-03-29 12:27:40] INFO: User rejoined: 7TAlFTO23QtXzn1tAAAT | Name: Timo | Unique ID: db96d3923cb53b6c774b12c286336219
+[2023-03-29 12:29:15] INFO: A user has disconnected: 7TAlFTO23QtXzn1tAAAT
+[2023-03-29 12:29:15] INFO: A user has disconnected: kkn6t6IxUNqHRhHLAAAR
+[2023-03-29 12:29:15] INFO: A user has connected: RDzT78p3Gudp3TnrAAAV
+[2023-03-29 12:29:15] INFO: A user has connected: gOBV6oAT5mUyIhCIAAAY
+[2023-03-29 12:29:15] INFO: A user has connected: D-a4KmBcwdCUOZLaAAAZ
+[2023-03-29 12:29:15] INFO: User rejoined: D-a4KmBcwdCUOZLaAAAZ | Name: Timo | Unique ID: db96d3923cb53b6c774b12c286336219
+[2023-03-29 12:32:08] INFO: A user has disconnected: D-a4KmBcwdCUOZLaAAAZ
+[2023-03-29 12:32:08] INFO: A user has connected: 2USJO2ISenfFTfXWAAAb
+[2023-03-29 12:32:08] INFO: User rejoined: 2USJO2ISenfFTfXWAAAb | Name: Timo | Unique ID: db96d3923cb53b6c774b12c286336219
+[2023-03-29 12:32:13] INFO: Question aborted: /flag1.png...}
+[2023-03-29 12:32:15] INFO: Question opened: Wie viele Liter Bier werden in Deutschla...}
+[2023-03-29 12:32:18] INFO: Question aborted: Wie viele Liter Bier werden in Deutschla...}
+[2023-03-29 12:32:19] INFO: Question opened: /flag1.png...}
+[2023-03-29 12:32:21] INFO: Question aborted: /flag1.png...}
+[2023-03-29 12:32:54] INFO: Question opened: /flag1.png...}
+[2023-03-29 12:36:05] INFO: A user has disconnected: gOBV6oAT5mUyIhCIAAAY
+[2023-03-29 12:36:05] INFO: A user has connected: lbNpNO5Zl4tACuOoAAAd
+[2023-03-29 12:36:06] INFO: A user has disconnected: 2USJO2ISenfFTfXWAAAb
+[2023-03-29 12:36:06] INFO: A user has connected: dQDRBVy2NCSnepRrAAAf
+[2023-03-29 12:36:06] INFO: A user has connected: 4Bx-hU5T3SuAlAIMAAAh
+[2023-03-29 12:36:06] INFO: User rejoined: 4Bx-hU5T3SuAlAIMAAAh | Name: Timo | Unique ID: db96d3923cb53b6c774b12c286336219
+[2023-03-29 12:37:59] INFO: Server listening on port 3000
+[2023-03-29 12:38:00] INFO: A user has connected: PeEca4wBY3p622aZAAAB
+[2023-03-29 12:38:00] INFO: A user has connected: D2EceUtWyMTNNypFAAAD
+[2023-03-29 12:38:01] INFO: A user has connected: 7iU7sjFJZ17AQbvrAAAF
+[2023-03-29 12:38:01] INFO: A user has connected: mxrzvG83iC4J3HJ1AAAH
+[2023-03-29 12:38:02] INFO: A user has connected: nMu5WG_X45z9hgK5AAAJ
+[2023-03-29 12:38:02] INFO: A user has connected: kyczLFctJUxrpVssAAAL
+[2023-03-29 12:38:03] INFO: A user has disconnected: mxrzvG83iC4J3HJ1AAAH
+[2023-03-29 12:38:03] INFO: A user has connected: LZwG78SKXWuSha5cAAAN
+[2023-03-29 12:38:04] INFO: A user has disconnected: kyczLFctJUxrpVssAAAL
+[2023-03-29 12:38:04] INFO: A user has connected: ce8DhEkldXB5r2fdAAAP
+[2023-03-29 12:38:04] INFO: A user has connected: EfMcHNmortsex06hAAAR
+[2023-03-29 12:38:04] INFO: User tried to rejoin but is unknown: EfMcHNmortsex06hAAAR | Unique ID: db96d3923cb53b6c774b12c286336219
+[2023-03-29 12:38:07] INFO: Adding player: EfMcHNmortsex06hAAAR | Name: Timo | Unique ID: c329c4b70235567b26b1f69f24d9e8d3
+[2023-03-29 12:38:07] INFO: User rejoined: EfMcHNmortsex06hAAAR | Name: Timo | Unique ID: c329c4b70235567b26b1f69f24d9e8d3
+[2023-03-29 12:38:13] INFO: Question opened: Wie viele Liter Bier werden in Deutschla...}
+[2023-03-29 12:38:23] INFO: Question aborted: Wie viele Liter Bier werden in Deutschla...}
+[2023-03-29 12:38:24] INFO: Question opened: Gustavo Fring|Saul Goodman|Jesse Pinkman...}
+[2023-03-29 12:38:28] INFO: Question aborted: Gustavo Fring|Saul Goodman|Jesse Pinkman...}
+[2023-03-29 12:38:29] INFO: Question opened: Wie heißt die Display-Technologie, welch...}
+[2023-03-29 12:38:49] INFO: Question aborted: Wie heißt die Display-Technologie, welch...}
+[2023-03-29 12:39:06] INFO: Question opened: /flag1.png...}
+[2023-03-29 12:39:08] INFO: Question aborted: /flag1.png...}
+[2023-03-29 12:39:09] INFO: Question opened: /flag2.png...}
+[2023-03-29 12:39:11] INFO: Question aborted: /flag2.png...}
+[2023-03-29 12:39:12] INFO: Question opened: /flag3.png...}
+[2023-03-29 12:39:14] INFO: Question aborted: /flag3.png...}
+[2023-03-29 12:39:14] INFO: Question opened: /flag4.png...}
+[2023-03-29 12:39:16] INFO: Question aborted: /flag4.png...}
+[2023-03-29 12:39:19] INFO: Question opened: /flag5.png...}
+[2023-03-29 12:39:24] INFO: Question aborted: /flag5.png...}
+[2023-03-29 12:39:26] INFO: Question opened: Wofür steht die Abkürzung NATO?...}
+[2023-03-29 12:39:28] INFO: Question aborted: Wofür steht die Abkürzung NATO?...}
+[2023-03-29 12:39:53] INFO: Question opened: Wie viele Liter Bier werden in Deutschla...}
+[2023-03-29 12:39:57] INFO: Question aborted: Wie viele Liter Bier werden in Deutschla...}
+[2023-03-29 12:40:16] INFO: Question opened: Wie viele Liter Bier werden in Deutschla...}
+[2023-03-29 12:40:19] INFO: Question aborted: Wie viele Liter Bier werden in Deutschla...}
+[2023-03-29 12:40:30] INFO: Question opened: Wie viele Liter Bier werden in Deutschla...}
+[2023-03-29 12:40:40] INFO: Question aborted: Wie viele Liter Bier werden in Deutschla...}
+[2023-03-29 12:41:05] INFO: Question opened: Bei wie vielen Grad Celsius liegt der ab...}
+[2023-03-29 12:50:15] INFO: A user has disconnected: EfMcHNmortsex06hAAAR
+[2023-03-29 12:50:15] INFO: A user has disconnected: LZwG78SKXWuSha5cAAAN
+[2023-03-29 12:50:16] INFO: A user has connected: ODaP9x-LGE_65ebTAAAT
+[2023-03-29 12:50:16] INFO: A user has connected: FG55tChkRfbMmCdXAAAV
+[2023-03-29 12:50:16] INFO: User rejoined: FG55tChkRfbMmCdXAAAV | Name: Timo | Unique ID: c329c4b70235567b26b1f69f24d9e8d3
+[2023-03-29 12:57:50] INFO: A user has disconnected: PeEca4wBY3p622aZAAAB
+[2023-03-29 12:57:50] INFO: A user has disconnected: D2EceUtWyMTNNypFAAAD
+[2023-03-29 12:57:50] INFO: A user has disconnected: 7iU7sjFJZ17AQbvrAAAF
+[2023-03-29 12:57:50] INFO: A user has disconnected: nMu5WG_X45z9hgK5AAAJ
+[2023-03-29 12:57:50] INFO: A user has disconnected: ce8DhEkldXB5r2fdAAAP
+[2023-03-29 12:57:50] INFO: A user has disconnected: ODaP9x-LGE_65ebTAAAT
+[2023-03-29 12:57:50] INFO: A user has disconnected: FG55tChkRfbMmCdXAAAV
+[2023-03-29 12:57:51] INFO: A user has connected: qKAWguaxfTumv4E_AAAX
+[2023-03-29 12:57:51] INFO: A user has connected: cFQtbZpFRFhDTJVDAAAZ
+[2023-03-29 12:57:51] INFO: A user has connected: poBheBn2_eeRGAJMAAAb
+[2023-03-29 12:57:51] INFO: A user has connected: Hm0cLyb9DKOfmir-AAAd
+[2023-03-29 12:57:51] INFO: A user has connected: hH_vQLrGHg32dOfiAAAf
+[2023-03-29 12:57:51] INFO: A user has connected: Bdbr66tsgMxe35vIAAAh
+[2023-03-29 12:57:52] INFO: A user has connected: ueLLxTeRrGU8g_HqAAAj
+[2023-03-29 13:14:28] INFO: A user has disconnected: qKAWguaxfTumv4E_AAAX
+[2023-03-29 13:14:28] INFO: A user has disconnected: cFQtbZpFRFhDTJVDAAAZ
+[2023-03-29 13:14:28] INFO: A user has disconnected: Hm0cLyb9DKOfmir-AAAd
+[2023-03-29 13:14:28] INFO: A user has disconnected: hH_vQLrGHg32dOfiAAAf
+[2023-03-29 13:14:28] INFO: A user has disconnected: Bdbr66tsgMxe35vIAAAh
+[2023-03-29 13:14:29] INFO: A user has connected: P2MvN_Ve_3-acG-yAAAl
+[2023-03-29 13:14:29] INFO: A user has connected: 3ivw0MDd37aPawreAAAn
+[2023-03-29 13:14:29] INFO: A user has connected: ydPj0ICnsQoAvXc0AAAp
+[2023-03-29 13:14:30] INFO: A user has connected: jPEujCqBqgUSWQRaAAAr
+[2023-03-29 13:14:30] INFO: A user has connected: 41b1h1OKxQuZX2guAAAt
+[2023-03-29 13:31:08] INFO: A user has disconnected: P2MvN_Ve_3-acG-yAAAl
+[2023-03-29 13:31:08] INFO: A user has disconnected: jPEujCqBqgUSWQRaAAAr
+[2023-03-29 13:31:08] INFO: A user has disconnected: ydPj0ICnsQoAvXc0AAAp
+[2023-03-29 13:31:08] INFO: A user has disconnected: 3ivw0MDd37aPawreAAAn
+[2023-03-29 13:31:08] INFO: A user has disconnected: 41b1h1OKxQuZX2guAAAt
+[2023-03-29 13:31:09] INFO: A user has connected: 1hNkUg-dRbndVh03AAAv
+[2023-03-29 13:31:09] INFO: A user has connected: NZOoLWY4Q5SqZ_cnAAAx
+[2023-03-29 13:31:09] INFO: A user has connected: MjqzafA_rPk7F0KaAAAz
+[2023-03-29 13:31:09] INFO: A user has connected: q4NaFrDwIgmy06BNAAA1
+[2023-03-29 13:31:09] INFO: A user has connected: xR_gEAvzvMHdC1BjAAA3
+[2023-03-29 13:37:02] INFO: A user has disconnected: 1hNkUg-dRbndVh03AAAv
+[2023-03-29 13:37:02] INFO: A user has disconnected: xR_gEAvzvMHdC1BjAAA3
+[2023-03-29 13:37:02] INFO: A user has disconnected: q4NaFrDwIgmy06BNAAA1
+[2023-03-29 13:37:02] INFO: A user has disconnected: MjqzafA_rPk7F0KaAAAz
+[2023-03-29 13:37:02] INFO: A user has disconnected: NZOoLWY4Q5SqZ_cnAAAx
+[2023-03-29 13:37:03] INFO: A user has connected: IThek_DLsts_qOuiAAA5
+[2023-03-29 13:37:03] INFO: A user has connected: xe3rLx58LUyq56nnAAA7
+[2023-03-29 13:37:03] INFO: A user has connected: 74CFNz2bIidY2f18AAA9
+[2023-03-29 13:37:03] INFO: A user has connected: m2DU6hTJvE1oJpTCAAA_
+[2023-03-29 13:37:04] INFO: A user has connected: P3LVdUewGokiRf75AABB
+[2023-03-29 13:54:41] INFO: A user has disconnected: IThek_DLsts_qOuiAAA5
+[2023-03-29 13:54:41] INFO: A user has disconnected: P3LVdUewGokiRf75AABB
+[2023-03-29 13:54:41] INFO: A user has disconnected: m2DU6hTJvE1oJpTCAAA_
+[2023-03-29 13:54:41] INFO: A user has disconnected: 74CFNz2bIidY2f18AAA9
+[2023-03-29 13:54:41] INFO: A user has disconnected: xe3rLx58LUyq56nnAAA7
+[2023-03-29 13:54:41] INFO: A user has connected: tMhcipACNhohoAmjAABF
+[2023-03-29 13:54:41] INFO: A user has connected: w6cdR2eRny3iI7VLAABG
+[2023-03-29 13:54:41] INFO: A user has connected: x-Xf37mExzBSpIuzAABH
+[2023-03-29 13:54:42] INFO: A user has connected: wdGTaZRtWI7GpMBMAABJ
+[2023-03-29 13:54:42] INFO: A user has connected: qjzpGHpDMYz-nd0NAABL
+[2023-03-29 13:55:36] INFO: A user has disconnected: tMhcipACNhohoAmjAABF
+[2023-03-29 13:55:36] INFO: A user has disconnected: w6cdR2eRny3iI7VLAABG
+[2023-03-29 13:55:36] INFO: A user has disconnected: x-Xf37mExzBSpIuzAABH
+[2023-03-29 13:55:36] INFO: A user has disconnected: wdGTaZRtWI7GpMBMAABJ
+[2023-03-29 13:55:36] INFO: A user has disconnected: qjzpGHpDMYz-nd0NAABL
+[2023-03-29 13:55:37] INFO: A user has connected: ZDy2Q31Qxe0MlofAAABN
+[2023-03-29 13:55:37] INFO: A user has connected: SARQsXonSbitu3FsAABP
+[2023-03-29 13:55:37] INFO: A user has connected: HlMNgwkwdPIe-JhgAABR
+[2023-03-29 13:55:38] INFO: A user has connected: PQkWas7ghimovW1SAABT
+[2023-03-29 13:55:38] INFO: A user has connected: 1cdT7oUIFdoGkgU6AABV
+[2023-03-29 14:02:34] INFO: User rejoined: ueLLxTeRrGU8g_HqAAAj | Name: Timo | Unique ID: c329c4b70235567b26b1f69f24d9e8d3
+[2023-03-29 14:02:41] INFO: Question aborted: Bei wie vielen Grad Celsius liegt der ab...}
+[2023-03-29 14:06:10] INFO: A user has disconnected: ueLLxTeRrGU8g_HqAAAj
+[2023-03-29 14:06:10] INFO: A user has connected: lcF3hxpwh8oF8jgDAABX
+[2023-03-29 14:06:10] INFO: User rejoined: lcF3hxpwh8oF8jgDAABX | Name: Timo | Unique ID: c329c4b70235567b26b1f69f24d9e8d3
+[2023-03-29 14:06:29] INFO: Server listening on port 3000
+[2023-03-29 14:06:29] INFO: A user has connected: 2loySn0H95RAccVNAAAB
+[2023-03-29 14:06:30] INFO: A user has connected: 7ZX6JQm5DW4o6SzCAAAD
+[2023-03-29 14:06:31] INFO: A user has connected: S9WCMwU0u3yxQgCoAAAF
+[2023-03-29 14:06:31] INFO: A user has connected: 8m23xFmXuTYvl-8mAAAH
+[2023-03-29 14:06:31] INFO: A user has connected: SDkkc0utPt72u4I6AAAJ
+[2023-03-29 14:06:34] INFO: A user has connected: kD22YsaOFhb1HG7-AAAL
+[2023-03-29 14:06:34] INFO: A user has connected: un7i-8NbSfdaDDxRAAAN
+[2023-03-29 14:06:50] INFO: A user has disconnected: SDkkc0utPt72u4I6AAAJ
+[2023-03-29 14:06:50] INFO: A user has connected: 729MN7x4tg3H-B2VAAAP
+[2023-03-29 14:06:50] INFO: User tried to rejoin but is unknown: 729MN7x4tg3H-B2VAAAP | Unique ID: c329c4b70235567b26b1f69f24d9e8d3
+[2023-03-29 14:06:53] INFO: Adding player: 729MN7x4tg3H-B2VAAAP | Name: Timo | Unique ID: 40f0406363a4e5dc5b4546e4768054b5
+[2023-03-29 14:06:53] INFO: User rejoined: 729MN7x4tg3H-B2VAAAP | Name: Timo | Unique ID: 40f0406363a4e5dc5b4546e4768054b5
+[2023-03-29 14:06:56] INFO: A user has disconnected: 2loySn0H95RAccVNAAAB
+[2023-03-29 14:06:56] INFO: A user has connected: d1zTOGuVQ7GEcIqgAAAR
+[2023-03-29 14:06:59] INFO: Player buzzed: Timo
+[2023-03-29 14:07:03] INFO: Resetting buzzer
+[2023-03-29 14:07:06] INFO: Question opened: Wie heißt der flüchtige Speicher in eine...}
+[2023-03-29 14:07:09] INFO: Player buzzed: Timo
+[2023-03-29 14:07:20] INFO: Player answered incorrectly: Timo. Removed 200 points (-> -200).
+[2023-03-29 14:07:22] INFO: Player buzzed: Timo
+[2023-03-29 14:08:04] INFO: Resetting buzzer
+[2023-03-29 14:08:07] INFO: Question completed: Wie heißt der flüchtige Speicher in eine...}
+[2023-03-29 14:08:09] INFO: Question opened: Wofür steht die Abkürzung NATO?...}
+[2023-03-29 14:08:12] INFO: Question aborted: Wofür steht die Abkürzung NATO?...}
+[2023-03-29 14:08:13] INFO: Question opened: /flag2.png...}
+[2023-03-29 14:08:18] INFO: Player buzzed: Timo
+[2023-03-29 14:08:30] INFO: Player answered incorrectly: Timo. Removed 150 points (-> -350).
+[2023-03-29 14:10:49] INFO: A user has disconnected: 729MN7x4tg3H-B2VAAAP
+[2023-03-29 14:10:49] INFO: A user has connected: p5b3uAbCIFEWvtnPAAAT
+[2023-03-29 14:10:49] INFO: User rejoined: p5b3uAbCIFEWvtnPAAAT | Name: Timo | Unique ID: 40f0406363a4e5dc5b4546e4768054b5
+[2023-03-29 14:11:09] INFO: Removed player: Timo
+[2023-03-29 14:11:15] INFO: A user has disconnected: p5b3uAbCIFEWvtnPAAAT
+[2023-03-29 14:11:15] INFO: A user has connected: 6VH7xjiQ9WsAl09AAAAV
+[2023-03-29 14:11:15] INFO: User tried to rejoin but is unknown: 6VH7xjiQ9WsAl09AAAAV | Unique ID: 40f0406363a4e5dc5b4546e4768054b5
+[2023-03-29 14:20:37] INFO: A user has disconnected: d1zTOGuVQ7GEcIqgAAAR
+[2023-03-29 14:20:37] INFO: A user has disconnected: 6VH7xjiQ9WsAl09AAAAV
+[2023-03-29 14:20:38] INFO: A user has connected: QV-Vb5muy1LK4wIsAAAX
+[2023-03-29 14:20:38] INFO: A user has connected: w7TAOF3sFxjjVyWwAAAZ
+[2023-03-29 14:20:52] INFO: A user has disconnected: w7TAOF3sFxjjVyWwAAAZ
+[2023-03-29 14:20:52] INFO: A user has disconnected: QV-Vb5muy1LK4wIsAAAX
+[2023-03-29 14:20:52] INFO: A user has connected: ygvXhZdtSpB4Oo8JAAAb
+[2023-03-29 14:20:52] INFO: A user has connected: cJROnDfecpc8f-X3AAAd
+[2023-03-29 14:25:04] INFO: Adding player: ygvXhZdtSpB4Oo8JAAAb | Name: Timo | Unique ID: 17e4fdcac2a6bd4210c9912f093db2ee
+[2023-03-29 14:25:04] INFO: User rejoined: ygvXhZdtSpB4Oo8JAAAb | Name: Timo | Unique ID: 17e4fdcac2a6bd4210c9912f093db2ee
+[2023-03-29 14:27:51] INFO: Question aborted: /flag2.png...}
+[2023-03-29 14:36:42] INFO: A user has disconnected: cJROnDfecpc8f-X3AAAd
+[2023-03-29 14:36:42] INFO: A user has disconnected: ygvXhZdtSpB4Oo8JAAAb
+[2023-03-29 14:36:42] INFO: A user has connected: fOSopZqgCoP9DHPjAAAf
+[2023-03-29 14:36:42] INFO: A user has connected: Ms-jgWYwdrqOv3NGAAAh
+[2023-03-29 14:36:42] INFO: User rejoined: Ms-jgWYwdrqOv3NGAAAh | Name: Timo | Unique ID: 17e4fdcac2a6bd4210c9912f093db2ee
+[2023-03-29 14:36:48] INFO: Removed player: Timo
+[2023-03-29 14:36:51] INFO: A user has disconnected: Ms-jgWYwdrqOv3NGAAAh
+[2023-03-29 14:36:51] INFO: A user has connected: iNQdfqmgCLjWzapZAAAj
+[2023-03-29 14:36:51] INFO: User tried to rejoin but is unknown: iNQdfqmgCLjWzapZAAAj | Unique ID: 17e4fdcac2a6bd4210c9912f093db2ee
+[2023-03-29 14:37:14] INFO: A user has disconnected: iNQdfqmgCLjWzapZAAAj
+[2023-03-29 14:40:56] INFO: A user has disconnected: fOSopZqgCoP9DHPjAAAf
+[2023-03-29 14:40:56] INFO: A user has connected: 7keuJIwxzM4JNOc2AAAl
+[2023-03-29 14:47:03] INFO: A user has connected: zKY4N67h5yARnwU5AAAn
+[2023-03-29 14:47:08] INFO: A user has disconnected: zKY4N67h5yARnwU5AAAn
+[2023-03-29 14:47:08] INFO: A user has connected: k7gYVJWw5OJnlTSUAAAp
+[2023-03-29 14:55:32] INFO: A user has disconnected: 7keuJIwxzM4JNOc2AAAl
+[2023-03-29 14:55:32] INFO: A user has disconnected: k7gYVJWw5OJnlTSUAAAp
+[2023-03-29 14:55:33] INFO: A user has connected: n0aOHrIMeVymQ5uoAAAr
+[2023-03-29 14:55:56] INFO: A user has disconnected: n0aOHrIMeVymQ5uoAAAr
+[2023-03-29 14:55:56] INFO: A user has connected: r793uH36-RINARs0AAAt
+[2023-03-29 14:56:01] INFO: A user has disconnected: r793uH36-RINARs0AAAt
+[2023-03-29 14:56:02] INFO: A user has connected: JKcOxVPl-7gwQtzwAAAv
+[2023-03-29 14:56:10] INFO: A user has connected: B92OI3yk_mMYFduiAAAx
+[2023-03-29 15:13:30] INFO: A user has disconnected: JKcOxVPl-7gwQtzwAAAv
+[2023-03-29 15:13:30] INFO: A user has disconnected: B92OI3yk_mMYFduiAAAx
+[2023-03-29 15:13:30] INFO: A user has connected: F4s4n3DhHzo5XXKlAAAz
+[2023-03-29 15:13:30] INFO: A user has connected: DeKgi5FVyqMUlUT2AAA1
+[2023-03-29 15:13:35] INFO: A user has disconnected: F4s4n3DhHzo5XXKlAAAz
+[2023-03-29 15:13:35] INFO: A user has disconnected: DeKgi5FVyqMUlUT2AAA1
+[2023-03-29 15:13:35] INFO: A user has connected: yKJzS7xVYYxNNA_mAAA3
+[2023-03-29 15:13:35] INFO: A user has connected: OmdEvxKydXe0L5Z3AAA5
+[2023-03-29 15:13:39] INFO: A user has disconnected: yKJzS7xVYYxNNA_mAAA3
+[2023-03-29 15:13:39] INFO: A user has connected: vK2HVht7N9qBOfpXAAA7
+[2023-03-29 15:13:44] INFO: Adding player: vK2HVht7N9qBOfpXAAA7 | Name: Timo | Unique ID: 92aba60ce360014c9a5826953394d22e
+[2023-03-29 15:13:44] INFO: User rejoined: vK2HVht7N9qBOfpXAAA7 | Name: Timo | Unique ID: 92aba60ce360014c9a5826953394d22e
+[2023-03-29 15:15:47] INFO: A user has disconnected: vK2HVht7N9qBOfpXAAA7
+[2023-03-29 15:15:47] INFO: A user has disconnected: OmdEvxKydXe0L5Z3AAA5
+[2023-03-29 15:15:47] INFO: A user has connected: Q-uiUBkKtUtWymgfAAA9
+[2023-03-29 15:15:47] INFO: User rejoined: Q-uiUBkKtUtWymgfAAA9 | Name: Timo | Unique ID: 92aba60ce360014c9a5826953394d22e
+[2023-03-29 15:15:47] INFO: A user has connected: XUUOpyXAZYFz-gepAAA_
+[2023-03-29 15:15:55] INFO: A user has disconnected: Q-uiUBkKtUtWymgfAAA9
+[2023-03-29 15:15:55] INFO: A user has connected: jXbLBWO6UU32P222AABB
+[2023-03-29 15:15:55] INFO: User rejoined: jXbLBWO6UU32P222AABB | Name: Timo | Unique ID: 92aba60ce360014c9a5826953394d22e
+[2023-03-29 15:16:20] INFO: A user has disconnected: jXbLBWO6UU32P222AABB
+[2023-03-29 15:16:20] INFO: A user has disconnected: XUUOpyXAZYFz-gepAAA_
+[2023-03-29 15:16:20] INFO: A user has connected: uqd7ZeW93lAbHGDFAABD
+[2023-03-29 15:16:20] INFO: User rejoined: uqd7ZeW93lAbHGDFAABD | Name: Timo | Unique ID: 92aba60ce360014c9a5826953394d22e
+[2023-03-29 15:16:20] INFO: A user has connected: 7IaK_FB_oYvqqUSZAABF
+[2023-03-29 15:17:23] INFO: A user has disconnected: uqd7ZeW93lAbHGDFAABD
+[2023-03-29 15:17:23] INFO: A user has connected: wNjCsYYSfcWxxgWXAABH
+[2023-03-29 15:17:26] INFO: A user has disconnected: wNjCsYYSfcWxxgWXAABH
+[2023-03-29 15:17:28] INFO: A user has connected: ndCitnpoFbfQsVxyAABJ
+[2023-03-29 15:18:24] INFO: Adding player: ndCitnpoFbfQsVxyAABJ | Name: Timo | Unique ID: 550f8fa40a070ce53b59c54abb93b530
+[2023-03-29 15:18:24] INFO: User rejoined: ndCitnpoFbfQsVxyAABJ | Name: Timo | Unique ID: 550f8fa40a070ce53b59c54abb93b530
+[2023-03-29 15:20:15] INFO: A user has disconnected: 7IaK_FB_oYvqqUSZAABF
+[2023-03-29 15:20:15] INFO: A user has disconnected: ndCitnpoFbfQsVxyAABJ
+[2023-03-29 15:20:16] INFO: A user has connected: oetGm36491BiXOu_AABL
+[2023-03-29 15:20:16] INFO: User rejoined: oetGm36491BiXOu_AABL | Name: Timo | Unique ID: 550f8fa40a070ce53b59c54abb93b530
+[2023-03-29 15:20:16] INFO: A user has connected: 0FwE4hmjZt5J5jarAABN
+[2023-03-29 15:25:23] INFO: A user has disconnected: 7ZX6JQm5DW4o6SzCAAAD
+[2023-03-29 15:25:23] INFO: A user has disconnected: oetGm36491BiXOu_AABL
+[2023-03-29 15:25:23] INFO: A user has disconnected: S9WCMwU0u3yxQgCoAAAF
+[2023-03-29 15:25:23] INFO: A user has disconnected: 8m23xFmXuTYvl-8mAAAH
+[2023-03-29 15:25:23] INFO: A user has disconnected: kD22YsaOFhb1HG7-AAAL
+[2023-03-29 15:25:23] INFO: A user has disconnected: un7i-8NbSfdaDDxRAAAN
+[2023-03-29 15:25:24] INFO: A user has connected: 7x2Z5WfiLy6CTfb3AABP
+[2023-03-29 15:25:24] INFO: A user has connected: 3JolMnC8OB7P11ruAABR
+[2023-03-29 15:25:24] INFO: A user has connected: b5cNK-0zbNTJPh4YAABT
+[2023-03-29 15:25:24] INFO: A user has connected: wRCJMEkITNh5tE0fAABV
+[2023-03-29 15:25:24] INFO: A user has connected: aVArU1Jw4Qk_iNE7AABX
+[2023-03-29 15:25:24] INFO: A user has connected: rRhu8fMwAKGjqwZDAABZ
+[2023-03-29 15:49:42] INFO: A user has disconnected: rRhu8fMwAKGjqwZDAABZ
+[2023-03-29 15:49:43] INFO: A user has connected: l1FuGfYkvqt9km7EAABb
+[2023-03-29 15:49:43] INFO: User rejoined: l1FuGfYkvqt9km7EAABb | Name: Timo | Unique ID: 550f8fa40a070ce53b59c54abb93b530
+[2023-03-29 15:49:52] INFO: Selecting random player's turn...
+[2023-03-29 15:49:56] INFO: Random player's turn selected: Timo
+[2023-03-29 15:50:01] INFO: Question opened: Welches Material, das etwa 200-mal stärk...}
+[2023-03-29 15:53:34] INFO: User rejoined: l1FuGfYkvqt9km7EAABb | Name: Timo | Unique ID: 550f8fa40a070ce53b59c54abb93b530
+[2023-03-29 15:58:10] INFO: Server listening on port 3000
+[2023-03-29 15:58:11] INFO: A user has connected: dEo6hFbxEDFm55kSAAAB
+[2023-03-29 15:58:12] INFO: A user has connected: s2LzzZXIG0F1LxViAAAD
+[2023-03-29 15:58:13] INFO: A user has disconnected: s2LzzZXIG0F1LxViAAAD
+[2023-03-29 15:58:13] INFO: A user has connected: S-IZVEj5nqoMKam0AAAF
+[2023-03-29 15:58:13] INFO: A user has connected: plp5nIGwXzkpnGiIAAAH
+[2023-03-29 15:58:14] INFO: A user has connected: RK1_8GHnW7TOJqyEAAAJ
+[2023-03-29 15:58:14] INFO: A user has connected: Wcu8SwWuSqaNPZ8XAAAL
+[2023-03-29 15:58:14] INFO: A user has connected: KtQBJQruLgdFK6AnAAAO
+[2023-03-29 15:58:14] INFO: A user has connected: 7nNU3OgKGlfGd2CZAAAP
+[2023-03-29 15:58:15] INFO: A user has disconnected: Wcu8SwWuSqaNPZ8XAAAL
+[2023-03-29 15:58:15] INFO: A user has connected: ajuppFJayZv7P7JkAAAR
+[2023-03-29 15:58:15] INFO: User tried to rejoin but is unknown: ajuppFJayZv7P7JkAAAR | Unique ID: 550f8fa40a070ce53b59c54abb93b530
+[2023-03-29 16:01:11] INFO: Adding player: ajuppFJayZv7P7JkAAAR | Name: Timo | Unique ID: 7ed878959bc0acb259fd2920ab45f22b
+[2023-03-29 16:01:11] INFO: User rejoined: ajuppFJayZv7P7JkAAAR | Name: Timo | Unique ID: 7ed878959bc0acb259fd2920ab45f22b
+[2023-03-29 16:02:28] INFO: A user has disconnected: ajuppFJayZv7P7JkAAAR
+[2023-03-29 16:02:28] INFO: A user has connected: yYSJhcdlVsrPRDtNAAAT
+[2023-03-29 16:02:28] INFO: User rejoined: yYSJhcdlVsrPRDtNAAAT | Name: Timo | Unique ID: 7ed878959bc0acb259fd2920ab45f22b
+[2023-03-29 16:02:34] INFO: A user has disconnected: yYSJhcdlVsrPRDtNAAAT
+[2023-03-29 16:02:39] INFO: A user has connected: 9Dmp98ZzLysZbr5PAAAV
+[2023-03-29 16:02:39] INFO: User rejoined: 9Dmp98ZzLysZbr5PAAAV | Name: Timo | Unique ID: 7ed878959bc0acb259fd2920ab45f22b
+[2023-03-29 16:02:49] INFO: Server listening on port 3000
+[2023-03-29 16:02:49] INFO: A user has connected: -0rzacjUXB-kWvLjAAAB
+[2023-03-29 16:02:49] INFO: A user has connected: GJYqYRIiDzENq6kHAAAD
+[2023-03-29 16:02:49] INFO: A user has connected: kYBwlmJ1jhvfk1qFAAAF
+[2023-03-29 16:02:49] INFO: A user has connected: PWJBY-5Wdsm3XMXJAAAH
+[2023-03-29 16:02:50] INFO: A user has connected: KO2du0lXlF9fijp8AAAJ
+[2023-03-29 16:02:51] INFO: A user has connected: hkI01U0K8unOp_qSAAAL
+[2023-03-29 16:02:52] INFO: A user has disconnected: kYBwlmJ1jhvfk1qFAAAF
+[2023-03-29 16:02:52] INFO: A user has connected: tBQxsvai9pUVTnBeAAAN
+[2023-03-29 16:02:52] INFO: User tried to rejoin but is unknown: tBQxsvai9pUVTnBeAAAN | Unique ID: 7ed878959bc0acb259fd2920ab45f22b
+[2023-03-29 16:02:53] INFO: A user has connected: bkyKtgUMvrePM6YTAAAP
+[2023-03-29 16:02:53] INFO: A user has disconnected: KO2du0lXlF9fijp8AAAJ
+[2023-03-29 16:02:53] INFO: A user has connected: 6Bd-Ybth_IBjOA7qAAAR
+[2023-03-29 16:03:21] INFO: Adding player: tBQxsvai9pUVTnBeAAAN | Name: Timo | Unique ID: 0667d437169092914cf4b7ca653eb1c6
+[2023-03-29 16:03:21] INFO: User rejoined: tBQxsvai9pUVTnBeAAAN | Name: Timo | Unique ID: 0667d437169092914cf4b7ca653eb1c6
+[2023-03-29 16:29:45] INFO: A user has disconnected: tBQxsvai9pUVTnBeAAAN
+[2023-03-29 16:29:45] INFO: A user has disconnected: 6Bd-Ybth_IBjOA7qAAAR
+[2023-03-29 16:29:46] INFO: A user has connected: LJ0vFUaZp_5SMDESAAAT
+[2023-03-29 16:29:46] INFO: A user has connected: jg4c8NV3lapzsrjWAAAV
+[2023-03-29 16:29:46] INFO: User rejoined: jg4c8NV3lapzsrjWAAAV | Name: Timo | Unique ID: 0667d437169092914cf4b7ca653eb1c6
+[2023-03-29 16:46:22] INFO: A user has disconnected: -0rzacjUXB-kWvLjAAAB
+[2023-03-29 16:46:22] INFO: A user has disconnected: GJYqYRIiDzENq6kHAAAD
+[2023-03-29 16:46:22] INFO: A user has disconnected: PWJBY-5Wdsm3XMXJAAAH
+[2023-03-29 16:46:22] INFO: A user has disconnected: bkyKtgUMvrePM6YTAAAP
+[2023-03-29 16:46:22] INFO: A user has disconnected: hkI01U0K8unOp_qSAAAL
+[2023-03-29 16:46:23] INFO: A user has connected: 6Ycxyd4bjbOxJJqNAAAX
+[2023-03-29 16:46:23] INFO: A user has connected: FBwLcMLuzfk_X5LpAAAZ
+[2023-03-29 16:46:23] INFO: A user has connected: QcFUGG1O0JlIHSVWAAAb
+[2023-03-29 16:46:23] INFO: A user has connected: qRmzBdRTK1rIxHkoAAAd
+[2023-03-29 16:46:23] INFO: A user has connected: efiLLDyCDof87mVyAAAf
+[2023-03-29 17:03:48] INFO: A user has disconnected: 6Ycxyd4bjbOxJJqNAAAX
+[2023-03-29 17:03:48] INFO: A user has disconnected: efiLLDyCDof87mVyAAAf
+[2023-03-29 17:03:48] INFO: A user has disconnected: qRmzBdRTK1rIxHkoAAAd
+[2023-03-29 17:03:48] INFO: A user has disconnected: QcFUGG1O0JlIHSVWAAAb
+[2023-03-29 17:03:48] INFO: A user has disconnected: FBwLcMLuzfk_X5LpAAAZ
+[2023-03-29 17:03:48] INFO: A user has connected: RxQskQ_MIyfck_S7AAAh
+[2023-03-29 17:03:48] INFO: A user has connected: fyJoLSchgHMWzFmWAAAj
+[2023-03-29 17:03:49] INFO: A user has connected: dr6YYpGd82_gxFGqAAAl
+[2023-03-29 17:03:49] INFO: A user has connected: Qp0HpZhlmXd8JX-xAAAn
+[2023-03-29 17:03:49] INFO: A user has connected: 1Cjyb5SQWyOdyPYAAAAp
+[2023-03-29 17:19:57] INFO: A user has disconnected: RxQskQ_MIyfck_S7AAAh
+[2023-03-29 17:19:57] INFO: A user has disconnected: 1Cjyb5SQWyOdyPYAAAAp
+[2023-03-29 17:19:57] INFO: A user has disconnected: Qp0HpZhlmXd8JX-xAAAn
+[2023-03-29 17:19:57] INFO: A user has disconnected: dr6YYpGd82_gxFGqAAAl
+[2023-03-29 17:19:57] INFO: A user has disconnected: fyJoLSchgHMWzFmWAAAj
+[2023-03-29 17:19:58] INFO: A user has connected: z2OYYE9xNrL2laHTAAAr
+[2023-03-29 17:19:58] INFO: A user has connected: RUwGQY5BkMenA7roAAAt
+[2023-03-29 17:19:58] INFO: A user has connected: A9wQZI-GzK_q2U7kAAAv
+[2023-03-29 17:19:58] INFO: A user has connected: OXodJ-GpUF4ZuS9EAAAx
+[2023-03-29 17:19:58] INFO: A user has connected: IC7wYmMueFV0I7QhAAAz
+[2023-03-29 17:36:39] INFO: A user has disconnected: z2OYYE9xNrL2laHTAAAr
+[2023-03-29 17:36:39] INFO: A user has disconnected: IC7wYmMueFV0I7QhAAAz
+[2023-03-29 17:36:39] INFO: A user has disconnected: OXodJ-GpUF4ZuS9EAAAx
+[2023-03-29 17:36:39] INFO: A user has disconnected: A9wQZI-GzK_q2U7kAAAv
+[2023-03-29 17:36:39] INFO: A user has disconnected: RUwGQY5BkMenA7roAAAt
+[2023-03-29 17:36:39] INFO: A user has connected: L0x-360Drr31KrAxAAA1
+[2023-03-29 17:36:40] INFO: A user has connected: nVbdLg4m-73VrggRAAA3
+[2023-03-29 17:36:40] INFO: A user has connected: 6aWWNkiwF_Bb_uT-AAA5
+[2023-03-29 17:36:40] INFO: A user has connected: OnaMzNjWXFR12IczAAA7
+[2023-03-29 17:36:40] INFO: A user has connected: WL2akGlzpC7tZxyRAAA9
+[2023-03-29 17:42:44] INFO: A user has disconnected: L0x-360Drr31KrAxAAA1
+[2023-03-29 17:42:44] INFO: A user has disconnected: nVbdLg4m-73VrggRAAA3
+[2023-03-29 17:42:44] INFO: A user has disconnected: 6aWWNkiwF_Bb_uT-AAA5
+[2023-03-29 17:42:44] INFO: A user has disconnected: OnaMzNjWXFR12IczAAA7
+[2023-03-29 17:42:44] INFO: A user has disconnected: WL2akGlzpC7tZxyRAAA9
+[2023-03-29 17:42:45] INFO: A user has connected: hZSpbZFD9YaJmES4AAA_
+[2023-03-29 17:42:45] INFO: A user has connected: i4bk16DztHifVQrLAABB
+[2023-03-29 17:42:45] INFO: A user has connected: PmYb1W320xQEzeqWAABD
+[2023-03-29 17:42:45] INFO: A user has connected: Y6r9G1So-WmtgU06AABF
+[2023-03-29 17:42:45] INFO: A user has connected: LnTB56TLT8dDKCmTAABH
+[2023-03-29 17:45:54] INFO: User rejoined: jg4c8NV3lapzsrjWAAAV | Name: Timo | Unique ID: 0667d437169092914cf4b7ca653eb1c6
+[2023-03-29 17:46:16] INFO: Server listening on port 3000
+[2023-03-29 17:46:16] INFO: A user has connected: KObVckRAdhiZ7-VxAAAB
+[2023-03-29 17:46:16] INFO: A user has connected: RghwY8HJMvrRa44ZAAAD
+[2023-03-29 17:46:18] INFO: A user has connected: Ch0bm0TPVfaQ95kKAAAF
+[2023-03-29 17:46:19] INFO: A user has connected: yBnhER7I7o0HBdHrAAAH
+[2023-03-29 17:46:19] INFO: A user has connected: zH3ZJP_YdWJymq78AAAJ
+[2023-03-29 17:46:19] INFO: A user has connected: zIOEtWXEdlaiwAL9AAAL
+[2023-03-29 17:46:20] INFO: A user has disconnected: Ch0bm0TPVfaQ95kKAAAF
+[2023-03-29 17:46:20] INFO: A user has connected: 59_NOxn6NYbe3b23AAAN
+[2023-03-29 17:46:20] INFO: User tried to rejoin but is unknown: 59_NOxn6NYbe3b23AAAN | Unique ID: 0667d437169092914cf4b7ca653eb1c6
+[2023-03-29 17:46:21] INFO: A user has connected: JhKZmeIeuajwJsmjAAAP
+[2023-03-29 17:46:23] INFO: A user has disconnected: zIOEtWXEdlaiwAL9AAAL
+[2023-03-29 17:46:23] INFO: A user has connected: El18ZPh-LzrDgftBAAAR
+[2023-03-29 17:46:27] INFO: Adding player: 59_NOxn6NYbe3b23AAAN | Name: Timo | Unique ID: 824379c118564b9a95cc8073b4dd8314
+[2023-03-29 17:46:27] INFO: User rejoined: 59_NOxn6NYbe3b23AAAN | Name: Timo | Unique ID: 824379c118564b9a95cc8073b4dd8314
+[2023-03-29 17:46:29] INFO: Player buzzed: Timo
+[2023-03-29 17:46:33] INFO: Resetting buzzer
+[2023-03-29 17:46:36] INFO: Player buzzed: Timo
+[2023-03-29 17:46:41] INFO: Resetting buzzer
+[2023-03-29 17:46:43] INFO: Question opened: Lily Aldrin|Marshall Eriksen|Ted Mosby|B...}
+[2023-03-29 17:46:53] INFO: Question aborted: Lily Aldrin|Marshall Eriksen|Ted Mosby|B...}
+[2023-03-29 17:46:58] INFO: Question opened: Welche Technik nutzt reflektierende Mark...}
+[2023-03-29 17:47:03] INFO: Player buzzed: Timo
+[2023-03-29 17:47:18] INFO: Player answered correctly: Timo. Added 300 points (-> 300).
+[2023-03-29 17:49:48] INFO: Player buzzed: Timo
+[2023-03-29 17:50:21] INFO: Player answered correctly: Timo. Added 300 points (-> 600).
+[2023-03-29 17:50:32] INFO: Server listening on port 3000
+[2023-03-29 17:50:33] INFO: A user has connected: z_LFxjurA_jV9JaCAAAB
+[2023-03-29 17:50:33] INFO: A user has connected: jc2rukOt011vRmCIAAAD
+[2023-03-29 17:50:34] INFO: A user has connected: I1XfpjejfS9VLaZgAAAF
+[2023-03-29 17:50:34] INFO: A user has connected: gNSJaKALXIt2aG-wAAAH
+[2023-03-29 17:50:34] INFO: A user has connected: WNUOvQ0Nm05jcuRYAAAJ
+[2023-03-29 17:50:34] INFO: A user has connected: D71-OGwjTMuy77ReAAAL
+[2023-03-29 17:50:35] INFO: A user has connected: L3zCrD2-Ft3teOPHAAAN
+[2023-03-29 17:50:36] INFO: A user has disconnected: I1XfpjejfS9VLaZgAAAF
+[2023-03-29 17:50:36] INFO: A user has connected: twrSqQA3C00JdiOpAAAP
+[2023-03-29 17:50:36] INFO: User tried to rejoin but is unknown: twrSqQA3C00JdiOpAAAP | Unique ID: 824379c118564b9a95cc8073b4dd8314
+[2023-03-29 17:50:38] INFO: Adding player: twrSqQA3C00JdiOpAAAP | Name: Timo | Unique ID: adb217e5956fa6d22000b4f1a88c3095
+[2023-03-29 17:50:38] INFO: User rejoined: twrSqQA3C00JdiOpAAAP | Name: Timo | Unique ID: adb217e5956fa6d22000b4f1a88c3095
+[2023-03-29 17:50:43] INFO: A user has disconnected: z_LFxjurA_jV9JaCAAAB
+[2023-03-29 17:50:43] INFO: A user has connected: UVwJWsj7fZhSSDQoAAAR
+[2023-03-29 17:50:47] INFO: Question opened: Wie heißt der flüchtige Speicher in eine...}
+[2023-03-29 17:50:50] INFO: Selecting random player's turn...
+[2023-03-29 17:50:54] INFO: Random player's turn selected: Timo
+[2023-03-29 17:50:56] INFO: Player buzzed: Timo
+[2023-03-29 17:51:01] INFO: Player answered correctly: Timo. Added 400 points (-> 400).
+[2023-03-29 17:51:15] INFO: Player buzzed: Timo
+[2023-03-29 17:51:20] INFO: Player answered incorrectly: Timo. Removed 200 points (-> 200).
+[2023-03-29 17:51:27] INFO: Question completed: Wie heißt der flüchtige Speicher in eine...}
+[2023-03-29 17:51:32] INFO: A user has disconnected: twrSqQA3C00JdiOpAAAP
+[2023-03-29 17:51:32] INFO: A user has disconnected: UVwJWsj7fZhSSDQoAAAR
+[2023-03-29 17:51:32] INFO: A user has connected: zm82pVKjkzCEAznfAAAT
+[2023-03-29 17:51:32] INFO: A user has connected: gYbiufJrlO95hsj-AAAV
+[2023-03-29 17:51:32] INFO: User rejoined: gYbiufJrlO95hsj-AAAV | Name: Timo | Unique ID: adb217e5956fa6d22000b4f1a88c3095
+[2023-03-29 18:08:34] INFO: A user has disconnected: jc2rukOt011vRmCIAAAD
+[2023-03-29 18:08:34] INFO: A user has disconnected: WNUOvQ0Nm05jcuRYAAAJ
+[2023-03-29 18:08:34] INFO: A user has disconnected: gNSJaKALXIt2aG-wAAAH
+[2023-03-29 18:08:34] INFO: A user has disconnected: L3zCrD2-Ft3teOPHAAAN
+[2023-03-29 18:08:34] INFO: A user has disconnected: D71-OGwjTMuy77ReAAAL
+[2023-03-29 18:08:34] INFO: A user has connected: Kv9CvS57VlZNPwYYAAAX
+[2023-03-29 18:08:35] INFO: A user has connected: creL_ASGBW6axADeAAAZ
+[2023-03-29 18:08:35] INFO: A user has connected: WOFelW93K8K-_ZlxAAAc
+[2023-03-29 18:08:35] INFO: A user has connected: YPsLAUDFmqoMTRN2AAAd
+[2023-03-29 18:08:35] INFO: A user has connected: YpifxBWNeBdDPBFzAAAf
+[2023-03-29 18:26:17] INFO: A user has disconnected: Kv9CvS57VlZNPwYYAAAX
+[2023-03-29 18:26:17] INFO: A user has disconnected: YpifxBWNeBdDPBFzAAAf
+[2023-03-29 18:26:17] INFO: A user has disconnected: YPsLAUDFmqoMTRN2AAAd
+[2023-03-29 18:26:17] INFO: A user has disconnected: WOFelW93K8K-_ZlxAAAc
+[2023-03-29 18:26:17] INFO: A user has disconnected: creL_ASGBW6axADeAAAZ
+[2023-03-29 18:26:17] INFO: A user has connected: ffU3Xa4Db_3q_A5wAAAh
+[2023-03-29 18:26:17] INFO: A user has connected: Ex7jRBNIJj1u74sNAAAj
+[2023-03-29 18:26:18] INFO: A user has connected: ol1UHro91RM8pErOAAAl
+[2023-03-29 18:26:18] INFO: A user has connected: UWHjFablJtPG24-KAAAn
+[2023-03-29 18:26:18] INFO: A user has connected: Urf8RajxNOs2fkJ2AAAp
+[2023-03-29 18:42:09] INFO: A user has disconnected: ffU3Xa4Db_3q_A5wAAAh
+[2023-03-29 18:42:09] INFO: A user has disconnected: Ex7jRBNIJj1u74sNAAAj
+[2023-03-29 18:42:09] INFO: A user has disconnected: ol1UHro91RM8pErOAAAl
+[2023-03-29 18:42:09] INFO: A user has disconnected: UWHjFablJtPG24-KAAAn
+[2023-03-29 18:42:09] INFO: A user has disconnected: Urf8RajxNOs2fkJ2AAAp
+[2023-03-29 18:42:10] INFO: A user has connected: P3ZdpMFhPCfnmeYbAAAr
+[2023-03-29 18:42:10] INFO: A user has connected: g-VdSrPyq5wIke1lAAAt
+[2023-03-29 18:42:10] INFO: A user has connected: ngKjNhtgFbmfBrwZAAAv
+[2023-03-29 18:42:10] INFO: A user has connected: 2clY2_87LbJ3WLXGAAAx
+[2023-03-29 18:42:10] INFO: A user has connected: au2NP3Tlsjd6cxGiAAAz
+[2023-03-29 18:59:53] INFO: A user has disconnected: P3ZdpMFhPCfnmeYbAAAr
+[2023-03-29 18:59:53] INFO: A user has disconnected: g-VdSrPyq5wIke1lAAAt
+[2023-03-29 18:59:53] INFO: A user has disconnected: ngKjNhtgFbmfBrwZAAAv
+[2023-03-29 18:59:53] INFO: A user has disconnected: 2clY2_87LbJ3WLXGAAAx
+[2023-03-29 18:59:53] INFO: A user has disconnected: au2NP3Tlsjd6cxGiAAAz
+[2023-03-29 18:59:53] INFO: A user has connected: uajOLHr9w8-_mcWnAAA1
+[2023-03-29 18:59:54] INFO: A user has connected: KbI54d2bjAGmKYoaAAA3
+[2023-03-29 18:59:54] INFO: A user has connected: ckfmp6QzsaNYV16QAAA5
+[2023-03-29 18:59:54] INFO: A user has connected: zTm31stUh03-Bi0UAAA7
+[2023-03-29 18:59:54] INFO: A user has connected: OP9nrOyLsewpLYUPAAA9
+[2023-03-29 19:16:43] INFO: A user has disconnected: uajOLHr9w8-_mcWnAAA1
+[2023-03-29 19:16:43] INFO: A user has disconnected: KbI54d2bjAGmKYoaAAA3
+[2023-03-29 19:16:43] INFO: A user has disconnected: ckfmp6QzsaNYV16QAAA5
+[2023-03-29 19:16:43] INFO: A user has disconnected: zTm31stUh03-Bi0UAAA7
+[2023-03-29 19:16:43] INFO: A user has disconnected: OP9nrOyLsewpLYUPAAA9
+[2023-03-29 19:16:43] INFO: A user has connected: Cja-Psk41-FeEg0gAAA_
+[2023-03-29 19:16:44] INFO: A user has connected: evy2zSZ82ZSa638zAABB
+[2023-03-29 19:16:44] INFO: A user has connected: 84z5KHm38YC3XFdCAABD
+[2023-03-29 19:16:44] INFO: A user has connected: DebJOrfjT42XywhxAABF
+[2023-03-29 19:16:44] INFO: A user has connected: 0wgxSIu-zZwxQRGBAABH
+[2023-03-29 19:34:25] INFO: A user has disconnected: Cja-Psk41-FeEg0gAAA_
+[2023-03-29 19:34:25] INFO: A user has disconnected: 0wgxSIu-zZwxQRGBAABH
+[2023-03-29 19:34:25] INFO: A user has disconnected: DebJOrfjT42XywhxAABF
+[2023-03-29 19:34:25] INFO: A user has disconnected: 84z5KHm38YC3XFdCAABD
+[2023-03-29 19:34:25] INFO: A user has disconnected: evy2zSZ82ZSa638zAABB
+[2023-03-29 19:34:26] INFO: A user has connected: iPeSCAkOQKzwtPnrAABJ
+[2023-03-29 19:34:26] INFO: A user has connected: Zedcxe5tYbunx82TAABL
+[2023-03-29 19:34:26] INFO: A user has connected: R6Q2foYY7yeyjP3LAABN
+[2023-03-29 19:34:26] INFO: A user has connected: bmn1afFpYfkdDOaFAABP
+[2023-03-29 19:34:26] INFO: A user has connected: zZQ79CNAi6t0w5eoAABR
+[2023-03-29 19:49:51] INFO: A user has disconnected: iPeSCAkOQKzwtPnrAABJ
+[2023-03-29 19:49:51] INFO: A user has disconnected: Zedcxe5tYbunx82TAABL
+[2023-03-29 19:49:51] INFO: A user has disconnected: R6Q2foYY7yeyjP3LAABN
+[2023-03-29 19:49:51] INFO: A user has disconnected: bmn1afFpYfkdDOaFAABP
+[2023-03-29 19:49:51] INFO: A user has disconnected: zZQ79CNAi6t0w5eoAABR
+[2023-03-29 19:49:52] INFO: A user has connected: Aw6qQsCFrfi6ZbPRAABT
+[2023-03-29 19:49:52] INFO: A user has connected: wbkvkMquWM0yThA3AABV
+[2023-03-29 19:49:52] INFO: A user has connected: I2urI5-AFvcLFI3mAABX
+[2023-03-29 19:49:52] INFO: A user has connected: Pi7uPHrh3aB7g8NPAABZ
+[2023-03-29 19:49:52] INFO: A user has connected: hJzgBlifozZlI7mMAABb
+[2023-03-29 20:05:49] INFO: A user has disconnected: Aw6qQsCFrfi6ZbPRAABT
+[2023-03-29 20:05:49] INFO: A user has disconnected: hJzgBlifozZlI7mMAABb
+[2023-03-29 20:05:49] INFO: A user has disconnected: Pi7uPHrh3aB7g8NPAABZ
+[2023-03-29 20:05:49] INFO: A user has disconnected: I2urI5-AFvcLFI3mAABX
+[2023-03-29 20:05:49] INFO: A user has disconnected: wbkvkMquWM0yThA3AABV
+[2023-03-29 20:05:50] INFO: A user has connected: pPZi00ztMjPPSl-GAABd
+[2023-03-29 20:05:50] INFO: A user has connected: ycwFQxNjnCBBJo2wAABf
+[2023-03-29 20:05:50] INFO: A user has connected: 25fSo3Rjbr9GsG55AABh
+[2023-03-29 20:05:50] INFO: A user has connected: zFFSnNzNG4zbWq0IAABj
+[2023-03-29 20:05:50] INFO: A user has connected: zKz71F30CW0lmyhrAABl
+[2023-03-29 20:22:43] INFO: A user has disconnected: pPZi00ztMjPPSl-GAABd
+[2023-03-29 20:22:43] INFO: A user has disconnected: ycwFQxNjnCBBJo2wAABf
+[2023-03-29 20:22:43] INFO: A user has disconnected: 25fSo3Rjbr9GsG55AABh
+[2023-03-29 20:22:43] INFO: A user has disconnected: zFFSnNzNG4zbWq0IAABj
+[2023-03-29 20:22:43] INFO: A user has disconnected: zKz71F30CW0lmyhrAABl
+[2023-03-29 20:22:44] INFO: A user has connected: U5Woi24MeegvdF08AABo
+[2023-03-29 20:22:44] INFO: A user has connected: YvmQBhKYeKcuqVy3AABp
+[2023-03-29 20:22:44] INFO: A user has connected: wDYmezrL0zH8THdBAABr
+[2023-03-29 20:22:44] INFO: A user has connected: v3pRzUMoWWzUVnF0AABt
+[2023-03-29 20:22:44] INFO: A user has connected: 0X0H6j1repPgG-i-AABv
+[2023-03-29 20:39:16] INFO: A user has disconnected: U5Woi24MeegvdF08AABo
+[2023-03-29 20:39:16] INFO: A user has disconnected: 0X0H6j1repPgG-i-AABv
+[2023-03-29 20:39:16] INFO: A user has disconnected: v3pRzUMoWWzUVnF0AABt
+[2023-03-29 20:39:16] INFO: A user has disconnected: wDYmezrL0zH8THdBAABr
+[2023-03-29 20:39:16] INFO: A user has disconnected: YvmQBhKYeKcuqVy3AABp
+[2023-03-29 20:39:17] INFO: A user has connected: 2iSyLVLKMdwSYNpxAABx
+[2023-03-29 20:39:17] INFO: A user has connected: GfacgtqabHJ32GjtAABz
+[2023-03-29 20:39:17] INFO: A user has connected: TqvE3qKOwXMLakmqAAB1
+[2023-03-29 20:39:17] INFO: A user has connected: _eUXZp_5kmonaqhJAAB3
+[2023-03-29 20:39:17] INFO: A user has connected: NZxsCDh1lGYZgYlvAAB5
+[2023-03-29 20:56:02] INFO: A user has disconnected: 2iSyLVLKMdwSYNpxAABx
+[2023-03-29 20:56:02] INFO: A user has disconnected: NZxsCDh1lGYZgYlvAAB5
+[2023-03-29 20:56:02] INFO: A user has disconnected: _eUXZp_5kmonaqhJAAB3
+[2023-03-29 20:56:02] INFO: A user has disconnected: TqvE3qKOwXMLakmqAAB1
+[2023-03-29 20:56:02] INFO: A user has disconnected: GfacgtqabHJ32GjtAABz
+[2023-03-29 20:56:03] INFO: A user has connected: jgwlUhhxDWa-YP7bAAB7
+[2023-03-29 20:56:03] INFO: A user has connected: 7BQmcV2npwGJcuG0AAB9
+[2023-03-29 20:56:03] INFO: A user has connected: Hi4kwKhBZrGUI5okAAB_
+[2023-03-29 20:56:03] INFO: A user has connected: 7ea-cef6dX9Yle5eAACB
+[2023-03-29 20:56:03] INFO: A user has connected: jx75OKsHkZ2sx6-sAACD
+[2023-03-29 21:12:11] INFO: A user has disconnected: jgwlUhhxDWa-YP7bAAB7
+[2023-03-29 21:12:11] INFO: A user has disconnected: jx75OKsHkZ2sx6-sAACD
+[2023-03-29 21:12:11] INFO: A user has disconnected: 7ea-cef6dX9Yle5eAACB
+[2023-03-29 21:12:11] INFO: A user has disconnected: Hi4kwKhBZrGUI5okAAB_
+[2023-03-29 21:12:11] INFO: A user has disconnected: 7BQmcV2npwGJcuG0AAB9
+[2023-03-29 21:12:11] INFO: A user has connected: 2JX02J90kEZfj7sPAACF
+[2023-03-29 21:12:11] INFO: A user has connected: teRar_0rbtYrIlkkAACH
+[2023-03-29 21:12:12] INFO: A user has connected: UpZRMfaqzKuILbdfAACJ
+[2023-03-29 21:12:12] INFO: A user has connected: v86QLm2sl2KYWUDtAACL
+[2023-03-29 21:12:12] INFO: A user has connected: CD_Yi8NscIec7rGOAACN
+[2023-03-29 21:28:44] INFO: A user has disconnected: 2JX02J90kEZfj7sPAACF
+[2023-03-29 21:28:44] INFO: A user has disconnected: CD_Yi8NscIec7rGOAACN
+[2023-03-29 21:28:44] INFO: A user has disconnected: v86QLm2sl2KYWUDtAACL
+[2023-03-29 21:28:44] INFO: A user has disconnected: UpZRMfaqzKuILbdfAACJ
+[2023-03-29 21:28:44] INFO: A user has disconnected: teRar_0rbtYrIlkkAACH
+[2023-03-29 21:28:45] INFO: A user has connected: 3tjo7kdF_2fXfsnKAACP
+[2023-03-29 21:28:45] INFO: A user has connected: 1bhE0UGImjsWhu5EAACR
+[2023-03-29 21:28:45] INFO: A user has connected: WHGTwms6Hp3boWX1AACT
+[2023-03-29 21:28:45] INFO: A user has connected: njvZOd_ku8cRUg-qAACV
+[2023-03-29 21:28:45] INFO: A user has connected: sRAjCzW_IOeRrQw-AACX
+[2023-03-29 21:45:52] INFO: A user has disconnected: 3tjo7kdF_2fXfsnKAACP
+[2023-03-29 21:45:52] INFO: A user has disconnected: sRAjCzW_IOeRrQw-AACX
+[2023-03-29 21:45:52] INFO: A user has disconnected: njvZOd_ku8cRUg-qAACV
+[2023-03-29 21:45:52] INFO: A user has disconnected: WHGTwms6Hp3boWX1AACT
+[2023-03-29 21:45:52] INFO: A user has disconnected: 1bhE0UGImjsWhu5EAACR
+[2023-03-29 21:45:53] INFO: A user has connected: SSckxTskNZnw4Hv-AACZ
+[2023-03-29 21:45:53] INFO: A user has connected: GL9VhdVykRypRF4mAACb
+[2023-03-29 21:45:53] INFO: A user has connected: xTQl95UT1rB9eQD0AACd
+[2023-03-29 21:45:53] INFO: A user has connected: a3ToQqgpLLSWp_4wAACf
+[2023-03-29 21:45:53] INFO: A user has connected: q6ot2YJNmLHASuTgAACh
+[2023-03-29 21:50:02] INFO: A user has disconnected: SSckxTskNZnw4Hv-AACZ
+[2023-03-29 21:50:02] INFO: A user has disconnected: q6ot2YJNmLHASuTgAACh
+[2023-03-29 21:50:02] INFO: A user has disconnected: a3ToQqgpLLSWp_4wAACf
+[2023-03-29 21:50:02] INFO: A user has disconnected: xTQl95UT1rB9eQD0AACd
+[2023-03-29 21:50:02] INFO: A user has disconnected: GL9VhdVykRypRF4mAACb
+[2023-03-29 21:50:03] INFO: A user has connected: MEdNNS3wNIdwqymFAACj
+[2023-03-29 21:50:03] INFO: A user has connected: PnIZy2bQqRcsRLB4AACl
+[2023-03-29 21:50:03] INFO: A user has connected: XaUndrnNBW8ozLpWAACn
+[2023-03-29 21:50:03] INFO: A user has connected: _04bty5B-hG7GH4BAACp
+[2023-03-29 21:50:03] INFO: A user has connected: O7OoyAw4-RJxsOTZAACr
+[2023-03-29 22:07:27] INFO: A user has disconnected: MEdNNS3wNIdwqymFAACj
+[2023-03-29 22:07:27] INFO: A user has disconnected: O7OoyAw4-RJxsOTZAACr
+[2023-03-29 22:07:27] INFO: A user has disconnected: _04bty5B-hG7GH4BAACp
+[2023-03-29 22:07:27] INFO: A user has disconnected: XaUndrnNBW8ozLpWAACn
+[2023-03-29 22:07:27] INFO: A user has disconnected: PnIZy2bQqRcsRLB4AACl
+[2023-03-29 22:07:28] INFO: A user has connected: pUomqnSrBsn5IdfPAACt
+[2023-03-29 22:07:28] INFO: A user has connected: d8rJ9nu4-t6XEkrCAACv
+[2023-03-29 22:07:28] INFO: A user has connected: hmXh6b86T7z8N4wLAACx
+[2023-03-29 22:07:28] INFO: A user has connected: dTJ1WA7git5CN-4_AACz
+[2023-03-29 22:07:29] INFO: A user has connected: NIx-tvYXav3S5_2VAAC1
+[2023-03-29 22:09:22] INFO: A user has disconnected: pUomqnSrBsn5IdfPAACt
+[2023-03-29 22:09:22] INFO: A user has disconnected: d8rJ9nu4-t6XEkrCAACv
+[2023-03-29 22:09:22] INFO: A user has disconnected: hmXh6b86T7z8N4wLAACx
+[2023-03-29 22:09:22] INFO: A user has disconnected: NIx-tvYXav3S5_2VAAC1
+[2023-03-29 22:09:22] INFO: A user has disconnected: dTJ1WA7git5CN-4_AACz
+[2023-03-29 22:09:23] INFO: A user has connected: zNMahgACxmgMolZQAAC3
+[2023-03-29 22:09:23] INFO: A user has connected: -Br_KxUCzbxuVR09AAC5
+[2023-03-29 22:09:23] INFO: A user has connected: Fnjvs07zXH2jYWzYAAC7
+[2023-03-29 22:09:23] INFO: A user has connected: 2MXAG8d_Bj2bSI75AAC9
+[2023-03-29 22:09:24] INFO: A user has connected: 23_lZ5LC0TKaikqwAAC_
+[2023-03-29 23:59:05] INFO: A user has disconnected: zm82pVKjkzCEAznfAAAT
+[2023-03-29 23:59:05] INFO: A user has disconnected: gYbiufJrlO95hsj-AAAV
+[2023-03-29 23:59:06] INFO: A user has connected: 66u4pZv_bHENLw6jAADC
+[2023-03-29 23:59:06] INFO: A user has connected: SfdacvaSFRDQtnInAADD
+[2023-03-29 23:59:06] INFO: User rejoined: SfdacvaSFRDQtnInAADD | Name: Timo | Unique ID: adb217e5956fa6d22000b4f1a88c3095
+[2023-03-30 00:15:40] INFO: A user has disconnected: zNMahgACxmgMolZQAAC3
+[2023-03-30 00:15:40] INFO: A user has disconnected: -Br_KxUCzbxuVR09AAC5
+[2023-03-30 00:15:40] INFO: A user has disconnected: Fnjvs07zXH2jYWzYAAC7
+[2023-03-30 00:15:40] INFO: A user has disconnected: 2MXAG8d_Bj2bSI75AAC9
+[2023-03-30 00:15:40] INFO: A user has disconnected: 23_lZ5LC0TKaikqwAAC_
+[2023-03-30 00:15:40] INFO: A user has disconnected: 66u4pZv_bHENLw6jAADC
+[2023-03-30 00:15:40] INFO: A user has connected: Cq6RT6q6uveUx4nNAADF
+[2023-03-30 00:15:41] INFO: A user has connected: fU1W0yKcS_YdO2PlAADH
+[2023-03-30 00:15:41] INFO: A user has connected: ukVs8gtanCAay-7VAADJ
+[2023-03-30 00:15:41] INFO: A user has connected: xZASr2VcOiWQUx7cAADL
+[2023-03-30 00:15:41] INFO: A user has connected: L3BRNAzodtX3ZI1iAADN
+[2023-03-30 00:15:42] INFO: A user has connected: hyS0ymJ_PM_sVqe1AADP
+[2023-03-30 00:32:15] INFO: A user has disconnected: Cq6RT6q6uveUx4nNAADF
+[2023-03-30 00:32:15] INFO: A user has disconnected: fU1W0yKcS_YdO2PlAADH
+[2023-03-30 00:32:15] INFO: A user has disconnected: ukVs8gtanCAay-7VAADJ
+[2023-03-30 00:32:15] INFO: A user has disconnected: L3BRNAzodtX3ZI1iAADN
+[2023-03-30 00:32:15] INFO: A user has disconnected: xZASr2VcOiWQUx7cAADL
+[2023-03-30 00:32:16] INFO: A user has connected: sCHylbym7m0sl0nIAADR
+[2023-03-30 00:32:16] INFO: A user has connected: F4diXdoufy1nqIaKAADT
+[2023-03-30 00:32:16] INFO: A user has connected: jXu3yxznCR9G9J8OAADV
+[2023-03-30 00:32:16] INFO: A user has connected: wPWUgkUqDHF8kc9lAADX
+[2023-03-30 00:32:16] INFO: A user has connected: 3l7prQmxrhu3HH8zAADZ
+[2023-03-30 00:47:45] INFO: A user has disconnected: sCHylbym7m0sl0nIAADR
+[2023-03-30 00:47:45] INFO: A user has disconnected: F4diXdoufy1nqIaKAADT
+[2023-03-30 00:47:45] INFO: A user has disconnected: jXu3yxznCR9G9J8OAADV
+[2023-03-30 00:47:45] INFO: A user has disconnected: wPWUgkUqDHF8kc9lAADX
+[2023-03-30 00:47:45] INFO: A user has disconnected: 3l7prQmxrhu3HH8zAADZ
+[2023-03-30 00:47:46] INFO: A user has connected: UP0x89OK0W9qXJG1AADb
+[2023-03-30 00:47:46] INFO: A user has connected: Ts4KUhEbIjyY5qmNAADd
+[2023-03-30 00:47:46] INFO: A user has connected: mysINqBHm_QiKiyXAADf
+[2023-03-30 00:47:46] INFO: A user has connected: vDEy8IthMsPZY62DAADi
+[2023-03-30 00:47:46] INFO: A user has connected: DumKQQ5Zb11xEmZ5AADj
+[2023-03-30 01:03:46] INFO: A user has disconnected: UP0x89OK0W9qXJG1AADb
+[2023-03-30 01:03:46] INFO: A user has disconnected: DumKQQ5Zb11xEmZ5AADj
+[2023-03-30 01:03:46] INFO: A user has disconnected: vDEy8IthMsPZY62DAADi
+[2023-03-30 01:03:46] INFO: A user has disconnected: mysINqBHm_QiKiyXAADf
+[2023-03-30 01:03:46] INFO: A user has disconnected: Ts4KUhEbIjyY5qmNAADd
+[2023-03-30 01:03:47] INFO: A user has connected: idhgi9QJit8pNyubAADl
+[2023-03-30 01:03:47] INFO: A user has connected: aJPoUv-9gtPfxbySAADn
+[2023-03-30 01:03:47] INFO: A user has connected: zw1s_dY6gqo65Dq0AADp
+[2023-03-30 01:03:47] INFO: A user has connected: D9nFN154-QzKJ5XTAADr
+[2023-03-30 01:03:47] INFO: A user has connected: 8xc788ONLISmgeJMAADt
+[2023-03-30 01:20:32] INFO: A user has disconnected: idhgi9QJit8pNyubAADl
+[2023-03-30 01:20:32] INFO: A user has disconnected: aJPoUv-9gtPfxbySAADn
+[2023-03-30 01:20:32] INFO: A user has disconnected: zw1s_dY6gqo65Dq0AADp
+[2023-03-30 01:20:32] INFO: A user has disconnected: D9nFN154-QzKJ5XTAADr
+[2023-03-30 01:20:32] INFO: A user has disconnected: 8xc788ONLISmgeJMAADt
+[2023-03-30 01:20:32] INFO: A user has connected: ynboMCFLHgQ2R5pSAADv
+[2023-03-30 01:20:32] INFO: A user has connected: O0Ej2SDKx-Neal8_AADx
+[2023-03-30 01:20:32] INFO: A user has connected: BOYIt2hmBe6PNBhhAADz
+[2023-03-30 01:20:33] INFO: A user has connected: 6ISThOPGT0adbmNoAAD1
+[2023-03-30 01:20:33] INFO: A user has connected: mMy60n9H3komVjnYAAD3
+[2023-03-30 01:36:56] INFO: A user has disconnected: ynboMCFLHgQ2R5pSAADv
+[2023-03-30 01:36:56] INFO: A user has disconnected: O0Ej2SDKx-Neal8_AADx
+[2023-03-30 01:36:56] INFO: A user has disconnected: BOYIt2hmBe6PNBhhAADz
+[2023-03-30 01:36:56] INFO: A user has disconnected: 6ISThOPGT0adbmNoAAD1
+[2023-03-30 01:36:56] INFO: A user has disconnected: mMy60n9H3komVjnYAAD3
+[2023-03-30 01:36:57] INFO: A user has connected: qfUaHyWW0Li6N4KPAAD5
+[2023-03-30 01:36:57] INFO: A user has connected: Kg0gFx8HXh9VIctHAAD7
+[2023-03-30 01:36:57] INFO: A user has connected: 9uhkbvasMb9GJwGNAAD9
+[2023-03-30 01:36:57] INFO: A user has connected: YCsWB4uytAKhq55HAAD_
+[2023-03-30 01:36:57] INFO: A user has connected: meCBacRuDYdF8Yf5AAEB
+[2023-03-30 01:54:58] INFO: A user has disconnected: qfUaHyWW0Li6N4KPAAD5
+[2023-03-30 01:54:58] INFO: A user has disconnected: YCsWB4uytAKhq55HAAD_
+[2023-03-30 01:54:58] INFO: A user has disconnected: 9uhkbvasMb9GJwGNAAD9
+[2023-03-30 01:54:58] INFO: A user has disconnected: Kg0gFx8HXh9VIctHAAD7
+[2023-03-30 01:54:58] INFO: A user has disconnected: meCBacRuDYdF8Yf5AAEB
+[2023-03-30 01:54:59] INFO: A user has connected: Tj8pYF4VeUA9CF-UAAED
+[2023-03-30 01:54:59] INFO: A user has connected: InqbasPvwkxGgX7dAAEF
+[2023-03-30 01:54:59] INFO: A user has connected: uJLRhOVdqM88XEg0AAEH
+[2023-03-30 01:54:59] INFO: A user has connected: usEFoxsyEdUFCKbVAAEJ
+[2023-03-30 01:54:59] INFO: A user has connected: LPKGIcHhuQjP4L24AAEL
+[2023-03-30 02:11:17] INFO: A user has disconnected: Tj8pYF4VeUA9CF-UAAED
+[2023-03-30 02:11:17] INFO: A user has disconnected: InqbasPvwkxGgX7dAAEF
+[2023-03-30 02:11:17] INFO: A user has disconnected: LPKGIcHhuQjP4L24AAEL
+[2023-03-30 02:11:17] INFO: A user has disconnected: usEFoxsyEdUFCKbVAAEJ
+[2023-03-30 02:11:17] INFO: A user has disconnected: uJLRhOVdqM88XEg0AAEH
+[2023-03-30 02:11:17] INFO: A user has connected: U_Qa-SmP2oQwz9XJAAEN
+[2023-03-30 02:11:18] INFO: A user has connected: ckbT6WGQoQtRHV_1AAEP
+[2023-03-30 02:11:18] INFO: A user has connected: 0lcpcYywbsrJJBWXAAER
+[2023-03-30 02:11:18] INFO: A user has connected: h6IM0VtRuouaSt7-AAET
+[2023-03-30 02:11:18] INFO: A user has connected: cbuZHjXROE9QnxWKAAEV
+[2023-03-30 02:28:05] INFO: A user has disconnected: U_Qa-SmP2oQwz9XJAAEN
+[2023-03-30 02:28:05] INFO: A user has disconnected: ckbT6WGQoQtRHV_1AAEP
+[2023-03-30 02:28:05] INFO: A user has disconnected: cbuZHjXROE9QnxWKAAEV
+[2023-03-30 02:28:05] INFO: A user has disconnected: h6IM0VtRuouaSt7-AAET
+[2023-03-30 02:28:05] INFO: A user has disconnected: 0lcpcYywbsrJJBWXAAER
+[2023-03-30 02:28:05] INFO: A user has connected: Bbke_GjXZ-xgDPnVAAEX
+[2023-03-30 02:28:05] INFO: A user has connected: FCQ9LTDczRygC6UAAAEZ
+[2023-03-30 02:28:06] INFO: A user has connected: GAR0kpBfhunb1isKAAEb
+[2023-03-30 02:28:06] INFO: A user has connected: 0Rx-maL95zvxKt0MAAEd
+[2023-03-30 02:28:06] INFO: A user has connected: yUKdtTGvtrfjxIk2AAEf
+[2023-03-30 02:45:16] INFO: A user has disconnected: Bbke_GjXZ-xgDPnVAAEX
+[2023-03-30 02:45:16] INFO: A user has disconnected: FCQ9LTDczRygC6UAAAEZ
+[2023-03-30 02:45:16] INFO: A user has disconnected: GAR0kpBfhunb1isKAAEb
+[2023-03-30 02:45:16] INFO: A user has disconnected: 0Rx-maL95zvxKt0MAAEd
+[2023-03-30 02:45:16] INFO: A user has disconnected: yUKdtTGvtrfjxIk2AAEf
+[2023-03-30 02:45:16] INFO: A user has connected: B2lLWABHcXAvChIYAAEh
+[2023-03-30 02:45:17] INFO: A user has connected: 2m3xLiBTr4MyDIjVAAEj
+[2023-03-30 02:45:17] INFO: A user has connected: 2YwbuDPt4H--epF4AAEl
+[2023-03-30 02:45:17] INFO: A user has connected: 7X8fq57YpzN-x9e7AAEn
+[2023-03-30 02:45:17] INFO: A user has connected: 6QQC1ObCXgG7MZYLAAEp
+[2023-03-30 03:02:03] INFO: A user has disconnected: B2lLWABHcXAvChIYAAEh
+[2023-03-30 03:02:03] INFO: A user has disconnected: 6QQC1ObCXgG7MZYLAAEp
+[2023-03-30 03:02:03] INFO: A user has disconnected: 7X8fq57YpzN-x9e7AAEn
+[2023-03-30 03:02:03] INFO: A user has disconnected: 2YwbuDPt4H--epF4AAEl
+[2023-03-30 03:02:03] INFO: A user has disconnected: 2m3xLiBTr4MyDIjVAAEj
+[2023-03-30 03:02:03] INFO: A user has connected: r_IsmUX3VXkFQsUPAAEr
+[2023-03-30 03:02:04] INFO: A user has connected: TpbR5baxepFsk9SMAAEt
+[2023-03-30 03:02:04] INFO: A user has connected: WsdovDNHfTXF2YXVAAEv
+[2023-03-30 03:02:04] INFO: A user has connected: e0pUG7OdRQQ49ilYAAEx
+[2023-03-30 03:02:04] INFO: A user has connected: AiKDv5Q60CNVs_NPAAEz
+[2023-03-30 03:19:40] INFO: A user has disconnected: r_IsmUX3VXkFQsUPAAEr
+[2023-03-30 03:19:40] INFO: A user has disconnected: TpbR5baxepFsk9SMAAEt
+[2023-03-30 03:19:40] INFO: A user has disconnected: AiKDv5Q60CNVs_NPAAEz
+[2023-03-30 03:19:40] INFO: A user has disconnected: e0pUG7OdRQQ49ilYAAEx
+[2023-03-30 03:19:40] INFO: A user has disconnected: WsdovDNHfTXF2YXVAAEv
+[2023-03-30 03:19:40] INFO: A user has connected: 581M2t_47d_vug3eAAE1
+[2023-03-30 03:19:41] INFO: A user has connected: SecRncYvkrtME1SmAAE3
+[2023-03-30 03:19:41] INFO: A user has connected: M2ROXnVA4_AAWDMtAAE5
+[2023-03-30 03:19:41] INFO: A user has connected: mwxkNZMCEG_OgiZqAAE8
+[2023-03-30 03:19:41] INFO: A user has connected: nIKJyL_9sZfaB3TKAAE9
+[2023-03-30 03:35:52] INFO: A user has disconnected: 581M2t_47d_vug3eAAE1
+[2023-03-30 03:35:52] INFO: A user has disconnected: SecRncYvkrtME1SmAAE3
+[2023-03-30 03:35:52] INFO: A user has disconnected: M2ROXnVA4_AAWDMtAAE5
+[2023-03-30 03:35:52] INFO: A user has disconnected: mwxkNZMCEG_OgiZqAAE8
+[2023-03-30 03:35:52] INFO: A user has disconnected: nIKJyL_9sZfaB3TKAAE9
+[2023-03-30 03:35:53] INFO: A user has connected: T6Wnujq5c4xXnn2YAAE_
+[2023-03-30 03:35:53] INFO: A user has connected: FmBLKuAm3F6FtP_JAAFB
+[2023-03-30 03:35:53] INFO: A user has connected: wr39xy3rFHDK9EM8AAFD
+[2023-03-30 03:35:53] INFO: A user has connected: KZ65BCTsWF5g-L6lAAFF
+[2023-03-30 03:35:53] INFO: A user has connected: EwPBxchvJmsNjQDpAAFH
+[2023-03-30 03:53:32] INFO: A user has disconnected: T6Wnujq5c4xXnn2YAAE_
+[2023-03-30 03:53:32] INFO: A user has disconnected: EwPBxchvJmsNjQDpAAFH
+[2023-03-30 03:53:32] INFO: A user has disconnected: KZ65BCTsWF5g-L6lAAFF
+[2023-03-30 03:53:32] INFO: A user has disconnected: wr39xy3rFHDK9EM8AAFD
+[2023-03-30 03:53:32] INFO: A user has disconnected: FmBLKuAm3F6FtP_JAAFB
+[2023-03-30 03:53:32] INFO: A user has connected: DHhbU2uZJI11hvnPAAFJ
+[2023-03-30 03:53:32] INFO: A user has connected: SaQ0flYijnAmPanLAAFL
+[2023-03-30 03:53:33] INFO: A user has connected: sLEgq3NxpAmRjAFgAAFN
+[2023-03-30 03:53:33] INFO: A user has connected: mj1lLpwGMTPPCnZ9AAFP
+[2023-03-30 03:53:33] INFO: A user has connected: 34mcWYngAAc30YDEAAFR
+[2023-03-30 04:10:37] INFO: A user has disconnected: DHhbU2uZJI11hvnPAAFJ
+[2023-03-30 04:10:37] INFO: A user has disconnected: 34mcWYngAAc30YDEAAFR
+[2023-03-30 04:10:37] INFO: A user has disconnected: mj1lLpwGMTPPCnZ9AAFP
+[2023-03-30 04:10:37] INFO: A user has disconnected: sLEgq3NxpAmRjAFgAAFN
+[2023-03-30 04:10:37] INFO: A user has disconnected: SaQ0flYijnAmPanLAAFL
+[2023-03-30 04:10:38] INFO: A user has connected: rpRhSXe0lMle1XKhAAFT
+[2023-03-30 04:10:38] INFO: A user has connected: L0GMl9hDbWFWxjmHAAFV
+[2023-03-30 04:10:38] INFO: A user has connected: R4E69kx3_6nUXrM-AAFX
+[2023-03-30 04:10:38] INFO: A user has connected: AAB9T29Fkxtvs3CjAAFZ
+[2023-03-30 04:10:38] INFO: A user has connected: ywjbzvzz6k35ktSeAAFb
+[2023-03-30 04:28:17] INFO: A user has disconnected: rpRhSXe0lMle1XKhAAFT
+[2023-03-30 04:28:17] INFO: A user has disconnected: L0GMl9hDbWFWxjmHAAFV
+[2023-03-30 04:28:17] INFO: A user has disconnected: ywjbzvzz6k35ktSeAAFb
+[2023-03-30 04:28:17] INFO: A user has disconnected: AAB9T29Fkxtvs3CjAAFZ
+[2023-03-30 04:28:17] INFO: A user has disconnected: R4E69kx3_6nUXrM-AAFX
+[2023-03-30 04:28:17] INFO: A user has connected: WCspeno82wFWTS22AAFd
+[2023-03-30 04:28:18] INFO: A user has connected: cNBbukk9lVErilwlAAFf
+[2023-03-30 04:28:18] INFO: A user has connected: _s_PamuYfb72ZKjmAAFh
+[2023-03-30 04:28:18] INFO: A user has connected: OGUePUpzhFx_UwPTAAFj
+[2023-03-30 04:28:18] INFO: A user has connected: 7EPdZzhHRQyLYPCyAAFl
+[2023-03-30 04:45:25] INFO: A user has disconnected: WCspeno82wFWTS22AAFd
+[2023-03-30 04:45:25] INFO: A user has disconnected: cNBbukk9lVErilwlAAFf
+[2023-03-30 04:45:25] INFO: A user has disconnected: _s_PamuYfb72ZKjmAAFh
+[2023-03-30 04:45:25] INFO: A user has disconnected: OGUePUpzhFx_UwPTAAFj
+[2023-03-30 04:45:25] INFO: A user has disconnected: 7EPdZzhHRQyLYPCyAAFl
+[2023-03-30 04:45:25] INFO: A user has connected: gmpwum6xv1StGeIsAAFn
+[2023-03-30 04:45:25] INFO: A user has connected: hVJMa-zPXN8Xc3BqAAFp
+[2023-03-30 04:45:26] INFO: A user has connected: kkX8gI57LyD4QXEfAAFr
+[2023-03-30 04:45:26] INFO: A user has connected: rJpOqgOsfag5NfaZAAFt
+[2023-03-30 04:45:26] INFO: A user has connected: lItCh15NNrwqX1DZAAFv
+[2023-03-30 05:02:59] INFO: A user has disconnected: gmpwum6xv1StGeIsAAFn
+[2023-03-30 05:02:59] INFO: A user has disconnected: kkX8gI57LyD4QXEfAAFr
+[2023-03-30 05:02:59] INFO: A user has disconnected: hVJMa-zPXN8Xc3BqAAFp
+[2023-03-30 05:02:59] INFO: A user has disconnected: lItCh15NNrwqX1DZAAFv
+[2023-03-30 05:02:59] INFO: A user has disconnected: rJpOqgOsfag5NfaZAAFt
+[2023-03-30 05:02:59] INFO: A user has connected: 6YsrKQzSgjBTpK3ZAAFx
+[2023-03-30 05:02:59] INFO: A user has connected: sZvkg-VsxB2_YgwnAAFz
+[2023-03-30 05:02:59] INFO: A user has connected: H0XZoyATDefcyusEAAF1
+[2023-03-30 05:03:00] INFO: A user has connected: ulpJZlpOnXQnwZR0AAF3
+[2023-03-30 05:03:00] INFO: A user has connected: 9dIQcX_VjIM-U9D1AAF5
+[2023-03-30 05:19:59] INFO: A user has disconnected: 6YsrKQzSgjBTpK3ZAAFx
+[2023-03-30 05:19:59] INFO: A user has disconnected: 9dIQcX_VjIM-U9D1AAF5
+[2023-03-30 05:19:59] INFO: A user has disconnected: ulpJZlpOnXQnwZR0AAF3
+[2023-03-30 05:19:59] INFO: A user has disconnected: H0XZoyATDefcyusEAAF1
+[2023-03-30 05:19:59] INFO: A user has disconnected: sZvkg-VsxB2_YgwnAAFz
+[2023-03-30 05:19:59] INFO: A user has connected: 9aIquimE3tLh7uVIAAF7
+[2023-03-30 05:20:00] INFO: A user has connected: zup2NRYI-MNK9CVlAAF9
+[2023-03-30 05:20:00] INFO: A user has connected: Ar0ZCkc8wt48K4qNAAF_
+[2023-03-30 05:20:00] INFO: A user has connected: ZaXXoycukGmzfvy0AAGB
+[2023-03-30 05:20:00] INFO: A user has connected: Rt4djmIctm6Xrm3_AAGD
+[2023-03-30 05:37:47] INFO: A user has disconnected: 9aIquimE3tLh7uVIAAF7
+[2023-03-30 05:37:47] INFO: A user has disconnected: zup2NRYI-MNK9CVlAAF9
+[2023-03-30 05:37:47] INFO: A user has disconnected: Ar0ZCkc8wt48K4qNAAF_
+[2023-03-30 05:37:47] INFO: A user has disconnected: ZaXXoycukGmzfvy0AAGB
+[2023-03-30 05:37:47] INFO: A user has disconnected: Rt4djmIctm6Xrm3_AAGD
+[2023-03-30 05:37:47] INFO: A user has connected: _lIbySE4c8wgZpDiAAGF
+[2023-03-30 05:37:48] INFO: A user has connected: 8rTR4_FProzvQeYmAAGH
+[2023-03-30 05:37:48] INFO: A user has connected: mC3JeOxPXr4n7Q-fAAGJ
+[2023-03-30 05:37:48] INFO: A user has connected: XYTXMwp7CriFgPcFAAGL
+[2023-03-30 05:37:48] INFO: A user has connected: WjAPgZCJV0emxg5pAAGN
+[2023-03-30 05:53:56] INFO: A user has disconnected: _lIbySE4c8wgZpDiAAGF
+[2023-03-30 05:53:56] INFO: A user has disconnected: 8rTR4_FProzvQeYmAAGH
+[2023-03-30 05:53:56] INFO: A user has disconnected: mC3JeOxPXr4n7Q-fAAGJ
+[2023-03-30 05:53:56] INFO: A user has disconnected: XYTXMwp7CriFgPcFAAGL
+[2023-03-30 05:53:56] INFO: A user has disconnected: WjAPgZCJV0emxg5pAAGN
+[2023-03-30 05:53:57] INFO: A user has connected: LsdkQQiI6jzOStxcAAGP
+[2023-03-30 05:53:57] INFO: A user has connected: 5M_MVb4wEUSjq6eoAAGR
+[2023-03-30 05:53:57] INFO: A user has connected: 7ky94UHGpQ4fvBPoAAGT
+[2023-03-30 05:53:57] INFO: A user has connected: amkUNTwQIyVdVyrLAAGV
+[2023-03-30 05:53:57] INFO: A user has connected: e9L4ZXuuBYG8u__nAAGX
+[2023-03-30 06:03:02] INFO: A user has disconnected: LsdkQQiI6jzOStxcAAGP
+[2023-03-30 06:03:02] INFO: A user has disconnected: 5M_MVb4wEUSjq6eoAAGR
+[2023-03-30 06:03:02] INFO: A user has disconnected: 7ky94UHGpQ4fvBPoAAGT
+[2023-03-30 06:03:02] INFO: A user has disconnected: amkUNTwQIyVdVyrLAAGV
+[2023-03-30 06:03:02] INFO: A user has disconnected: e9L4ZXuuBYG8u__nAAGX
+[2023-03-30 06:03:02] INFO: A user has connected: EXq6A3ZVQJtz4_UFAAGZ
+[2023-03-30 06:03:02] INFO: A user has connected: SODiz0vg6DezNbG6AAGb
+[2023-03-30 06:03:03] INFO: A user has connected: CJGbMPoGpAsvE_TyAAGe
+[2023-03-30 06:03:03] INFO: A user has connected: F2KqyNdVkFeXh0Y2AAGf
+[2023-03-30 06:03:03] INFO: A user has connected: azySZjyWWlEvoQgLAAGh
+[2023-03-30 06:36:35] INFO: A user has disconnected: EXq6A3ZVQJtz4_UFAAGZ
+[2023-03-30 06:36:35] INFO: A user has disconnected: SODiz0vg6DezNbG6AAGb
+[2023-03-30 06:36:35] INFO: A user has disconnected: CJGbMPoGpAsvE_TyAAGe
+[2023-03-30 06:36:35] INFO: A user has disconnected: F2KqyNdVkFeXh0Y2AAGf
+[2023-03-30 06:36:35] INFO: A user has disconnected: azySZjyWWlEvoQgLAAGh
+[2023-03-30 06:36:36] INFO: A user has connected: pLnSBbR6njP_OQ9YAAGj
+[2023-03-30 06:36:36] INFO: A user has connected: PzW_hn4th1Od2VtiAAGl
+[2023-03-30 06:36:36] INFO: A user has connected: _h21F135TkLaZNnWAAGn
+[2023-03-30 06:36:36] INFO: A user has connected: 2pMwSak1jidsc03bAAGp
+[2023-03-30 06:36:36] INFO: A user has connected: wcYFjFi_z8eBNzU7AAGr
+[2023-03-30 06:54:05] INFO: A user has disconnected: pLnSBbR6njP_OQ9YAAGj
+[2023-03-30 06:54:05] INFO: A user has disconnected: wcYFjFi_z8eBNzU7AAGr
+[2023-03-30 06:54:05] INFO: A user has disconnected: 2pMwSak1jidsc03bAAGp
+[2023-03-30 06:54:05] INFO: A user has disconnected: _h21F135TkLaZNnWAAGn
+[2023-03-30 06:54:05] INFO: A user has disconnected: PzW_hn4th1Od2VtiAAGl
+[2023-03-30 06:54:06] INFO: A user has connected: b5RIx7OyR_4RLrpPAAGt
+[2023-03-30 06:54:06] INFO: A user has connected: eLMzSDmHJbJ30YhrAAGv
+[2023-03-30 06:54:06] INFO: A user has connected: jcI30diMvGHU_mmJAAGy
+[2023-03-30 06:54:06] INFO: A user has connected: tVbchTS28EbeDI21AAGz
+[2023-03-30 06:54:06] INFO: A user has connected: lyfZMqtOqcGX4w_3AAG1
+[2023-03-30 07:11:59] INFO: A user has disconnected: b5RIx7OyR_4RLrpPAAGt
+[2023-03-30 07:11:59] INFO: A user has disconnected: lyfZMqtOqcGX4w_3AAG1
+[2023-03-30 07:11:59] INFO: A user has disconnected: tVbchTS28EbeDI21AAGz
+[2023-03-30 07:11:59] INFO: A user has disconnected: jcI30diMvGHU_mmJAAGy
+[2023-03-30 07:11:59] INFO: A user has disconnected: eLMzSDmHJbJ30YhrAAGv
+[2023-03-30 07:12:00] INFO: A user has connected: CMwq0vo9ByvfHltAAAG3
+[2023-03-30 07:12:00] INFO: A user has connected: Hcxtl0bXKd3W5LPzAAG5
+[2023-03-30 07:12:00] INFO: A user has connected: 9SADwa5IFa2hPaGOAAG7
+[2023-03-30 07:12:00] INFO: A user has connected: UfcJqIPuOQZZNIyTAAG9
+[2023-03-30 07:12:00] INFO: A user has connected: JiU3AWncC32rTK5SAAG_
+[2023-03-30 07:28:00] INFO: A user has disconnected: CMwq0vo9ByvfHltAAAG3
+[2023-03-30 07:28:00] INFO: A user has disconnected: JiU3AWncC32rTK5SAAG_
+[2023-03-30 07:28:00] INFO: A user has disconnected: UfcJqIPuOQZZNIyTAAG9
+[2023-03-30 07:28:00] INFO: A user has disconnected: 9SADwa5IFa2hPaGOAAG7
+[2023-03-30 07:28:00] INFO: A user has disconnected: Hcxtl0bXKd3W5LPzAAG5
+[2023-03-30 07:28:00] INFO: A user has connected: W5FQ-CIWjVSQJIZ3AAHB
+[2023-03-30 07:28:01] INFO: A user has connected: PsFBt5DVYyUKyBD3AAHD
+[2023-03-30 07:28:01] INFO: A user has connected: SnWm6bChuQ9OnmVpAAHF
+[2023-03-30 07:28:01] INFO: A user has connected: w7c3xCh2jo4S1_0BAAHH
+[2023-03-30 07:28:01] INFO: A user has connected: Cj7oA9c_OqLd87XZAAHJ
+[2023-03-30 07:45:13] INFO: A user has disconnected: W5FQ-CIWjVSQJIZ3AAHB
+[2023-03-30 07:45:13] INFO: A user has disconnected: Cj7oA9c_OqLd87XZAAHJ
+[2023-03-30 07:45:13] INFO: A user has disconnected: w7c3xCh2jo4S1_0BAAHH
+[2023-03-30 07:45:13] INFO: A user has disconnected: SnWm6bChuQ9OnmVpAAHF
+[2023-03-30 07:45:13] INFO: A user has disconnected: PsFBt5DVYyUKyBD3AAHD
+[2023-03-30 07:45:14] INFO: A user has connected: McAhryxlfG3UbVF1AAHL
+[2023-03-30 07:45:14] INFO: A user has connected: hAgZ_B4in7rc03jkAAHN
+[2023-03-30 07:45:14] INFO: A user has connected: W3Zw3cW3_G2H7KqVAAHP
+[2023-03-30 07:45:14] INFO: A user has connected: mV-hq4SSp9l9dzx5AAHR
+[2023-03-30 07:45:14] INFO: A user has connected: 7E7OyRscfPh8Bjb8AAHT
+[2023-03-30 08:00:44] INFO: A user has disconnected: McAhryxlfG3UbVF1AAHL
+[2023-03-30 08:00:44] INFO: A user has disconnected: hAgZ_B4in7rc03jkAAHN
+[2023-03-30 08:00:44] INFO: A user has disconnected: W3Zw3cW3_G2H7KqVAAHP
+[2023-03-30 08:00:44] INFO: A user has disconnected: mV-hq4SSp9l9dzx5AAHR
+[2023-03-30 08:00:44] INFO: A user has disconnected: 7E7OyRscfPh8Bjb8AAHT
+[2023-03-30 08:00:44] INFO: A user has connected: 5WQDMdCADI_-NkNTAAHW
+[2023-03-30 08:00:44] INFO: A user has connected: Ws5fRKXZvT9JanRqAAHX
+[2023-03-30 08:00:45] INFO: A user has connected: 3jNtaxMXpE8W1CcqAAHZ
+[2023-03-30 08:00:45] INFO: A user has connected: FuaQlAWtj6v9xG7fAAHb
+[2023-03-30 08:00:45] INFO: A user has connected: Jpho28VMvQDPQDJFAAHd
+[2023-03-30 08:05:44] INFO: A user has disconnected: 5WQDMdCADI_-NkNTAAHW
+[2023-03-30 08:05:44] INFO: A user has disconnected: Ws5fRKXZvT9JanRqAAHX
+[2023-03-30 08:05:44] INFO: A user has disconnected: 3jNtaxMXpE8W1CcqAAHZ
+[2023-03-30 08:05:44] INFO: A user has disconnected: FuaQlAWtj6v9xG7fAAHb
+[2023-03-30 08:05:44] INFO: A user has disconnected: Jpho28VMvQDPQDJFAAHd
+[2023-03-30 08:05:45] INFO: A user has connected: N0m3WDKa5uW7okPQAAHf
+[2023-03-30 08:05:45] INFO: A user has connected: Xt2jYsc1VQ4HmgBYAAHh
+[2023-03-30 08:05:45] INFO: A user has connected: DlyizOWiwKMBOzPsAAHj
+[2023-03-30 08:05:45] INFO: A user has connected: -qabeBLgN1KxTazaAAHl
+[2023-03-30 08:05:46] INFO: A user has connected: AYTTbJwFV9hs2itsAAHn
+[2023-03-30 08:22:14] INFO: A user has disconnected: N0m3WDKa5uW7okPQAAHf
+[2023-03-30 08:22:14] INFO: A user has disconnected: AYTTbJwFV9hs2itsAAHn
+[2023-03-30 08:22:14] INFO: A user has disconnected: -qabeBLgN1KxTazaAAHl
+[2023-03-30 08:22:14] INFO: A user has disconnected: DlyizOWiwKMBOzPsAAHj
+[2023-03-30 08:22:14] INFO: A user has disconnected: Xt2jYsc1VQ4HmgBYAAHh
+[2023-03-30 08:22:15] INFO: A user has connected: GQhytVnbRvvvQz5gAAHp
+[2023-03-30 08:22:15] INFO: A user has connected: wZdVWGgByJ6EDlbcAAHr
+[2023-03-30 08:22:15] INFO: A user has connected: -q5ZWxXrGwezjoyVAAHt
+[2023-03-30 08:22:15] INFO: A user has connected: nyMiP4bKOIyd4QikAAHv
+[2023-03-30 08:22:16] INFO: A user has connected: JoCUj8Te0YO3zvjTAAHx
+[2023-03-30 08:38:04] INFO: A user has disconnected: GQhytVnbRvvvQz5gAAHp
+[2023-03-30 08:38:04] INFO: A user has disconnected: wZdVWGgByJ6EDlbcAAHr
+[2023-03-30 08:38:04] INFO: A user has disconnected: -q5ZWxXrGwezjoyVAAHt
+[2023-03-30 08:38:04] INFO: A user has disconnected: nyMiP4bKOIyd4QikAAHv
+[2023-03-30 08:38:04] INFO: A user has disconnected: JoCUj8Te0YO3zvjTAAHx
+[2023-03-30 08:38:04] INFO: A user has connected: X5dG8_61oCrBXB7NAAHz
+[2023-03-30 08:38:05] INFO: A user has connected: AAqi1Nm94XXTdZo9AAH1
+[2023-03-30 08:38:05] INFO: A user has connected: H7fTlkg1c7eGAWD3AAH3
+[2023-03-30 08:38:05] INFO: A user has connected: X1km5ji--lPoBYbOAAH5
+[2023-03-30 08:38:05] INFO: A user has connected: v792PD148XZ_9c3nAAH7
+[2023-03-30 08:55:36] INFO: A user has disconnected: X5dG8_61oCrBXB7NAAHz
+[2023-03-30 08:55:36] INFO: A user has disconnected: AAqi1Nm94XXTdZo9AAH1
+[2023-03-30 08:55:36] INFO: A user has disconnected: H7fTlkg1c7eGAWD3AAH3
+[2023-03-30 08:55:36] INFO: A user has disconnected: X1km5ji--lPoBYbOAAH5
+[2023-03-30 08:55:36] INFO: A user has disconnected: v792PD148XZ_9c3nAAH7
+[2023-03-30 08:55:36] INFO: A user has connected: OwlJ0Accq8fWX3VsAAH9
+[2023-03-30 08:55:37] INFO: A user has connected: eqyAPE43ZQKld27yAAH_
+[2023-03-30 08:55:37] INFO: A user has connected: ryLcx-e-oESW67sAAAIB
+[2023-03-30 08:55:37] INFO: A user has connected: SxGREHrChZEGLb8SAAID
+[2023-03-30 08:55:37] INFO: A user has connected: JKOgiguPIarNOkRDAAIF
+[2023-03-30 09:10:44] INFO: A user has disconnected: OwlJ0Accq8fWX3VsAAH9
+[2023-03-30 09:10:44] INFO: A user has disconnected: eqyAPE43ZQKld27yAAH_
+[2023-03-30 09:10:44] INFO: A user has disconnected: ryLcx-e-oESW67sAAAIB
+[2023-03-30 09:10:44] INFO: A user has disconnected: SxGREHrChZEGLb8SAAID
+[2023-03-30 09:10:44] INFO: A user has disconnected: JKOgiguPIarNOkRDAAIF
+[2023-03-30 09:10:44] INFO: A user has connected: P4YP2q2qvvqnaBGRAAIH
+[2023-03-30 09:10:44] INFO: A user has connected: sXjXiHJdQGAXTgEIAAIJ
+[2023-03-30 09:10:45] INFO: A user has connected: ZnhlNtUcaCG2t_heAAIL
+[2023-03-30 09:10:45] INFO: A user has connected: WRfjiIOmtp1mEfDPAAIN
+[2023-03-30 09:10:45] INFO: A user has connected: 7lhgdfZF_-8Cy7L7AAIP
+[2023-03-30 09:27:03] INFO: A user has disconnected: P4YP2q2qvvqnaBGRAAIH
+[2023-03-30 09:27:03] INFO: A user has disconnected: 7lhgdfZF_-8Cy7L7AAIP
+[2023-03-30 09:27:03] INFO: A user has disconnected: WRfjiIOmtp1mEfDPAAIN
+[2023-03-30 09:27:03] INFO: A user has disconnected: ZnhlNtUcaCG2t_heAAIL
+[2023-03-30 09:27:03] INFO: A user has disconnected: sXjXiHJdQGAXTgEIAAIJ
+[2023-03-30 09:27:03] INFO: A user has connected: ZxZiF5dfe9aAoW_8AAIS
+[2023-03-30 09:27:03] INFO: A user has connected: VhYsFDPSWlvL6mScAAIT
+[2023-03-30 09:27:03] INFO: A user has connected: aJ7BRzE1fITCjuCTAAIV
+[2023-03-30 09:27:04] INFO: A user has connected: wMQPfxVvSePqK3OJAAIX
+[2023-03-30 09:27:04] INFO: A user has connected: xzJf-KpWqQ16pxmvAAIZ
+[2023-03-30 09:44:20] INFO: A user has disconnected: ZxZiF5dfe9aAoW_8AAIS
+[2023-03-30 09:44:20] INFO: A user has disconnected: xzJf-KpWqQ16pxmvAAIZ
+[2023-03-30 09:44:20] INFO: A user has disconnected: wMQPfxVvSePqK3OJAAIX
+[2023-03-30 09:44:20] INFO: A user has disconnected: aJ7BRzE1fITCjuCTAAIV
+[2023-03-30 09:44:20] INFO: A user has disconnected: VhYsFDPSWlvL6mScAAIT
+[2023-03-30 09:44:20] INFO: A user has connected: LnpuErOhNE_13SmMAAIb
+[2023-03-30 09:44:21] INFO: A user has connected: nvstX4YFAPeLpn8pAAId
+[2023-03-30 09:44:21] INFO: A user has connected: m-umu7CqkwmXumapAAIf
+[2023-03-30 09:44:21] INFO: A user has connected: nWp0Q0cmgvItcy_GAAIh
+[2023-03-30 09:44:21] INFO: A user has connected: 0wORf8KAMWRNBaTSAAIj
+[2023-03-30 12:52:27] INFO: Server listening on port 3000
+[2023-03-30 12:52:34] INFO: A user has connected: 94O505eMuaXTGR-XAAAB
+[2023-03-30 13:18:12] INFO: Adding player: 94O505eMuaXTGR-XAAAB | Name: Timo | Unique ID: afec8b69696bcc18f97864bc3cecdb54
+[2023-03-30 13:18:13] INFO: User rejoined: 94O505eMuaXTGR-XAAAB | Name: Timo | Unique ID: afec8b69696bcc18f97864bc3cecdb54
+[2023-03-30 13:18:23] INFO: A user has connected: U9R96BiT_8VNVmgbAAAD
+[2023-03-30 13:18:23] INFO: A user has connected: UUyTjjIjMTlmtjk9AAAF
+[2023-03-30 13:20:00] INFO: A user has disconnected: UUyTjjIjMTlmtjk9AAAF
+[2023-03-30 13:20:00] INFO: A user has disconnected: 94O505eMuaXTGR-XAAAB
+[2023-03-30 13:20:00] INFO: A user has connected: 25bfgk2u77o_ilSTAAAH
+[2023-03-30 13:20:00] INFO: A user has connected: kXcCRpM2RZqP1aGjAAAJ
+[2023-03-30 13:20:00] INFO: User rejoined: kXcCRpM2RZqP1aGjAAAJ | Name: Timo | Unique ID: afec8b69696bcc18f97864bc3cecdb54
+[2023-03-30 13:20:05] INFO: A user has disconnected: 25bfgk2u77o_ilSTAAAH
+[2023-03-30 13:20:05] INFO: A user has connected: GkUVQCwAFRDdabDIAAAL
+[2023-03-30 13:20:31] INFO: Question opened: Welches Material, das etwa 200-mal stärk...}
+[2023-03-30 13:21:18] INFO: User rejoined: kXcCRpM2RZqP1aGjAAAJ | Name: Timo | Unique ID: afec8b69696bcc18f97864bc3cecdb54
+[2023-03-30 13:22:14] INFO: Server listening on port 3000
+[2023-03-30 13:22:17] INFO: A user has connected: KAtU_KrBvtvVjeWcAAAB
+[2023-03-30 13:22:17] INFO: A user has connected: NUmHwSx3MC8Nq6dHAAAD
+[2023-03-30 13:22:17] INFO: A user has disconnected: NUmHwSx3MC8Nq6dHAAAD
+[2023-03-30 13:22:18] INFO: A user has connected: x0bkeCQoztWJCeNuAAAF
+[2023-03-30 13:22:18] INFO: User tried to rejoin but is unknown: x0bkeCQoztWJCeNuAAAF | Unique ID: afec8b69696bcc18f97864bc3cecdb54
+[2023-03-30 13:22:18] INFO: A user has connected: DZ1eDC9cqHUjRAdTAAAH
+[2023-03-30 13:22:20] INFO: Adding player: x0bkeCQoztWJCeNuAAAF | Name: Timo | Unique ID: 128c9570eaa161350aebc1019c5ad2b9
+[2023-03-30 13:22:20] INFO: User rejoined: x0bkeCQoztWJCeNuAAAF | Name: Timo | Unique ID: 128c9570eaa161350aebc1019c5ad2b9
+[2023-03-30 13:22:22] INFO: A user has disconnected: DZ1eDC9cqHUjRAdTAAAH
+[2023-03-30 13:22:22] INFO: A user has connected: G0a6aiPYelxylBxTAAAJ
+[2023-03-30 13:22:25] INFO: Question opened: /flag3.png...}
+[2023-03-30 13:22:26] INFO: Buzzed
+[2023-03-30 13:22:26] INFO: Player buzzed: Timo
+[2023-03-30 13:22:34] INFO: Player answered correctly: Timo. Added 400 points (-> 400).
+[2023-03-30 13:22:37] INFO: Buzzed
+[2023-03-30 13:22:37] INFO: Player buzzed: Timo
+[2023-03-30 13:22:39] INFO: Player answered correctly: Timo. Added 400 points (-> 800).
+[2023-03-30 13:22:45] INFO: Buzzed
+[2023-03-30 13:22:45] INFO: Player buzzed: Timo
+[2023-03-30 13:22:47] INFO: Player answered incorrectly: Timo. Removed 200 points (-> 600).
+[2023-03-30 13:24:35] INFO: User rejoined: x0bkeCQoztWJCeNuAAAF | Name: Timo | Unique ID: 128c9570eaa161350aebc1019c5ad2b9
+[2023-03-30 13:24:40] INFO: Buzzed
+[2023-03-30 13:24:40] INFO: Player buzzed: Timo
+[2023-03-30 13:24:44] INFO: Player answered correctly: Timo. Added 400 points (-> 1000).
+[2023-03-30 13:24:49] INFO: Buzzed
+[2023-03-30 13:24:49] INFO: Player buzzed: Timo
+[2023-03-30 13:24:52] INFO: Player answered incorrectly: Timo. Removed 200 points (-> 800).
+[2023-03-30 13:24:59] INFO: User rejoined: x0bkeCQoztWJCeNuAAAF | Name: Timo | Unique ID: 128c9570eaa161350aebc1019c5ad2b9
+[2023-03-30 13:26:31] INFO: Buzzed
+[2023-03-30 13:26:31] INFO: Player buzzed: Timo
+[2023-03-30 13:26:34] INFO: Resetting buzzer
+[2023-03-30 13:29:12] INFO: A user has disconnected: G0a6aiPYelxylBxTAAAJ
+[2023-03-30 13:29:12] INFO: A user has connected: FvKF0wP__pWRCONcAAAL
+[2023-03-30 13:29:50] INFO: Question aborted: /flag3.png...}
+[2023-03-30 13:29:53] INFO: Question opened: Wie heißt der flüchtige Speicher in eine...}
+[2023-03-30 13:43:55] INFO: User rejoined: x0bkeCQoztWJCeNuAAAF | Name: Timo | Unique ID: 128c9570eaa161350aebc1019c5ad2b9
+[2023-03-30 13:44:28] INFO: User rejoined: x0bkeCQoztWJCeNuAAAF | Name: Timo | Unique ID: 128c9570eaa161350aebc1019c5ad2b9
+[2023-03-30 13:47:20] INFO: Question aborted: Wie heißt der flüchtige Speicher in eine...}
+[2023-03-30 13:58:56] INFO: User rejoined: x0bkeCQoztWJCeNuAAAF | Name: Timo | Unique ID: 128c9570eaa161350aebc1019c5ad2b9
+[2023-03-30 13:59:51] INFO: Server listening on port 3000
+[2023-03-30 13:59:52] INFO: A user has connected: YDYlmOuALe7a96OuAAAB
+[2023-03-30 13:59:52] INFO: A user has connected: WbazfTUzjEZNfsbcAAAD
+[2023-03-30 13:59:56] INFO: A user has connected: CtwF2d70cJPpDML8AAAF
+[2023-03-30 13:59:57] INFO: A user has disconnected: WbazfTUzjEZNfsbcAAAD
+[2023-03-30 13:59:58] INFO: A user has connected: jHL9u0Va4jA08zZyAAAH
+[2023-03-30 13:59:59] INFO: A user has disconnected: YDYlmOuALe7a96OuAAAB
+[2023-03-30 13:59:59] INFO: A user has connected: Sqk4IqNEj5gXTDFIAAAJ
+[2023-03-30 13:59:59] INFO: User tried to rejoin but is unknown: Sqk4IqNEj5gXTDFIAAAJ | Unique ID: 128c9570eaa161350aebc1019c5ad2b9
+[2023-03-30 14:00:01] INFO: Adding player: Sqk4IqNEj5gXTDFIAAAJ | Name: Timo | Unique ID: 8ce683bbad9a7532f79f412123294fbe
+[2023-03-30 14:00:01] INFO: User rejoined: Sqk4IqNEj5gXTDFIAAAJ | Name: Timo | Unique ID: 8ce683bbad9a7532f79f412123294fbe
+[2023-03-30 14:03:13] INFO: Buzzed
+[2023-03-30 14:03:13] INFO: Player buzzed: Timo
+[2023-03-30 14:03:59] INFO: Resetting buzzer
+[2023-03-30 14:04:02] INFO: Question opened: Wie heißt der flüchtige Speicher in eine...}
+[2023-03-30 14:05:23] INFO: User rejoined: Sqk4IqNEj5gXTDFIAAAJ | Name: Timo | Unique ID: 8ce683bbad9a7532f79f412123294fbe
+[2023-03-30 14:14:00] INFO: User rejoined: Sqk4IqNEj5gXTDFIAAAJ | Name: Timo | Unique ID: 8ce683bbad9a7532f79f412123294fbe
+[2023-03-30 14:14:38] INFO: User rejoined: Sqk4IqNEj5gXTDFIAAAJ | Name: Timo | Unique ID: 8ce683bbad9a7532f79f412123294fbe
+[2023-03-30 14:18:47] INFO: A user has disconnected: Sqk4IqNEj5gXTDFIAAAJ
+[2023-03-30 14:18:47] INFO: A user has connected: LKOAitFnZF9gPDorAAAL
+[2023-03-30 14:18:47] INFO: User rejoined: LKOAitFnZF9gPDorAAAL | Name: Timo | Unique ID: 8ce683bbad9a7532f79f412123294fbe
+[2023-03-30 14:18:48] INFO: A user has disconnected: jHL9u0Va4jA08zZyAAAH
+[2023-03-30 14:18:49] INFO: A user has connected: Myn2khe4wjlzGqPWAAAN
+[2023-03-30 14:19:42] INFO: A user has disconnected: LKOAitFnZF9gPDorAAAL
+[2023-03-30 14:19:42] INFO: A user has connected: mI6QwEnxp6BE0j2lAAAP
+[2023-03-30 14:19:42] INFO: User rejoined: mI6QwEnxp6BE0j2lAAAP | Name: Timo | Unique ID: 8ce683bbad9a7532f79f412123294fbe
+[2023-03-30 14:19:43] INFO: A user has disconnected: Myn2khe4wjlzGqPWAAAN
+[2023-03-30 14:19:44] INFO: A user has connected: pt9VuFnFdnF0yIdYAAAR
+[2023-03-30 14:25:59] INFO: Server listening on port 3000
+[2023-03-30 14:26:00] INFO: A user has connected: na8Rog7dAalAu1u6AAAB
+[2023-03-30 14:26:00] INFO: A user has connected: obsTNyDGPI50g0pMAAAD
+[2023-03-30 14:26:04] INFO: A user has connected: 5tDnq5PkMrNOiG4SAAAF
+[2023-03-30 14:26:11] INFO: A user has disconnected: 5tDnq5PkMrNOiG4SAAAF
+[2023-03-30 14:26:11] INFO: A user has connected: e8jp7BsyfOtv7LaZAAAH
+[2023-03-30 14:34:03] INFO: User tried to rejoin but is unknown: na8Rog7dAalAu1u6AAAB | Unique ID: 8ce683bbad9a7532f79f412123294fbe
+[2023-03-30 14:37:05] INFO: A user has disconnected: na8Rog7dAalAu1u6AAAB
+[2023-03-30 14:37:05] INFO: A user has disconnected: e8jp7BsyfOtv7LaZAAAH
+[2023-03-30 14:37:05] INFO: A user has connected: DZhAwYABdT4e6oqwAAAJ
+[2023-03-30 14:37:05] INFO: A user has connected: 4MD6d1jx9uunsscqAAAL
+[2023-03-30 14:41:50] INFO: A user has disconnected: obsTNyDGPI50g0pMAAAD
+[2023-03-30 14:41:51] INFO: A user has connected: _c-i0GieFNokfvuTAAAN
+[2023-03-30 14:42:50] INFO: A user has disconnected: DZhAwYABdT4e6oqwAAAJ
+[2023-03-30 14:42:50] INFO: A user has disconnected: 4MD6d1jx9uunsscqAAAL
+[2023-03-30 14:42:50] INFO: A user has connected: _kvv_tOLGm17KhNFAAAP
+[2023-03-30 14:42:50] INFO: A user has connected: 6zsmXT1XGIWegJEoAAAR
+[2023-03-30 14:49:14] INFO: Server listening on port 3000
+[2023-03-30 14:49:14] INFO: A user has connected: 0kp9-9XEncxuRBtzAAAB
+[2023-03-30 14:49:15] INFO: A user has connected: QOTN5lo_CAZXL6cgAAAD
+[2023-03-30 14:49:17] INFO: A user has connected: g_MacklZikWcMsE4AAAF
+[2023-03-30 14:49:25] INFO: A user has disconnected: QOTN5lo_CAZXL6cgAAAD
+[2023-03-30 14:49:26] INFO: A user has connected: WTrWoW2HnUoAN9-NAAAH
+[2023-03-30 14:49:27] INFO: A user has disconnected: g_MacklZikWcMsE4AAAF
+[2023-03-30 14:49:27] INFO: A user has connected: zsJ4sNcmTT3_gF9pAAAJ
+[2023-03-30 14:49:29] INFO: Adding player: zsJ4sNcmTT3_gF9pAAAJ | Name: Timo | Unique ID: dd6765eb236014d916f1cfec7ebaafee
+[2023-03-30 14:49:29] INFO: User rejoined: zsJ4sNcmTT3_gF9pAAAJ | Name: Timo | Unique ID: dd6765eb236014d916f1cfec7ebaafee
+[2023-03-30 14:49:41] INFO: Showed board
+[2023-03-30 14:49:50] INFO: Question opened: Jaskier|Cirilla Fiona Elen Riannon|Yenne...}
+[2023-03-30 14:49:53] INFO: Revealed enum item 1
+[2023-03-30 14:49:55] INFO: Revealed enum item 2
+[2023-03-30 14:49:56] INFO: Revealed enum item 3
+[2023-03-30 14:49:56] INFO: Revealed enum item 4
+[2023-03-30 14:50:02] INFO: Revealed enum item 5
+[2023-03-30 14:52:01] INFO: Exposed question
+[2023-03-30 14:52:58] INFO: A user has disconnected: zsJ4sNcmTT3_gF9pAAAJ
+[2023-03-30 14:52:58] INFO: A user has disconnected: WTrWoW2HnUoAN9-NAAAH
+[2023-03-30 14:52:59] INFO: A user has connected: nqKK7J9YOT88Tsp_AAAL
+[2023-03-30 14:52:59] INFO: A user has connected: q0YsjOvG_W4OUQkoAAAN
+[2023-03-30 14:52:59] INFO: User rejoined: q0YsjOvG_W4OUQkoAAAN | Name: Timo | Unique ID: dd6765eb236014d916f1cfec7ebaafee
+[2023-03-30 14:58:55] INFO: Question aborted: Jaskier|Cirilla Fiona Elen Riannon|Yenne...}
+[2023-03-30 14:58:57] INFO: Question opened: Jaskier|Cirilla Fiona Elen Riannon|Yenne...}
+[2023-03-30 14:59:43] INFO: Question aborted: Jaskier|Cirilla Fiona Elen Riannon|Yenne...}
+[2023-03-30 14:59:47] INFO: Question opened: Wie viele Liter Bier werden in Deutschla...}
+[2023-03-30 14:59:50] INFO: Exposed question
+[2023-03-30 15:00:17] INFO: Question aborted: Wie viele Liter Bier werden in Deutschla...}
+[2023-03-30 15:00:19] INFO: Question opened: Wie viele Liter Bier werden in Deutschla...}
+[2023-03-30 15:00:21] INFO: Exposed question
+[2023-03-30 15:00:23] INFO: Exposed answer
+[2023-03-30 15:00:37] INFO: Question aborted: Wie viele Liter Bier werden in Deutschla...}
+[2023-03-30 15:00:38] INFO: Question opened: Wie viele Liter Bier werden in Deutschla...}
+[2023-03-30 15:00:45] INFO: Exposed question
+[2023-03-30 15:01:01] INFO: Question aborted: Wie viele Liter Bier werden in Deutschla...}
+[2023-03-30 15:01:02] INFO: Question opened: Gustavo Fring|Saul Goodman|Jesse Pinkman...}
+[2023-03-30 15:01:05] INFO: Exposed question
+[2023-03-30 15:01:09] INFO: Revealed enum item 1
+[2023-03-30 15:01:10] INFO: Revealed enum item 2
+[2023-03-30 15:01:11] INFO: Revealed enum item 3
+[2023-03-30 15:01:12] INFO: Revealed enum item 4
+[2023-03-30 15:01:26] INFO: Revealed enum item 5
+[2023-03-30 15:01:26] INFO: Revealed enum item 6
+[2023-03-30 15:01:27] INFO: Revealed enum item 7
+[2023-03-30 15:01:29] INFO: Question aborted: Gustavo Fring|Saul Goodman|Jesse Pinkman...}
+[2023-03-30 15:01:34] INFO: A user has disconnected: q0YsjOvG_W4OUQkoAAAN
+[2023-03-30 15:01:34] INFO: A user has connected: tQm6zpUJy2sTbHArAAAP
+[2023-03-30 15:01:34] INFO: User rejoined: tQm6zpUJy2sTbHArAAAP | Name: Timo | Unique ID: dd6765eb236014d916f1cfec7ebaafee
+[2023-03-30 15:01:41] INFO: Question opened: Jaskier|Cirilla Fiona Elen Riannon|Yenne...}
+[2023-03-30 15:01:43] INFO: Exposed question
+[2023-03-30 15:01:48] INFO: Revealed enum item 1
+[2023-03-30 15:01:48] INFO: Revealed enum item 2
+[2023-03-30 15:01:51] INFO: Buzzed
+[2023-03-30 15:03:04] INFO: Server listening on port 3000
+[2023-03-30 15:03:04] INFO: A user has connected: 7L2JNiSQx5m4tVM1AAAB
+[2023-03-30 15:03:05] INFO: A user has connected: T4p-M4bWP1a7GbzVAAAD
+[2023-03-30 15:03:08] INFO: A user has connected: tPqUrMuw8T4SYmXmAAAF
+[2023-03-30 15:03:11] INFO: A user has disconnected: tPqUrMuw8T4SYmXmAAAF
+[2023-03-30 15:03:11] INFO: A user has connected: 60gnUAYEglsWyClEAAAH
+[2023-03-30 15:03:11] INFO: User tried to rejoin but is unknown: 60gnUAYEglsWyClEAAAH | Unique ID: dd6765eb236014d916f1cfec7ebaafee
+[2023-03-30 15:03:16] INFO: Adding player: 60gnUAYEglsWyClEAAAH | Name: Timo | Unique ID: 8d542d5bd9333544ac68ae2f3fa2db44
+[2023-03-30 15:03:16] INFO: User rejoined: 60gnUAYEglsWyClEAAAH | Name: Timo | Unique ID: 8d542d5bd9333544ac68ae2f3fa2db44
+[2023-03-30 15:03:18] INFO: A user has disconnected: T4p-M4bWP1a7GbzVAAAD
+[2023-03-30 15:03:19] INFO: A user has connected: 3x6VuLfieH8ieS3NAAAJ
+[2023-03-30 15:03:31] INFO: Showed board
+[2023-03-30 15:03:44] INFO: Selecting random player's turn...
+[2023-03-30 15:03:47] INFO: Random player's turn selected: Timo
+[2023-03-30 15:03:49] INFO: Question opened: Jaskier|Cirilla Fiona Elen Riannon|Yenne...}
+[2023-03-30 15:03:54] INFO: Exposed question
+[2023-03-30 15:03:58] INFO: Revealed enum item 1
+[2023-03-30 15:03:58] INFO: Revealed enum item 2
+[2023-03-30 15:04:00] INFO: Buzzed
+[2023-03-30 15:04:00] INFO: Player buzzed: Timo
+[2023-03-30 15:04:11] INFO: Player answered correctly: Timo. Added 200 points (-> 200).
+[2023-03-30 15:04:22] INFO: Question completed: Jaskier|Cirilla Fiona Elen Riannon|Yenne...}
+[2023-03-30 15:04:26] INFO: Question opened: Lily Aldrin|Marshall Eriksen|Ted Mosby|B...}
+[2023-03-30 15:04:29] INFO: Exposed question
+[2023-03-30 15:07:30] INFO: Question aborted: Lily Aldrin|Marshall Eriksen|Ted Mosby|B...}
+[2023-03-30 15:20:01] INFO: Updated points for player Timo: -200 (-> 0)
+[2023-03-30 15:20:07] INFO: Updated points for player Timo: -300 (-> -300)
+[2023-03-30 15:27:25] INFO: A user has disconnected: 60gnUAYEglsWyClEAAAH
+[2023-03-30 15:27:25] INFO: A user has disconnected: 3x6VuLfieH8ieS3NAAAJ
+[2023-03-30 15:27:25] INFO: A user has connected: PTuc8dDLC6X39E6gAAAL
+[2023-03-30 15:27:25] INFO: A user has connected: uNvE3DyxW4VCZp64AAAN
+[2023-03-30 15:27:25] INFO: User rejoined: uNvE3DyxW4VCZp64AAAN | Name: Timo | Unique ID: 8d542d5bd9333544ac68ae2f3fa2db44
+[2023-03-30 15:28:31] INFO: A user has disconnected: 7L2JNiSQx5m4tVM1AAAB
+[2023-03-30 15:28:32] INFO: A user has connected: r6q18BPZ0FqzkXh2AAAP
+[2023-03-30 15:31:15] INFO: A user has disconnected: PTuc8dDLC6X39E6gAAAL
+[2023-03-30 15:31:15] INFO: A user has disconnected: uNvE3DyxW4VCZp64AAAN
+[2023-03-30 15:31:16] INFO: A user has connected: WR7lIFuwpnrtaq_iAAAS
+[2023-03-30 15:31:16] INFO: A user has connected: Jq0j9jpKxta4Tl0gAAAT
+[2023-03-30 15:31:16] INFO: User rejoined: WR7lIFuwpnrtaq_iAAAS | Name: Timo | Unique ID: 8d542d5bd9333544ac68ae2f3fa2db44
+[2023-03-30 15:46:29] INFO: A user has disconnected: r6q18BPZ0FqzkXh2AAAP
+[2023-03-30 15:46:30] INFO: A user has connected: 8pFx9QmxMhqTKoKdAAAV
+[2023-03-30 15:55:06] INFO: A user has disconnected: 8pFx9QmxMhqTKoKdAAAV
+[2023-03-30 15:55:07] INFO: A user has connected: Jt_1FOr5MFeKIEcwAAAX
+[2023-03-30 15:59:29] INFO: A user has disconnected: Jq0j9jpKxta4Tl0gAAAT
+[2023-03-30 15:59:29] INFO: A user has disconnected: WR7lIFuwpnrtaq_iAAAS
+[2023-03-30 15:59:30] INFO: A user has connected: nqtxu3n7Vzg4fSunAAAa
+[2023-03-30 15:59:30] INFO: A user has connected: daJC8P-oH_fjA3NKAAAb
+[2023-03-30 15:59:30] INFO: User rejoined: daJC8P-oH_fjA3NKAAAb | Name: Timo | Unique ID: 8d542d5bd9333544ac68ae2f3fa2db44
+[2023-03-30 16:14:42] INFO: A user has disconnected: Jt_1FOr5MFeKIEcwAAAX
+[2023-03-30 16:14:42] INFO: A user has disconnected: daJC8P-oH_fjA3NKAAAb
+[2023-03-30 16:14:43] INFO: A user has connected: Xc3BIdIgCd56XqN7AAAd
+[2023-03-30 16:14:43] INFO: A user has connected: 4bRpGbklV6PXq8INAAAf
+[2023-03-30 16:23:16] INFO: A user has disconnected: Xc3BIdIgCd56XqN7AAAd
+[2023-03-30 16:23:17] INFO: A user has connected: 8lk6UfLw7AjokwjmAAAh
+[2023-03-30 16:25:46] INFO: Question opened: Welche Technik nutzt reflektierende Mark...}
+[2023-03-30 16:27:40] INFO: User rejoined: 4bRpGbklV6PXq8INAAAf | Name: Timo | Unique ID: 8d542d5bd9333544ac68ae2f3fa2db44
+[2023-03-30 16:32:04] INFO: A user has disconnected: nqtxu3n7Vzg4fSunAAAa
+[2023-03-30 16:32:04] INFO: A user has disconnected: 4bRpGbklV6PXq8INAAAf
+[2023-03-30 16:32:04] INFO: A user has connected: VtN6PER7w79_VZanAAAj
+[2023-03-30 16:32:04] INFO: A user has connected: eW9p15iRutHDHdeKAAAl
+[2023-03-30 16:32:04] INFO: User rejoined: eW9p15iRutHDHdeKAAAl | Name: Timo | Unique ID: 8d542d5bd9333544ac68ae2f3fa2db44
+[2023-03-30 16:38:58] INFO: Exposed question
+[2023-03-30 16:39:15] INFO: Question completed: Welche Technik nutzt reflektierende Mark...}
+[2023-03-30 16:39:18] INFO: Question opened: Wie viele Liter Bier werden in Deutschla...}
+[2023-03-30 16:39:24] INFO: Exposed question
+[2023-03-30 16:39:32] INFO: Question aborted: Wie viele Liter Bier werden in Deutschla...}
+[2023-03-30 16:39:33] INFO: Question opened: /flag1.png...}
+[2023-03-30 16:39:38] INFO: Exposed question
+[2023-03-30 16:40:24] INFO: A user has disconnected: eW9p15iRutHDHdeKAAAl
+[2023-03-30 16:40:24] INFO: A user has disconnected: VtN6PER7w79_VZanAAAj
+[2023-03-30 16:40:25] INFO: A user has connected: Yt3rB5lfJV4NcSCcAAAn
+[2023-03-30 16:40:25] INFO: A user has connected: Z_FOhdr1RtrQVIcuAAAp
+[2023-03-30 16:40:25] INFO: User rejoined: Z_FOhdr1RtrQVIcuAAAp | Name: Timo | Unique ID: 8d542d5bd9333544ac68ae2f3fa2db44
+[2023-03-30 16:58:18] INFO: A user has disconnected: 8lk6UfLw7AjokwjmAAAh
+[2023-03-30 16:58:18] INFO: A user has disconnected: Z_FOhdr1RtrQVIcuAAAp
+[2023-03-30 16:58:19] INFO: A user has connected: mD2LLcnkDhOjhFVQAAAr
+[2023-03-30 16:58:19] INFO: A user has connected: SUn9IKwpfl-TZfEIAAAt
+[2023-03-30 17:13:21] INFO: A user has disconnected: mD2LLcnkDhOjhFVQAAAr
+[2023-03-30 17:13:22] INFO: A user has connected: jAeHh9RGIp9SR3KCAAAv
+[2023-03-30 17:25:27] INFO: A user has disconnected: jAeHh9RGIp9SR3KCAAAv
+[2023-03-30 17:25:28] INFO: A user has connected: WM8HpPybwJ4rOLqBAAAx
+[2023-03-30 19:11:09] INFO: A user has disconnected: Yt3rB5lfJV4NcSCcAAAn
+[2023-03-30 19:11:09] INFO: A user has disconnected: SUn9IKwpfl-TZfEIAAAt
+[2023-03-30 19:11:10] INFO: A user has connected: 9O1r9eLKySmkbK20AAAz
+[2023-03-30 19:11:10] INFO: A user has connected: _tX19H-jWYSTu0RrAAA1
+[2023-03-30 19:11:10] INFO: User rejoined: _tX19H-jWYSTu0RrAAA1 | Name: Timo | Unique ID: 8d542d5bd9333544ac68ae2f3fa2db44
+[2023-03-30 19:19:46] INFO: A user has disconnected: WM8HpPybwJ4rOLqBAAAx
+[2023-03-30 19:19:47] INFO: A user has connected: Q1adKafqeu15sFUcAAA3
+[2023-03-30 19:37:42] INFO: A user has disconnected: Q1adKafqeu15sFUcAAA3
+[2023-03-30 19:37:43] INFO: A user has connected: hJvW3b2cFv1xkGBaAAA5
+[2023-03-30 19:53:30] INFO: A user has disconnected: hJvW3b2cFv1xkGBaAAA5
+[2023-03-30 19:53:31] INFO: A user has connected: 6R6fr822T2MFQiOdAAA7
+[2023-03-30 20:10:22] INFO: A user has disconnected: 6R6fr822T2MFQiOdAAA7
+[2023-03-30 20:10:23] INFO: A user has connected: SEfR7UC8-6FWNG-1AAA9
+[2023-03-30 20:24:44] INFO: A user has disconnected: SEfR7UC8-6FWNG-1AAA9
+[2023-03-30 20:24:44] INFO: A user has connected: DOIp8vY5Vy0rpWZFAAA_

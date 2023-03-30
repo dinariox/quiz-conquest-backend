@@ -6,27 +6,32 @@
         {
           "value": 300,
           "question": "Wie viele Liter Bier werden in Deutschland pro Kopf jährlich getrunken?",
-          "answer": "100 Liter"
+          "answer": "100 Liter",
+          "type": "estimate"
         },
         {
           "value": 300,
           "question": "Bei wie vielen Grad Celsius liegt der absolute Nullpunkt?",
-          "answer": "-273,15 °C"
+          "answer": "-273,15 °C",
+          "type": "estimate"
         },
         {
           "value": 400,
           "question": "Wie viele Sprachen werden Schätzungen zufolge weltweit gesprochen?",
-          "answer": "ca. 7000"
+          "answer": "ca. 7000",
+          "type": "estimate"
         },
         {
           "value": 400,
           "question": "Wie viele Kilometer an Eisenbahnschienen gibt es weltweit (Stand 2021)?",
-          "answer": "ca. 1,17 Millionen Kilometer"
+          "answer": "ca. 1,17 Millionen Kilometer",
+          "type": "estimate"
         },
         {
           "value": 500,
           "question": "Wie viele Einkärbungen hat ein Golfball?",
-          "answer": "336"
+          "answer": "336",
+          "type": "estimate"
         }
       ]
     },
@@ -35,28 +40,33 @@
       "questions": [
         {
           "value": 200,
-          "question": "[ENUM]Gustavo Fring|Saul Goodman|Jesse Pinkman|Walter White",
-          "answer": "Breaking Bad"
+          "question": "Gustavo Fring|Saul Goodman|Jesse Pinkman|Walter White",
+          "answer": "Breaking Bad",
+          "type": "enum"
         },
         {
           "value": 200,
-          "question": "[ENUM]Jaskier|Cirilla Fiona Elen Riannon|Yennefer von Vengerberg|Geralt von Riva",
-          "answer": "The Witcher"
+          "question": "Jaskier|Cirilla Fiona Elen Riannon|Yennefer von Vengerberg|Geralt von Riva",
+          "answer": "The Witcher",
+          "type": "enum"
         },
         {
           "value": 300,
-          "question": "[ENUM]Lily Aldrin|Marshall Eriksen|Ted Mosby|Barney Stinson",
-          "answer": "How I Met Your Mother"
+          "question": "Lily Aldrin|Marshall Eriksen|Ted Mosby|Barney Stinson",
+          "answer": "How I Met Your Mother",
+          "type": "enum"
         },
         {
           "value": 400,
-          "question": "[ENUM]Lt. Dan Taylor|Jenny Curran|Bubba Blue|Forrest Gump",
-          "answer": "Forrest Gump"
+          "question": "Lt. Dan Taylor|Jenny Curran|Bubba Blue|Forrest Gump",
+          "answer": "Forrest Gump",
+          "type": "enum"
         },
         {
           "value": 500,
-          "question": "[ENUM]Dwight Schrute|Pam Beesly|Jim Halpert|Michael Scott",
-          "answer": "The Office"
+          "question": "Dwight Schrute|Pam Beesly|Jim Halpert|Michael Scott",
+          "answer": "The Office",
+          "type": "enum"
         }
       ]
     },
@@ -66,27 +76,32 @@
         {
           "value": 200,
           "question": "Wie heißt die Display-Technologie, welche vorwiegend in eBook-Readern Verwendung findet?",
-          "answer": "E-Ink"
+          "answer": "E-Ink",
+          "type": "normal"
         },
         {
           "value": 300,
           "question": "Welche Technik nutzt reflektierende Marker oder Sensoren an Schauspielern, um Bewegungen für computergenerierte Charaktere und Effekte zu erfassen?",
-          "answer": "Motion Capture"
+          "answer": "Motion Capture",
+          "type": "normal"
         },
         {
           "value": 400,
           "question": "Wie heißt der flüchtige Speicher in einem Computer, der auch als Hauptspeicher bezeichnet wird (nicht die Abkürzung)?",
-          "answer": "Random Access Memory"
+          "answer": "Random Access Memory",
+          "type": "normal"
         },
         {
           "value": 500,
           "question": "Welches Material, das etwa 200-mal stärker ist als Stahl und extrem dünn ist, wurde 2004 entdeckt und gilt als eines der vielversprechendsten Materialien für zukünftige Technologien und Anwendungen?",
-          "answer": "Graphen"
+          "answer": "Graphen",
+          "type": "normal"
         },
         {
           "value": 600,
           "question": "Welche Kryptowährung wurde 2015 eingeführt und hat den Fokus auf Smart Contracts, wodurch es möglich ist, dezentrale Anwendungen (dApps) auf ihrer Plattform zu entwickeln?",
-          "answer": "Ethereum"
+          "answer": "Ethereum",
+          "type": "normal"
         }
       ]
     },
@@ -95,28 +110,33 @@
       "questions": [
         {
           "value": 200,
-          "question": "[IMG]https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/2560px-Flag_of_Australia_%28converted%29.svg.png",
-          "answer": "Australien"
+          "question": "/flag1.png",
+          "answer": "Australien",
+          "type": "img"
         },
         {
           "value": 300,
-          "question": "[IMG]https://de.wikipedia.org/wiki/Staatsflagge_Bayerns#/media/Datei:Flag_of_Bavaria_(lozengy).svg",
-          "answer": "Bayern"
+          "question": "/flag2.png",
+          "answer": "Bayern",
+          "type": "img"
         },
         {
           "value": 400,
-          "question": "[IMG]https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/1920px-Flag_of_Egypt.svg.png",
-          "answer": "Ägypten"
+          "question": "/flag3.png",
+          "answer": "Ägypten",
+          "type": "img"
         },
         {
           "value": 500,
-          "question": "[IMG]https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Flag_of_Papua_New_Guinea.svg/1920px-Flag_of_Papua_New_Guinea.svg.png",
-          "answer": "Papua-Neuguinea"
+          "question": "/flag4.png",
+          "answer": "Papua-Neuguinea",
+          "type": "img"
         },
         {
           "value": 600,
-          "question": "[IMG]https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Flag_of_Bhutan.svg/1920px-Flag_of_Bhutan.svg.png",
-          "answer": "Bhutan"
+          "question": "/flag5.png",
+          "answer": "Bhutan",
+          "type": "img"
         }
       ]
     },
@@ -126,27 +146,32 @@
         {
           "value": 300,
           "question": "An welchem Datum fiel die Berliner Mauer?",
-          "answer": "9. November 1989"
+          "answer": "9. November 1989",
+          "type": "normal"
         },
         {
           "value": 300,
           "question": "Wie wurde die Armee der Sowjetunion im 20. Jahrhundert genannt?",
-          "answer": "Rote Armee"
+          "answer": "Rote Armee",
+          "type": "normal"
         },
         {
           "value": 400,
           "question": "Wie oft finden die Wahlen zum Europäischen Parlament statt?",
-          "answer": "Alle 5 Jahre"
+          "answer": "Alle 5 Jahre",
+          "type": "normal"
         },
         {
           "value": 500,
           "question": "Wofür steht die Abkürzung NATO?",
-          "answer": "North Atlantic Treaty Organization"
+          "answer": "North Atlantic Treaty Organization",
+          "type": "normal"
         },
         {
           "value": 600,
           "question": "Welche politische Bewegung wurde 1980 in Polen gegründet und spielte eine entscheidende Rolle bei der Beendigung der kommunistischen Herrschaft im Land und später in ganz Osteuropa?",
-          "answer": "Solidarność / Solidarität"
+          "answer": "Solidarność / Solidarität",
+          "type": "normal"
         }
       ]
     }

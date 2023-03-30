@@ -1,9 +1,11 @@
+import express from "express";
+import cors from "cors";
 import { createServer } from "http";
 import { Server, ServerOptions } from "socket.io";
 import { readFile } from "fs/promises";
 import path from "path";
 import crypto from "crypto";
-import { Question, Participant, GameState, Category } from "./types";
+import { Question, Participant, GameState, Category, QuestionType } from "./types";
 import logger from "./logger";
 
 const PORT = process.env.PORT || 3000;
@@ -48,9 +50,21 @@ function addPlayer(socketId: string, name: string, uniqueId: string) {
   io.emit("updateGameState", gameState);
 }
 
+function nextPlayersTurn() {
+  if (!gameState.playersTurn) return;
+  const playerIndex = gameState.players.findIndex((player) => player.id === gameState.playersTurn!.id);
+  const nextPlayerIndex = playerIndex + 1 >= gameState.players.length ? 0 : playerIndex + 1;
+  gameState.playersTurn = gameState.players[nextPlayerIndex];
+  io.emit("updateGameState", gameState);
+}
+
 async function main() {
-  const app = createServer();
-  io = new Server(app, corsOptions);
+  const app = express();
+  app.use(cors());
+  app.use(express.static(path.join(__dirname, "..", "public")));
+
+  const httpServer = createServer(app);
+  io = new Server(httpServer, corsOptions);
 
   const categories = await loadCategories();
 
@@ -59,6 +73,11 @@ async function main() {
     categories,
     activeQuestion: null,
     buzzedPlayer: null,
+    playersTurn: null,
+    exposeQuestion: false,
+    exposeAnswer: false,
+    showBoard: false,
+    enumRevealAmount: 0,
   };
 
   io.on("connection", (socket) => {
@@ -103,6 +122,9 @@ async function main() {
       const removedPlayer = gameState.players.find((player) => player.id === playerId);
       if (removedPlayer) {
         gameState.players = gameState.players.filter((player) => player.id !== playerId);
+
+        logger.info(`Removed player: ${removedPlayer.name}`);
+
         io.emit("updateGameState", gameState);
         io.to(removedPlayer.socketId).emit("removedFromGame");
       }
@@ -114,6 +136,9 @@ async function main() {
       const player = gameState.players.find((player) => player.id === playerId);
       if (player) {
         player.score += pointDelta;
+
+        logger.info(`Updated points for player ${player.name}: ${pointDelta} (-> ${player.score})`);
+
         io.emit("updateGameState", gameState);
       }
     });
@@ -124,15 +149,146 @@ async function main() {
       if (category) {
         const q = category.questions.find((q) => q.question === question.question);
         if (q) {
-          q.answered = true;
           gameState.activeQuestion = question;
+          gameState.exposeQuestion = false;
+          gameState.exposeAnswer = false;
+          gameState.enumRevealAmount = 0;
+
+          logger.info(`Question opened: ${question.question.slice(0, 40)}...}`);
+
           io.emit("updateGameState", gameState);
         }
       }
     });
+
+    socket.on("abortQuestion", () => {
+      if (!gameState.activeQuestion) return;
+
+      logger.info(`Question aborted: ${gameState.activeQuestion.question.slice(0, 40)}...}`);
+
+      gameState.activeQuestion = null;
+      gameState.buzzedPlayer = null;
+      gameState.exposeAnswer = false;
+      gameState.exposeQuestion = false;
+      gameState.enumRevealAmount = 0;
+      io.emit("updateGameState", gameState);
+    });
+
+    socket.on("completeQuestion", () => {
+      if (!gameState.activeQuestion) return;
+
+      logger.info(`Question completed: ${gameState.activeQuestion.question.slice(0, 40)}...}`);
+
+      gameState.categories.forEach((category) => {
+        const question = category.questions.find((q) => q.question === gameState.activeQuestion!.question);
+        if (question) {
+          question.answered = true;
+        }
+      });
+
+      gameState.activeQuestion = null;
+      gameState.buzzedPlayer = null;
+      gameState.exposeAnswer = false;
+      gameState.exposeQuestion = false;
+      gameState.enumRevealAmount = 0;
+      io.emit("updateGameState", gameState);
+      nextPlayersTurn();
+    });
+
+    socket.on("selectRandomPlayersTurn", () => {
+      logger.info("Selecting random player's turn...");
+
+      const randomPlayer = gameState.players[Math.floor(Math.random() * gameState.players.length)];
+      gameState.playersTurn = randomPlayer;
+      io.emit("updateGameState", gameState);
+
+      let cnt = 0;
+      let limit = Math.floor(Math.random() * 8) + 8;
+      const interval = setInterval(() => {
+        if (cnt++ > limit) {
+          clearInterval(interval);
+          logger.info("Random player's turn selected: " + randomPlayer.name);
+          return;
+        }
+        nextPlayersTurn();
+      }, 250);
+    });
+
+    socket.on("buzz", () => {
+      if (gameState.buzzedPlayer) return;
+
+      logger.info("Buzzed");
+
+      const player = gameState.players.find((player) => player.socketId === socket.id);
+      if (player) {
+        gameState.buzzedPlayer = player;
+
+        logger.info(`Player buzzed: ${player.name}`);
+
+        io.emit("updateGameState", gameState);
+        io.emit("playBuzzerSound");
+      }
+    });
+
+    socket.on("resetBuzzer", () => {
+      gameState.buzzedPlayer = null;
+
+      logger.info("Resetting buzzer");
+
+      io.emit("updateGameState", gameState);
+    });
+
+    socket.on("correctAnswer", () => {
+      if (gameState.buzzedPlayer && gameState.activeQuestion) {
+        gameState.buzzedPlayer.score += gameState.activeQuestion.value;
+
+        logger.info(`Player answered correctly: ${gameState.buzzedPlayer.name}. Added ${gameState.activeQuestion.value} points (-> ${gameState.buzzedPlayer.score}).`);
+      }
+      gameState.exposeAnswer = true;
+      gameState.buzzedPlayer = null;
+      io.emit("updateGameState", gameState);
+      io.emit("playCorrectAnswerSound");
+    });
+
+    socket.on("wrongAnswer", () => {
+      if (gameState.buzzedPlayer && gameState.activeQuestion) {
+        gameState.buzzedPlayer.score -= gameState.activeQuestion.value / 2;
+
+        logger.info(`Player answered incorrectly: ${gameState.buzzedPlayer.name}. Removed ${gameState.activeQuestion.value / 2} points (-> ${gameState.buzzedPlayer.score}).`);
+      }
+      gameState.buzzedPlayer = null;
+      io.emit("updateGameState", gameState);
+      io.emit("playWrongAnswerSound");
+    });
+
+    socket.on("exposeQuestion", () => {
+      gameState.exposeQuestion = true;
+      io.emit("updateGameState", gameState);
+      logger.info("Exposed question");
+    });
+
+    socket.on("exposeAnswer", () => {
+      gameState.exposeAnswer = true;
+      io.emit("updateGameState", gameState);
+      logger.info("Exposed answer");
+    });
+
+    socket.on("showBoard", () => {
+      gameState.showBoard = true;
+      io.emit("updateGameState", gameState);
+      logger.info("Showed board");
+    });
+
+    socket.on("revealEnumItem", () => {
+      if (!gameState.activeQuestion) return;
+      if (gameState.activeQuestion.type !== QuestionType.Enum) return;
+      gameState.enumRevealAmount++;
+      io.emit("updateGameState", gameState);
+      logger.info("Revealed enum item " + gameState.enumRevealAmount);
+    });
   });
 
-  app.listen(PORT, () => {
+  httpServer.listen(PORT, () => {
     logger.info(`Server listening on port ${PORT}`);
   });
 }
