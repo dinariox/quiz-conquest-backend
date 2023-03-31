@@ -1776,3 +1776,732 @@
 [2023-03-30 20:10:23] INFO: A user has connected: SEfR7UC8-6FWNG-1AAA9
 [2023-03-30 20:24:44] INFO: A user has disconnected: SEfR7UC8-6FWNG-1AAA9
 [2023-03-30 20:24:44] INFO: A user has connected: DOIp8vY5Vy0rpWZFAAA_
+[2023-03-30 20:49:09] INFO: Server listening on port 3000
+[2023-03-30 20:50:05] INFO: A user has connected: 11NWa18-zJeB02I1AAAB
+[2023-03-30 20:50:05] INFO: A user has disconnected: 11NWa18-zJeB02I1AAAB
+[2023-03-30 20:50:07] INFO: A user has connected: 7kI-oWuPMehHJvCfAAAD
+[2023-03-30 20:50:09] INFO: Adding player: 7kI-oWuPMehHJvCfAAAD | Name: Timo | Unique ID: dd4a02337070165a5cf717450f4a729a
+[2023-03-30 20:50:09] INFO: User rejoined: 7kI-oWuPMehHJvCfAAAD | Name: Timo | Unique ID: dd4a02337070165a5cf717450f4a729a
+[2023-03-30 20:50:18] INFO: A user has connected: 5PG3qodYhJ2v0FcQAAAF
+[2023-03-30 20:50:19] INFO: A user has connected: JZ9DfM75LVzmyUZaAAAH
+[2023-03-30 20:53:02] INFO: User rejoined: 7kI-oWuPMehHJvCfAAAD | Name: Timo | Unique ID: dd4a02337070165a5cf717450f4a729a
+[2023-03-30 20:54:31] INFO: Question opened: Lily Aldrin|Marshall Eriksen|Ted Mosby|B...}
+[2023-03-30 20:54:45] INFO: Exposed question
+[2023-03-30 20:54:48] INFO: Revealed enum item 1
+[2023-03-30 20:54:50] INFO: Buzzed
+[2023-03-30 20:54:50] INFO: Player buzzed: Timo
+[2023-03-30 20:54:59] INFO: Player answered incorrectly: Timo. Removed 150 points (-> -150).
+[2023-03-30 20:55:02] INFO: Buzzed
+[2023-03-30 20:55:02] INFO: Player buzzed: Timo
+[2023-03-30 20:55:15] INFO: User rejoined: 7kI-oWuPMehHJvCfAAAD | Name: Timo | Unique ID: dd4a02337070165a5cf717450f4a729a
+[2023-03-30 20:55:19] INFO: Player answered incorrectly: Timo. Removed 150 points (-> -300).
+[2023-03-30 20:55:23] INFO: A user has disconnected: JZ9DfM75LVzmyUZaAAAH
+[2023-03-30 20:55:24] INFO: A user has connected: iruaFIqGWggRE6XDAAAJ
+[2023-03-30 20:55:24] INFO: A user has disconnected: 7kI-oWuPMehHJvCfAAAD
+[2023-03-30 20:55:25] INFO: A user has connected: bbw3GgSZsBbWhEbiAAAL
+[2023-03-30 20:55:25] INFO: User rejoined: bbw3GgSZsBbWhEbiAAAL | Name: Timo | Unique ID: dd4a02337070165a5cf717450f4a729a
+[2023-03-30 20:55:26] INFO: Buzzed
+[2023-03-30 20:55:27] INFO: Buzzed
+[2023-03-30 20:55:28] INFO: Buzzed
+[2023-03-30 20:55:28] INFO: Buzzed
+[2023-03-30 20:57:07] INFO: Server listening on port 3000
+[2023-03-30 20:57:07] INFO: A user has connected: 89a-ogpvvULIPm3TAAAC
+[2023-03-30 20:57:07] INFO: A user has connected: zC6_YKmQfiRvNptnAAAD
+[2023-03-30 20:57:08] INFO: A user has connected: ph1-iLZ0fkNz77M4AAAF
+[2023-03-30 20:57:12] INFO: A user has disconnected: zC6_YKmQfiRvNptnAAAD
+[2023-03-30 20:57:12] INFO: A user has connected: x26-90wVsVEdUPpzAAAH
+[2023-03-30 20:57:12] INFO: User tried to rejoin but is unknown: x26-90wVsVEdUPpzAAAH | Unique ID: dd4a02337070165a5cf717450f4a729a
+[2023-03-30 20:57:14] INFO: Adding player: x26-90wVsVEdUPpzAAAH | Name: Timo | Unique ID: 426d504f1bac807019a55953b378e77b
+[2023-03-30 20:57:14] INFO: User rejoined: x26-90wVsVEdUPpzAAAH | Name: Timo | Unique ID: 426d504f1bac807019a55953b378e77b
+[2023-03-30 20:57:16] INFO: A user has disconnected: 89a-ogpvvULIPm3TAAAC
+[2023-03-30 20:57:16] INFO: A user has connected: 8AkucLlDSyt9HaPxAAAJ
+[2023-03-30 20:57:17] INFO: Buzzed
+[2023-03-30 20:57:17] INFO: Player buzzed: Timo
+[2023-03-30 20:57:22] INFO: Resetting buzzer
+[2023-03-30 20:57:23] INFO: Question opened: Wie heißt der flüchtige Speicher in eine...}
+[2023-03-30 20:57:25] INFO: Exposed question
+[2023-03-30 20:57:31] INFO: Buzzed
+[2023-03-30 20:57:31] INFO: Player buzzed: Timo
+[2023-03-30 20:57:33] INFO: Player answered incorrectly: Timo. Removed 200 points (-> -200).
+[2023-03-30 20:57:53] INFO: Buzzed
+[2023-03-30 20:57:53] INFO: Player buzzed: Timo
+[2023-03-30 20:57:56] INFO: Player answered incorrectly: Timo. Removed 200 points (-> -400).
+[2023-03-30 20:57:59] INFO: A user has disconnected: 8AkucLlDSyt9HaPxAAAJ
+[2023-03-30 20:57:59] INFO: A user has connected: flno_k9NOh7LbXIPAAAL
+[2023-03-30 20:57:59] INFO: A user has disconnected: x26-90wVsVEdUPpzAAAH
+[2023-03-30 20:58:00] INFO: A user has connected: O_EiYqDSJLEq48VZAAAN
+[2023-03-30 20:58:00] INFO: User rejoined: O_EiYqDSJLEq48VZAAAN | Name: Timo | Unique ID: 426d504f1bac807019a55953b378e77b
+[2023-03-30 20:58:01] INFO: Buzzed
+[2023-03-30 20:58:01] INFO: Player buzzed: Timo
+[2023-03-30 20:58:04] INFO: Resetting buzzer
+[2023-03-30 20:58:06] INFO: Buzzed
+[2023-03-30 20:58:06] INFO: Player buzzed: Timo
+[2023-03-30 20:58:20] INFO: Player answered correctly: Timo. Added 400 points (-> 0).
+[2023-03-30 20:58:27] INFO: Buzzed
+[2023-03-30 20:58:27] INFO: Player buzzed: Timo
+[2023-03-30 20:58:29] INFO: Player answered incorrectly: Timo. Removed 200 points (-> -200).
+[2023-03-30 20:58:54] INFO: Buzzed
+[2023-03-30 20:58:54] INFO: Player buzzed: Timo
+[2023-03-30 20:59:04] INFO: A user has disconnected: O_EiYqDSJLEq48VZAAAN
+[2023-03-30 20:59:05] INFO: Player answered incorrectly: Timo. Removed 200 points (-> -400).
+[2023-03-30 20:59:23] INFO: A user has disconnected: flno_k9NOh7LbXIPAAAL
+[2023-03-30 20:59:23] INFO: A user has connected: 27O5WwPn4xzPt_QHAAAP
+[2023-03-30 20:59:33] INFO: Updated points for player Timo: 0 (-> -400)
+[2023-03-30 20:59:55] INFO: A user has connected: wp7zg2759YujQmB6AAAR
+[2023-03-30 20:59:56] INFO: Adding player: wp7zg2759YujQmB6AAAR | Name: Timo | Unique ID: 768f67505202a7436e4b94e54a78a9a4
+[2023-03-30 20:59:56] INFO: User rejoined: wp7zg2759YujQmB6AAAR | Name: Timo | Unique ID: 768f67505202a7436e4b94e54a78a9a4
+[2023-03-30 20:59:58] INFO: Buzzed
+[2023-03-30 20:59:58] INFO: Player buzzed: Timo
+[2023-03-30 21:00:01] INFO: A user has disconnected: wp7zg2759YujQmB6AAAR
+[2023-03-30 21:00:02] INFO: Player answered incorrectly: Timo. Removed 200 points (-> -200).
+[2023-03-30 21:00:36] INFO: Showed board
+[2023-03-30 21:00:42] INFO: Removed player: Timo
+[2023-03-30 21:00:43] INFO: Removed player: Timo
+[2023-03-30 21:00:50] INFO: A user has connected: dsDwd-mXS6F5UEbdAAAT
+[2023-03-30 21:00:51] INFO: Adding player: dsDwd-mXS6F5UEbdAAAT | Name: Timo | Unique ID: c265e65d9216a2bd06f9d807581557b2
+[2023-03-30 21:00:51] INFO: User rejoined: dsDwd-mXS6F5UEbdAAAT | Name: Timo | Unique ID: c265e65d9216a2bd06f9d807581557b2
+[2023-03-30 21:02:55] INFO: Server listening on port 3000
+[2023-03-30 21:02:55] INFO: A user has connected: 2oxw-FYMJERjkO3gAAAB
+[2023-03-30 21:02:57] INFO: A user has connected: yHOPe-ftP0ut5-bkAAAD
+[2023-03-30 21:02:57] INFO: User tried to rejoin but is unknown: yHOPe-ftP0ut5-bkAAAD | Unique ID: c265e65d9216a2bd06f9d807581557b2
+[2023-03-30 21:02:58] INFO: A user has disconnected: 2oxw-FYMJERjkO3gAAAB
+[2023-03-30 21:02:58] INFO: A user has connected: l0eusa2qFdyzs0o1AAAF
+[2023-03-30 21:02:59] INFO: A user has connected: LPmazy5XWEe62aShAAAH
+[2023-03-30 21:03:00] INFO: Adding player: yHOPe-ftP0ut5-bkAAAD | Name: Timo | Unique ID: 8dcd4fe319f5b6f55589da6b7c2502f2
+[2023-03-30 21:03:00] INFO: User rejoined: yHOPe-ftP0ut5-bkAAAD | Name: Timo | Unique ID: 8dcd4fe319f5b6f55589da6b7c2502f2
+[2023-03-30 21:03:03] INFO: Removed player: Timo
+[2023-03-30 21:03:03] INFO: A user has disconnected: yHOPe-ftP0ut5-bkAAAD
+[2023-03-30 21:03:30] INFO: A user has connected: 8uxCwX91sGTk5_NYAAAJ
+[2023-03-30 21:03:33] INFO: Adding player: 8uxCwX91sGTk5_NYAAAJ | Name: Timo | Unique ID: abd5217a7149fe4cf8387790fe9d041b
+[2023-03-30 21:03:33] INFO: User rejoined: 8uxCwX91sGTk5_NYAAAJ | Name: Timo | Unique ID: abd5217a7149fe4cf8387790fe9d041b
+[2023-03-30 21:03:40] INFO: Buzzed
+[2023-03-30 21:03:40] INFO: Player buzzed: Timo
+[2023-03-30 21:03:42] INFO: Resetting buzzer
+[2023-03-30 21:03:47] INFO: Showed board
+[2023-03-30 21:03:49] INFO: Question opened: /flag2.png...}
+[2023-03-30 21:03:51] INFO: Exposed question
+[2023-03-30 21:03:58] INFO: Buzzed
+[2023-03-30 21:03:58] INFO: Player buzzed: Timo
+[2023-03-30 21:04:01] INFO: Player answered incorrectly: Timo. Removed 150 points (-> -150).
+[2023-03-30 21:04:07] INFO: Buzzed
+[2023-03-30 21:04:07] INFO: Player buzzed: Timo
+[2023-03-30 21:04:09] INFO: Player answered correctly: Timo. Added 300 points (-> 150).
+[2023-03-30 21:04:14] INFO: Buzzed
+[2023-03-30 21:04:14] INFO: Player buzzed: Timo
+[2023-03-30 21:04:16] INFO: Player answered incorrectly: Timo. Removed 150 points (-> 0).
+[2023-03-30 21:04:41] INFO: User rejoined: 8uxCwX91sGTk5_NYAAAJ | Name: Timo | Unique ID: abd5217a7149fe4cf8387790fe9d041b
+[2023-03-30 21:04:58] INFO: A user has disconnected: 8uxCwX91sGTk5_NYAAAJ
+[2023-03-30 21:04:58] INFO: A user has connected: cmnEvI6QIdnq1nJcAAAL
+[2023-03-30 21:04:58] INFO: User rejoined: cmnEvI6QIdnq1nJcAAAL | Name: Timo | Unique ID: abd5217a7149fe4cf8387790fe9d041b
+[2023-03-30 21:05:00] INFO: A user has disconnected: l0eusa2qFdyzs0o1AAAF
+[2023-03-30 21:05:01] INFO: A user has connected: YbbO7395w_fG9g1JAAAN
+[2023-03-30 21:05:04] INFO: Buzzed
+[2023-03-30 21:05:04] INFO: Player buzzed: Timo
+[2023-03-30 21:05:05] INFO: A user has disconnected: cmnEvI6QIdnq1nJcAAAL
+[2023-03-30 21:05:07] INFO: Player answered incorrectly: Timo. Removed 150 points (-> -150).
+[2023-03-30 21:05:16] INFO: Removed player: Timo
+[2023-03-30 21:06:19] INFO: A user has connected: GYB2iOBbexZkwhhyAAAP
+[2023-03-30 21:06:22] INFO: Adding player: GYB2iOBbexZkwhhyAAAP | Name: Timo | Unique ID: 0f81461180b04f96e9d8d77b1fd463b0
+[2023-03-30 21:06:22] INFO: User rejoined: GYB2iOBbexZkwhhyAAAP | Name: Timo | Unique ID: 0f81461180b04f96e9d8d77b1fd463b0
+[2023-03-30 21:06:30] INFO: Removed player: Timo
+[2023-03-30 21:06:30] INFO: A user has disconnected: GYB2iOBbexZkwhhyAAAP
+[2023-03-30 21:06:38] INFO: Question completed: /flag2.png...}
+[2023-03-30 21:06:40] INFO: Question opened: /flag2.png...}
+[2023-03-30 21:06:41] INFO: Question aborted: /flag2.png...}
+[2023-03-30 21:06:42] INFO: Question opened: /flag2.png...}
+[2023-03-30 21:06:44] INFO: Question completed: /flag2.png...}
+[2023-03-30 21:07:48] INFO: A user has disconnected: YbbO7395w_fG9g1JAAAN
+[2023-03-31 00:34:43] INFO: Server listening on port 3000
+[2023-03-31 00:34:44] INFO: A user has connected: -WecYxSWJsDSBptAAAAB
+[2023-03-31 10:47:31] INFO: A user has disconnected: -WecYxSWJsDSBptAAAAB
+[2023-03-31 10:47:33] INFO: A user has connected: gnGvm-yP0o62vklVAAAD
+[2023-03-31 16:44:58] INFO: A user has connected: s4Up0QK1MINiHE56AAAF
+[2023-03-31 16:45:00] INFO: Adding player: s4Up0QK1MINiHE56AAAF | Name: Timo | Unique ID: 21b3777d38031a43408f0984b96eab29
+[2023-03-31 16:45:00] INFO: User rejoined: s4Up0QK1MINiHE56AAAF | Name: Timo | Unique ID: 21b3777d38031a43408f0984b96eab29
+[2023-03-31 16:45:06] INFO: A user has connected: bpKmidPbe9ex3zZlAAAH
+[2023-03-31 16:59:43] INFO: Showed board
+[2023-03-31 17:03:53] INFO: User rejoined: s4Up0QK1MINiHE56AAAF | Name: Timo | Unique ID: 21b3777d38031a43408f0984b96eab29
+[2023-03-31 17:13:25] INFO: User rejoined: s4Up0QK1MINiHE56AAAF | Name: Timo | Unique ID: 21b3777d38031a43408f0984b96eab29
+[2023-03-31 17:13:40] INFO: User rejoined: s4Up0QK1MINiHE56AAAF | Name: Timo | Unique ID: 21b3777d38031a43408f0984b96eab29
+[2023-03-31 17:19:40] INFO: Server listening on port 3000
+[2023-03-31 17:19:40] INFO: A user has connected: TE1F13t2AdCIqodTAAAB
+[2023-03-31 17:19:41] INFO: A user has connected: X6ZWNk1Y4THZedLCAAAD
+[2023-03-31 17:19:42] INFO: A user has connected: b618BWhG6p2S5aGXAAAF
+[2023-03-31 17:20:24] INFO: A user has disconnected: TE1F13t2AdCIqodTAAAB
+[2023-03-31 17:20:25] INFO: A user has connected: Kt3zwuob4QJrKD9YAAAH
+[2023-03-31 17:20:28] INFO: A user has disconnected: b618BWhG6p2S5aGXAAAF
+[2023-03-31 17:20:28] INFO: A user has connected: wbmJ_M-1CQlFortxAAAJ
+[2023-03-31 17:20:28] INFO: User tried to rejoin but is unknown: wbmJ_M-1CQlFortxAAAJ | Unique ID: 21b3777d38031a43408f0984b96eab29
+[2023-03-31 17:20:31] INFO: Adding player: wbmJ_M-1CQlFortxAAAJ | Name: Timo | Unique ID: e92b6c43fb63b7c5bdea2bbd3f43d274
+[2023-03-31 17:20:31] INFO: User rejoined: wbmJ_M-1CQlFortxAAAJ | Name: Timo | Unique ID: e92b6c43fb63b7c5bdea2bbd3f43d274
+[2023-03-31 17:23:56] INFO: Showed board
+[2023-03-31 17:23:59] INFO: Question opened: Bei wie vielen Grad Celsius liegt der ab...
+[2023-03-31 17:24:02] INFO: Exposed question
+[2023-03-31 17:24:38] INFO: Updated user input from Timo: A
+[2023-03-31 17:24:38] INFO: Updated user input from Timo: Am
+[2023-03-31 17:24:38] INFO: Updated user input from Timo: Ame
+[2023-03-31 17:24:38] INFO: Updated user input from Timo: Amen
+[2023-03-31 17:24:38] INFO: Updated user input from Timo: Amena
+[2023-03-31 17:24:39] INFO: Updated user input from Timo: 
+[2023-03-31 17:24:41] INFO: Updated user input from Timo: -
+[2023-03-31 17:24:42] INFO: Updated user input from Timo: -2
+[2023-03-31 17:24:42] INFO: Updated user input from Timo: -27
+[2023-03-31 17:24:42] INFO: Updated user input from Timo: -273
+[2023-03-31 17:24:43] INFO: Updated user input from Timo: -273,
+[2023-03-31 17:24:43] INFO: Updated user input from Timo: -273,1
+[2023-03-31 17:24:43] INFO: Updated user input from Timo: -273,15
+[2023-03-31 17:24:45] INFO: Updated user input from Timo: -273,15°
+[2023-03-31 17:24:46] INFO: Updated user input from Timo: -273,15°C
+[2023-03-31 17:27:27] INFO: User rejoined: wbmJ_M-1CQlFortxAAAJ | Name: Timo | Unique ID: e92b6c43fb63b7c5bdea2bbd3f43d274
+[2023-03-31 17:29:25] INFO: User rejoined: wbmJ_M-1CQlFortxAAAJ | Name: Timo | Unique ID: e92b6c43fb63b7c5bdea2bbd3f43d274
+[2023-03-31 17:33:17] INFO: Server listening on port 3000
+[2023-03-31 17:33:17] INFO: A user has connected: 0U5UzTJNcaRa9LYaAAAC
+[2023-03-31 17:33:17] INFO: A user has connected: KY3G6kXybuMDN_C0AAAD
+[2023-03-31 17:33:21] INFO: A user has disconnected: KY3G6kXybuMDN_C0AAAD
+[2023-03-31 17:33:22] INFO: A user has connected: 7dr8IaqjkimvTewxAAAF
+[2023-03-31 17:33:22] INFO: A user has connected: CkTppJziyDMA6kKyAAAH
+[2023-03-31 17:33:23] INFO: A user has disconnected: 0U5UzTJNcaRa9LYaAAAC
+[2023-03-31 17:33:24] INFO: A user has connected: DgojX78RPEPei0xtAAAJ
+[2023-03-31 17:33:24] INFO: User tried to rejoin but is unknown: DgojX78RPEPei0xtAAAJ | Unique ID: e92b6c43fb63b7c5bdea2bbd3f43d274
+[2023-03-31 17:33:28] INFO: Adding player: DgojX78RPEPei0xtAAAJ | Name: Timo | Unique ID: 2a9cd95e74d180e3c1d779fce752858a
+[2023-03-31 17:33:28] INFO: User rejoined: DgojX78RPEPei0xtAAAJ | Name: Timo | Unique ID: 2a9cd95e74d180e3c1d779fce752858a
+[2023-03-31 17:33:49] INFO: Showed board
+[2023-03-31 17:33:52] INFO: Selecting random player's turn...
+[2023-03-31 17:33:54] INFO: Random player's turn selected: Timo
+[2023-03-31 17:34:19] INFO: Question opened: Wie viele Sprachen werden Schätzungen zu...
+[2023-03-31 17:34:41] INFO: Exposed question
+[2023-03-31 17:36:32] INFO: Updated user input from Timo: u
+[2023-03-31 17:36:32] INFO: Updated user input from Timo: uw
+[2023-03-31 17:36:33] INFO: Updated user input from Timo: uwe
+[2023-03-31 17:36:36] INFO: Locked text inputs
+[2023-03-31 17:37:21] INFO: Server listening on port 3000
+[2023-03-31 17:37:21] INFO: A user has connected: JenFv_3wNYA4Q2CfAAAC
+[2023-03-31 17:37:21] INFO: A user has connected: ebbp_xTexE2Z4whMAAAD
+[2023-03-31 17:37:23] INFO: A user has disconnected: JenFv_3wNYA4Q2CfAAAC
+[2023-03-31 17:37:24] INFO: A user has connected: rBanJLBwulXS9RhGAAAF
+[2023-03-31 17:37:24] INFO: User tried to rejoin but is unknown: rBanJLBwulXS9RhGAAAF | Unique ID: 2a9cd95e74d180e3c1d779fce752858a
+[2023-03-31 17:37:25] INFO: Adding player: rBanJLBwulXS9RhGAAAF | Name: Timo | Unique ID: 3cdce629526d5694a9e92396d9415233
+[2023-03-31 17:37:25] INFO: User rejoined: rBanJLBwulXS9RhGAAAF | Name: Timo | Unique ID: 3cdce629526d5694a9e92396d9415233
+[2023-03-31 17:37:25] INFO: A user has connected: k1bxRFYORfQ8kZLPAAAH
+[2023-03-31 17:37:27] INFO: A user has disconnected: ebbp_xTexE2Z4whMAAAD
+[2023-03-31 17:37:28] INFO: A user has connected: y1vFFphRelvQQ4V4AAAJ
+[2023-03-31 17:37:41] INFO: Showed board
+[2023-03-31 17:37:44] INFO: Selecting random player's turn...
+[2023-03-31 17:37:46] INFO: Random player's turn selected: Timo
+[2023-03-31 17:37:55] INFO: Question opened: Wie viele Sprachen werden Schätzungen zu...
+[2023-03-31 17:38:02] INFO: Exposed question
+[2023-03-31 17:38:19] INFO: Updated user input from Timo: H
+[2023-03-31 17:38:19] INFO: Updated user input from Timo: Ha
+[2023-03-31 17:38:19] INFO: Updated user input from Timo: Han
+[2023-03-31 17:38:19] INFO: Updated user input from Timo: Hans
+[2023-03-31 17:38:19] INFO: Updated user input from Timo: Hans 
+[2023-03-31 17:38:19] INFO: Updated user input from Timo: Hans P
+[2023-03-31 17:38:19] INFO: Updated user input from Timo: Hans Pe
+[2023-03-31 17:38:20] INFO: Updated user input from Timo: Hans Pet
+[2023-03-31 17:38:20] INFO: Updated user input from Timo: Hans Pete
+[2023-03-31 17:38:20] INFO: Updated user input from Timo: Hans Peter
+[2023-03-31 17:38:20] INFO: Updated user input from Timo: Hans Peter 
+[2023-03-31 17:38:20] INFO: Updated user input from Timo: Hans Peter u
+[2023-03-31 17:38:20] INFO: Updated user input from Timo: Hans Peter uw
+[2023-03-31 17:38:20] INFO: Updated user input from Timo: Hans Peter uwe
+[2023-03-31 17:38:21] INFO: Updated user input from Timo: Hans Peter uwe 
+[2023-03-31 17:38:21] INFO: Updated user input from Timo: Hans Peter uwe l
+[2023-03-31 17:38:21] INFO: Updated user input from Timo: Hans Peter uwe la
+[2023-03-31 17:38:21] INFO: Updated user input from Timo: Hans Peter uwe lal
+[2023-03-31 17:38:22] INFO: Updated user input from Timo: Hans Peter uwe lala
+[2023-03-31 17:38:22] INFO: Updated user input from Timo: Hans Peter uwe lalal
+[2023-03-31 17:38:22] INFO: Updated user input from Timo: Hans Peter uwe lalala
+[2023-03-31 17:38:25] INFO: Updated user input from Timo: Hans Peter uwe lalala 
+[2023-03-31 17:38:26] INFO: Updated user input from Timo: Hans Peter uwe lalala t
+[2023-03-31 17:38:26] INFO: Updated user input from Timo: Hans Peter uwe lalala tr
+[2023-03-31 17:38:26] INFO: Updated user input from Timo: Hans Peter uwe lalala tru
+[2023-03-31 17:38:26] INFO: Updated user input from Timo: Hans Peter uwe lalala tr
+[2023-03-31 17:38:27] INFO: Updated user input from Timo: Hans Peter uwe lalala tra
+[2023-03-31 17:38:27] INFO: Updated user input from Timo: Hans Peter uwe lalala trau
+[2023-03-31 17:38:27] INFO: Updated user input from Timo: Hans Peter uwe lalala traum
+[2023-03-31 17:38:27] INFO: Updated user input from Timo: Hans Peter uwe lalala traum 
+[2023-03-31 17:38:28] INFO: Updated user input from Timo: Hans Peter uwe lalala traum m
+[2023-03-31 17:38:28] INFO: Updated user input from Timo: Hans Peter uwe lalala traum ma
+[2023-03-31 17:38:28] INFO: Updated user input from Timo: Hans Peter uwe lalala traum mah
+[2023-03-31 17:38:28] INFO: Updated user input from Timo: Hans Peter uwe lalala traum mahs
+[2023-03-31 17:38:28] INFO: Updated user input from Timo: Hans Peter uwe lalala traum mahsc
+[2023-03-31 17:38:28] INFO: Updated user input from Timo: Hans Peter uwe lalala traum mahsca
+[2023-03-31 17:38:40] INFO: Updated user input from Timo: Hans Peter uwe lalala traum amahsca
+[2023-03-31 17:38:40] INFO: Updated user input from Timo: Hans Peter uwe lalala traum admahsca
+[2023-03-31 17:38:40] INFO: Updated user input from Timo: Hans Peter uwe lalala traum adamahsca
+[2023-03-31 17:38:40] INFO: Updated user input from Timo: Hans Peter uwe lalala traum adawmahsca
+[2023-03-31 17:38:40] INFO: Updated user input from Timo: Hans Peter uwe lalala traum adawdmahsca
+[2023-03-31 17:38:40] INFO: Updated user input from Timo: Hans Peter uwe lalala traum adawd mahsca
+[2023-03-31 17:38:40] INFO: Updated user input from Timo: Hans Peter uwe lalala traum adawd amahsca
+[2023-03-31 17:38:40] INFO: Updated user input from Timo: Hans Peter uwe lalala traum adawd awmahsca
+[2023-03-31 17:38:40] INFO: Updated user input from Timo: Hans Peter uwe lalala traum adawd awdmahsca
+[2023-03-31 17:38:40] INFO: Updated user input from Timo: Hans Peter uwe lalala traum adawd awd mahsca
+[2023-03-31 17:38:40] INFO: Updated user input from Timo: Hans Peter uwe lalala traum adawd awd amahsca
+[2023-03-31 17:38:41] INFO: Updated user input from Timo: Hans Peter uwe lalala traum adawd awd awmahsca
+[2023-03-31 17:38:41] INFO: Updated user input from Timo: Hans Peter uwe lalala traum adawd awd awdmahsca
+[2023-03-31 17:38:41] INFO: Updated user input from Timo: Hans Peter uwe lalala traum adawd awd awd mahsca
+[2023-03-31 17:38:53] INFO: Updated user input from Timo: Hans Peter uwe lalala traum adaw awd awd mahsca
+[2023-03-31 17:38:54] INFO: Updated user input from Timo: Hans Peter uwe lalala traum ada awd awd mahsca
+[2023-03-31 17:38:54] INFO: Updated user input from Timo: Hans Peter uwe lalala traum ad awd awd mahsca
+[2023-03-31 17:38:54] INFO: Updated user input from Timo: Hans Peter uwe lalala traum a awd awd mahsca
+[2023-03-31 17:38:55] INFO: Updated user input from Timo: Hans Peter uwe lalala traum  awd awd mahsca
+[2023-03-31 17:38:55] INFO: Updated user input from Timo: Hans Peter uwe lalala traum awd awd mahsca
+[2023-03-31 17:41:56] INFO: Updated user input from Timo: a
+[2023-03-31 17:41:56] INFO: Updated user input from Timo: ah
+[2023-03-31 17:41:56] INFO: Updated user input from Timo: ahw
+[2023-03-31 17:41:56] INFO: Updated user input from Timo: ahwd
+[2023-03-31 17:41:57] INFO: Updated user input from Timo: ahwda
+[2023-03-31 17:41:57] INFO: Updated user input from Timo: ahwda 
+[2023-03-31 17:41:57] INFO: Updated user input from Timo: ahwda u
+[2023-03-31 17:41:57] INFO: Updated user input from Timo: ahwda ud
+[2023-03-31 17:41:57] INFO: Updated user input from Timo: ahwda udu
+[2023-03-31 17:41:57] INFO: Updated user input from Timo: ahwda udua
+[2023-03-31 17:41:57] INFO: Updated user input from Timo: ahwda uduaw
+[2023-03-31 17:41:57] INFO: Updated user input from Timo: ahwda uduawd
+[2023-03-31 17:41:57] INFO: Updated user input from Timo: ahwda uduawda
+[2023-03-31 17:41:57] INFO: Updated user input from Timo: ahwda uduawdau
+[2023-03-31 17:41:57] INFO: Updated user input from Timo: ahwda uduawdauw
+[2023-03-31 17:41:57] INFO: Updated user input from Timo: ahwda uduawdauwg
+[2023-03-31 17:41:57] INFO: Updated user input from Timo: ahwda uduawdauwgd
+[2023-03-31 17:41:58] INFO: Updated user input from Timo: ahwda uduawdauwgdu
+[2023-03-31 17:41:58] INFO: Updated user input from Timo: ahwda uduawdauwgduw
+[2023-03-31 17:41:58] INFO: Updated user input from Timo: ahwda uduawdauwgduwd
+[2023-03-31 17:41:58] INFO: Updated user input from Timo: ahwda uduawdauwgduwdg
+[2023-03-31 17:41:58] INFO: Updated user input from Timo: ahwda uduawdauwgduwdgw
+[2023-03-31 17:41:58] INFO: Updated user input from Timo: ahwda uduawdauwgduwdgw 
+[2023-03-31 17:41:58] INFO: Updated user input from Timo: ahwda uduawdauwgduwdgw d
+[2023-03-31 17:41:58] INFO: Updated user input from Timo: ahwda uduawdauwgduwdgw dz
+[2023-03-31 17:41:58] INFO: Updated user input from Timo: ahwda uduawdauwgduwdgw dzw
+[2023-03-31 17:41:58] INFO: Updated user input from Timo: ahwda uduawdauwgduwdgw dzwd
+[2023-03-31 17:41:59] INFO: Updated user input from Timo: ahwda uduawdauwgduwdgw dzwdg
+[2023-03-31 17:41:59] INFO: Updated user input from Timo: ahwda uduawdauwgduwdgw dzwdgz
+[2023-03-31 17:41:59] INFO: Updated user input from Timo: ahwda uduawdauwgduwdgw dzwdgzw
+[2023-03-31 17:41:59] INFO: Updated user input from Timo: ahwda uduawdauwgduwdgw dzwdgzwd
+[2023-03-31 17:41:59] INFO: Updated user input from Timo: ahwda uduawdauwgduwdgw dzwdgzwdf
+[2023-03-31 17:41:59] INFO: Updated user input from Timo: ahwda uduawdauwgduwdgw dzwdgzwdfa
+[2023-03-31 17:41:59] INFO: Updated user input from Timo: ahwda uduawdauwgduwdgw dzwdgzwdfaw
+[2023-03-31 17:41:59] INFO: Updated user input from Timo: ahwda uduawdauwgduwdgw dzwdgzwdfawz
+[2023-03-31 17:41:59] INFO: Updated user input from Timo: ahwda uduawdauwgduwdgw dzwdgzwdfawzz
+[2023-03-31 17:41:59] INFO: Updated user input from Timo: ahwda uduawdauwgduwdgw dzwdgzwdfawzzw
+[2023-03-31 17:42:00] INFO: Updated user input from Timo: ahwda uduawdauwgduwdgw dzwdgzwdfawzzwd
+[2023-03-31 17:42:00] INFO: Updated user input from Timo: ahwda uduawdauwgduwdgw dzwdgzwdfawzzwdg
+[2023-03-31 17:42:00] INFO: Updated user input from Timo: ahwda uduawdauwgduwdgw dzwdgzwdfawzzwdgw
+[2023-03-31 17:42:42] INFO: Updated user input from Timo: h
+[2023-03-31 17:42:42] INFO: Updated user input from Timo: hd
+[2023-03-31 17:42:42] INFO: Updated user input from Timo: hdk
+[2023-03-31 17:42:42] INFO: Updated user input from Timo: hdkl
+[2023-03-31 17:42:42] INFO: Updated user input from Timo: hdklw
+[2023-03-31 17:42:42] INFO: Updated user input from Timo: hdklwa
+[2023-03-31 17:42:42] INFO: Updated user input from Timo: hdklwag
+[2023-03-31 17:42:42] INFO: Updated user input from Timo: hdklwagd
+[2023-03-31 17:42:42] INFO: Updated user input from Timo: hdklwagda
+[2023-03-31 17:42:42] INFO: Updated user input from Timo: hdklwagdaw
+[2023-03-31 17:42:42] INFO: Updated user input from Timo: hdklwagdawg
+[2023-03-31 17:42:42] INFO: Updated user input from Timo: hdklwagdawgd
+[2023-03-31 17:42:42] INFO: Updated user input from Timo: hdklwagdawgdh
+[2023-03-31 17:42:42] INFO: Updated user input from Timo: hdklwagdawgdhk
+[2023-03-31 17:42:42] INFO: Updated user input from Timo: hdklwagdawgdhku
+[2023-03-31 17:42:42] INFO: Updated user input from Timo: hdklwagdawgdhkuw
+[2023-03-31 17:42:43] INFO: Updated user input from Timo: hdklwagdawgdhkuwh
+[2023-03-31 17:42:43] INFO: Updated user input from Timo: hdklwagdawgdhkuwhd
+[2023-03-31 17:42:43] INFO: Updated user input from Timo: hdklwagdawgdhkuwhdg
+[2023-03-31 17:42:43] INFO: Updated user input from Timo: hdklwagdawgdhkuwhdgk
+[2023-03-31 17:42:43] INFO: Updated user input from Timo: hdklwagdawgdhkuwhdgku
+[2023-03-31 17:42:43] INFO: Updated user input from Timo: hdklwagdawgdhkuwhdgkuw
+[2023-03-31 17:42:43] INFO: Updated user input from Timo: hdklwagdawgdhkuwhdgkuwa
+[2023-03-31 17:42:43] INFO: Updated user input from Timo: hdklwagdawgdhkuwhdgkuwad
+[2023-03-31 17:42:43] INFO: Updated user input from Timo: hdklwagdawgdhkuwhdgkuwadg
+[2023-03-31 17:42:43] INFO: Updated user input from Timo: hdklwagdawgdhkuwhdgkuwadgh
+[2023-03-31 17:42:43] INFO: Updated user input from Timo: hdklwagdawgdhkuwhdgkuwadghk
+[2023-03-31 17:42:43] INFO: Updated user input from Timo: hdklwagdawgdhkuwhdgkuwadghku
+[2023-03-31 17:42:43] INFO: Updated user input from Timo: hdklwagdawgdhkuwhdgkuwadghkuw
+[2023-03-31 17:42:43] INFO: Updated user input from Timo: hdklwagdawgdhkuwhdgkuwadghkuwa
+[2023-03-31 17:42:43] INFO: Updated user input from Timo: hdklwagdawgdhkuwhdgkuwadghkuwag
+[2023-03-31 17:42:43] INFO: Updated user input from Timo: hdklwagdawgdhkuwhdgkuwadghkuwagd
+[2023-03-31 17:44:24] INFO: Locked text inputs
+[2023-03-31 17:44:30] INFO: Revealed text inputs
+[2023-03-31 17:45:16] INFO: Question completed: Wie viele Sprachen werden Schätzungen zu...
+[2023-03-31 17:46:46] INFO: Server listening on port 3000
+[2023-03-31 17:46:46] INFO: A user has connected: J7Hxiyb7Qv-ANdZSAAAC
+[2023-03-31 17:46:46] INFO: A user has connected: dgP7mPNpSEXHV112AAAD
+[2023-03-31 17:46:47] INFO: A user has connected: BTzDpEimpwOlz4x5AAAF
+[2023-03-31 17:46:51] INFO: A user has disconnected: J7Hxiyb7Qv-ANdZSAAAC
+[2023-03-31 17:46:52] INFO: A user has connected: 0iWJK02Ebcn8KknjAAAH
+[2023-03-31 17:46:54] INFO: A user has disconnected: dgP7mPNpSEXHV112AAAD
+[2023-03-31 17:46:54] INFO: A user has connected: VXRWRVlfWe_ExNaEAAAJ
+[2023-03-31 17:46:54] INFO: User tried to rejoin but is unknown: VXRWRVlfWe_ExNaEAAAJ | Unique ID: 3cdce629526d5694a9e92396d9415233
+[2023-03-31 17:46:56] INFO: Adding player: VXRWRVlfWe_ExNaEAAAJ | Name: Timo | Unique ID: 5b0b767536a1b3e97b53b090be10514a
+[2023-03-31 17:46:56] INFO: User rejoined: VXRWRVlfWe_ExNaEAAAJ | Name: Timo | Unique ID: 5b0b767536a1b3e97b53b090be10514a
+[2023-03-31 17:46:58] INFO: Showed board
+[2023-03-31 17:46:59] INFO: Selecting random player's turn...
+[2023-03-31 17:47:01] INFO: Question opened: Wie viele Sprachen werden Schätzungen zu...
+[2023-03-31 17:47:03] INFO: Random player's turn selected: Timo
+[2023-03-31 17:47:16] INFO: Server listening on port 3000
+[2023-03-31 17:47:16] INFO: A user has connected: 8SKUPXE3xxb4ZxWeAAAC
+[2023-03-31 17:47:16] INFO: A user has connected: o7Kq4zIy8swjG4kpAAAD
+[2023-03-31 17:47:19] INFO: A user has disconnected: o7Kq4zIy8swjG4kpAAAD
+[2023-03-31 17:47:19] INFO: A user has connected: dqzF0AKXmJNatv6gAAAF
+[2023-03-31 17:47:20] INFO: A user has connected: z8t5JsgwLDTZXQhwAAAH
+[2023-03-31 17:47:20] INFO: A user has disconnected: 8SKUPXE3xxb4ZxWeAAAC
+[2023-03-31 17:47:21] INFO: A user has connected: qTasocGM5YILmvqeAAAJ
+[2023-03-31 17:47:21] INFO: User tried to rejoin but is unknown: qTasocGM5YILmvqeAAAJ | Unique ID: 5b0b767536a1b3e97b53b090be10514a
+[2023-03-31 17:47:22] INFO: Adding player: qTasocGM5YILmvqeAAAJ | Name: Timo | Unique ID: d42d71bfdd90c60c8199c09bd7155a04
+[2023-03-31 17:47:22] INFO: User rejoined: qTasocGM5YILmvqeAAAJ | Name: Timo | Unique ID: d42d71bfdd90c60c8199c09bd7155a04
+[2023-03-31 17:48:09] INFO: Buzzed
+[2023-03-31 17:48:09] INFO: Player buzzed: Timo
+[2023-03-31 17:48:14] INFO: Resetting buzzer
+[2023-03-31 17:48:45] INFO: Showed board
+[2023-03-31 17:48:56] INFO: Selecting random player's turn...
+[2023-03-31 17:49:00] INFO: Random player's turn selected: Timo
+[2023-03-31 17:49:13] INFO: Question opened: Bei wie vielen Grad Celsius liegt der ab...
+[2023-03-31 17:49:27] INFO: Exposed question
+[2023-03-31 17:49:35] INFO: Updated user input from Timo: I
+[2023-03-31 17:49:36] INFO: Updated user input from Timo: Ic
+[2023-03-31 17:49:36] INFO: Updated user input from Timo: Ich
+[2023-03-31 17:49:36] INFO: Updated user input from Timo: Ich 
+[2023-03-31 17:49:36] INFO: Updated user input from Timo: Ich w
+[2023-03-31 17:49:37] INFO: Updated user input from Timo: Ich we
+[2023-03-31 17:49:37] INFO: Updated user input from Timo: Ich wei
+[2023-03-31 17:49:37] INFO: Updated user input from Timo: Ich weiß
+[2023-03-31 17:49:37] INFO: Updated user input from Timo: Ich weiß 
+[2023-03-31 17:49:37] INFO: Updated user input from Timo: Ich weiß e
+[2023-03-31 17:49:38] INFO: Updated user input from Timo: Ich weiß es
+[2023-03-31 17:49:38] INFO: Updated user input from Timo: Ich weiß es 
+[2023-03-31 17:49:38] INFO: Updated user input from Timo: Ich weiß es n
+[2023-03-31 17:49:38] INFO: Updated user input from Timo: Ich weiß es ni
+[2023-03-31 17:49:38] INFO: Updated user input from Timo: Ich weiß es nic
+[2023-03-31 17:49:38] INFO: Updated user input from Timo: Ich weiß es nich
+[2023-03-31 17:49:38] INFO: Updated user input from Timo: Ich weiß es nicht
+[2023-03-31 17:49:39] INFO: Updated user input from Timo: Ich weiß es nicht 
+[2023-03-31 17:49:39] INFO: Updated user input from Timo: Ich weiß es nicht :
+[2023-03-31 17:49:39] INFO: Updated user input from Timo: Ich weiß es nicht :(
+[2023-03-31 17:50:01] INFO: Locked text inputs
+[2023-03-31 17:50:08] INFO: Revealed text inputs
+[2023-03-31 17:50:21] INFO: Question completed: Bei wie vielen Grad Celsius liegt der ab...
+[2023-03-31 17:50:43] INFO: Updated points for player Timo: 300 (-> 300)
+[2023-03-31 17:51:04] INFO: Question opened: Wie viele Sprachen werden Schätzungen zu...
+[2023-03-31 17:51:08] INFO: Exposed question
+[2023-03-31 17:51:12] INFO: Updated user input from Timo: P
+[2023-03-31 17:51:12] INFO: Updated user input from Timo: Pe
+[2023-03-31 17:51:12] INFO: Updated user input from Timo: Pen
+[2023-03-31 17:51:12] INFO: Updated user input from Timo: Peni
+[2023-03-31 17:51:12] INFO: Updated user input from Timo: Penis
+[2023-03-31 17:51:12] INFO: Updated user input from Timo: Penis 
+[2023-03-31 17:51:13] INFO: Updated user input from Timo: Penis h
+[2023-03-31 17:51:13] INFO: Updated user input from Timo: Penis hi
+[2023-03-31 17:51:13] INFO: Updated user input from Timo: Penis hih
+[2023-03-31 17:51:13] INFO: Updated user input from Timo: Penis hihi
+[2023-03-31 17:51:14] INFO: Updated user input from Timo: Penis hihid
+[2023-03-31 17:51:14] INFO: Updated user input from Timo: Penis hihida
+[2023-03-31 17:51:15] INFO: Updated user input from Timo: Penis hihid
+[2023-03-31 17:51:15] INFO: Updated user input from Timo: Penis hihi
+[2023-03-31 17:51:18] INFO: Locked text inputs
+[2023-03-31 17:51:19] INFO: Revealed text inputs
+[2023-03-31 17:51:22] INFO: Question completed: Wie viele Sprachen werden Schätzungen zu...
+[2023-03-31 17:51:26] INFO: Updated points for player Timo: 400 (-> 700)
+[2023-03-31 17:51:34] INFO: Question opened: Dwight Schrute|Pam Beesly|Jim Halpert|Mi...
+[2023-03-31 17:51:41] INFO: Exposed question
+[2023-03-31 17:55:38] INFO: Question aborted: Dwight Schrute|Pam Beesly|Jim Halpert|Mi...
+[2023-03-31 17:55:42] INFO: Question opened: Wie viele Kilometer an Eisenbahnschienen...
+[2023-03-31 17:55:48] INFO: Exposed question
+[2023-03-31 17:55:52] INFO: Updated user input from Timo: U
+[2023-03-31 17:55:52] INFO: Updated user input from Timo: Uw
+[2023-03-31 17:55:53] INFO: Updated user input from Timo: Uwu
+[2023-03-31 17:55:55] INFO: Updated user input from Timo: wu
+[2023-03-31 17:55:55] INFO: Updated user input from Timo: uwu
+[2023-03-31 17:55:57] INFO: Locked text inputs
+[2023-03-31 17:55:59] INFO: Revealed text inputs
+[2023-03-31 17:56:02] INFO: Exposed answer
+[2023-03-31 17:58:24] INFO: Updated points for player Timo: 400 (-> 1100)
+[2023-03-31 17:58:28] INFO: Question completed: Wie viele Kilometer an Eisenbahnschienen...
+[2023-03-31 17:58:37] INFO: Question opened: Wie viele Einkärbungen hat ein Golfball?...
+[2023-03-31 17:58:43] INFO: Exposed answer
+[2023-03-31 17:58:45] INFO: Exposed question
+[2023-03-31 17:58:51] INFO: Question aborted: Wie viele Einkärbungen hat ein Golfball?...
+[2023-03-31 17:58:53] INFO: Question opened: Wie viele Einkärbungen hat ein Golfball?...
+[2023-03-31 17:58:55] INFO: Exposed answer
+[2023-03-31 17:58:57] INFO: Question aborted: Wie viele Einkärbungen hat ein Golfball?...
+[2023-03-31 17:58:58] INFO: Question opened: Wie viele Einkärbungen hat ein Golfball?...
+[2023-03-31 17:59:00] INFO: Exposed question
+[2023-03-31 17:59:09] INFO: Exposed answer
+[2023-03-31 17:59:14] INFO: Question aborted: Wie viele Einkärbungen hat ein Golfball?...
+[2023-03-31 17:59:18] INFO: Question opened: Jaskier|Cirilla Fiona Elen Riannon|Yenne...
+[2023-03-31 17:59:24] INFO: Exposed question
+[2023-03-31 17:59:29] INFO: Question aborted: Jaskier|Cirilla Fiona Elen Riannon|Yenne...
+[2023-03-31 17:59:31] INFO: Question opened: Jaskier|Cirilla Fiona Elen Riannon|Yenne...
+[2023-03-31 18:00:07] INFO: Exposed question
+[2023-03-31 18:00:17] INFO: Revealed enum item 1
+[2023-03-31 18:00:20] INFO: Revealed enum item 2
+[2023-03-31 18:00:22] INFO: Revealed enum item 3
+[2023-03-31 18:00:23] INFO: Revealed enum item 4
+[2023-03-31 18:00:24] INFO: Revealed enum item 5
+[2023-03-31 18:00:25] INFO: Revealed enum item 6
+[2023-03-31 18:00:28] INFO: Buzzed
+[2023-03-31 18:00:28] INFO: Player buzzed: Timo
+[2023-03-31 18:00:33] INFO: Player answered incorrectly: Timo. Removed 100 points (-> 1000).
+[2023-03-31 18:00:37] INFO: Buzzed
+[2023-03-31 18:00:37] INFO: Player buzzed: Timo
+[2023-03-31 18:00:38] INFO: Player answered correctly: Timo. Added 200 points (-> 1200).
+[2023-03-31 18:00:44] INFO: Question completed: Jaskier|Cirilla Fiona Elen Riannon|Yenne...
+[2023-03-31 18:00:53] INFO: Question opened: Wie heißt der flüchtige Speicher in eine...
+[2023-03-31 18:00:56] INFO: Buzzed
+[2023-03-31 18:00:56] INFO: Player buzzed: Timo
+[2023-03-31 18:00:58] INFO: Resetting buzzer
+[2023-03-31 18:01:05] INFO: Exposed question
+[2023-03-31 18:01:25] INFO: Buzzed
+[2023-03-31 18:01:25] INFO: Player buzzed: Timo
+[2023-03-31 18:01:27] INFO: Player answered correctly: Timo. Added 400 points (-> 1600).
+[2023-03-31 18:01:41] INFO: Question completed: Wie heißt der flüchtige Speicher in eine...
+[2023-03-31 18:01:43] INFO: Question opened: /flag2.png...
+[2023-03-31 18:01:46] INFO: Exposed question
+[2023-03-31 18:07:45] INFO: Buzzed
+[2023-03-31 18:07:45] INFO: Player buzzed: Timo
+[2023-03-31 18:07:49] INFO: Player answered correctly: Timo. Added 300 points (-> 1900).
+[2023-03-31 18:07:55] INFO: Question completed: /flag2.png...
+[2023-03-31 18:08:03] INFO: Question opened: Wofür steht die Abkürzung NATO?...
+[2023-03-31 18:08:05] INFO: Exposed question
+[2023-03-31 18:08:09] INFO: Buzzed
+[2023-03-31 18:08:09] INFO: Player buzzed: Timo
+[2023-03-31 18:08:10] INFO: Player answered correctly: Timo. Added 500 points (-> 2400).
+[2023-03-31 18:08:17] INFO: Question completed: Wofür steht die Abkürzung NATO?...
+[2023-03-31 18:08:19] INFO: Question opened: Welche politische Bewegung wurde 1980 in...
+[2023-03-31 18:11:08] INFO: Question aborted: Welche politische Bewegung wurde 1980 in...
+[2023-03-31 18:11:11] INFO: Question opened: Wofür steht die Abkürzung NATO?...
+[2023-03-31 18:11:13] INFO: Question aborted: Wofür steht die Abkürzung NATO?...
+[2023-03-31 18:25:47] INFO: Server listening on port 3000
+[2023-03-31 18:25:47] INFO: A user has connected: F0h2ha8IIfvJYyRwAAAB
+[2023-03-31 18:25:49] INFO: A user has connected: hp38ZizKTP8NNjZ4AAAD
+[2023-03-31 18:25:50] INFO: A user has connected: 8iH8rE2seXcdIzSfAAAF
+[2023-03-31 18:25:50] INFO: User tried to rejoin but is unknown: 8iH8rE2seXcdIzSfAAAF | Unique ID: d42d71bfdd90c60c8199c09bd7155a04
+[2023-03-31 18:25:52] INFO: Adding player: 8iH8rE2seXcdIzSfAAAF | Name: Timo | Unique ID: 3cf6f1aed005f9ca609801deb32d9995
+[2023-03-31 18:25:52] INFO: User rejoined: 8iH8rE2seXcdIzSfAAAF | Name: Timo | Unique ID: 3cf6f1aed005f9ca609801deb32d9995
+[2023-03-31 18:25:57] INFO: A user has disconnected: F0h2ha8IIfvJYyRwAAAB
+[2023-03-31 18:25:57] INFO: A user has connected: OTut7h8EAuqgHqaUAAAH
+[2023-03-31 18:26:18] INFO: Showed board
+[2023-03-31 18:27:11] INFO: Question opened: "Konni, mach doch einfach dein HUD aus, ...
+[2023-03-31 18:27:15] INFO: Exposed question
+[2023-03-31 18:27:56] INFO: Buzzed
+[2023-03-31 18:27:56] INFO: Player buzzed: Timo
+[2023-03-31 18:28:03] INFO: Player answered correctly: Timo. Added 300 points (-> 300).
+[2023-03-31 18:28:05] INFO: Question completed: "Konni, mach doch einfach dein HUD aus, ...
+[2023-03-31 18:57:23] INFO: Question opened: Wie viele Liter Bier werden in Deutschla...
+[2023-03-31 18:57:26] INFO: Exposed answer
+[2023-03-31 18:57:26] INFO: Question completed: Wie viele Liter Bier werden in Deutschla...
+[2023-03-31 18:57:27] INFO: Question opened: Bei wie vielen Grad Celsius liegt der ab...
+[2023-03-31 18:57:28] INFO: Exposed answer
+[2023-03-31 18:57:28] INFO: Question completed: Bei wie vielen Grad Celsius liegt der ab...
+[2023-03-31 18:57:29] INFO: Question opened: Wie viele Sprachen werden Schätzungen zu...
+[2023-03-31 18:57:29] INFO: Exposed answer
+[2023-03-31 18:57:30] INFO: Question completed: Wie viele Sprachen werden Schätzungen zu...
+[2023-03-31 18:57:30] INFO: Question opened: Wie viele Kilometer an Eisenbahnschienen...
+[2023-03-31 18:57:31] INFO: Exposed answer
+[2023-03-31 18:57:32] INFO: Question completed: Wie viele Kilometer an Eisenbahnschienen...
+[2023-03-31 18:57:32] INFO: Question opened: Wie viele Einkärbungen hat ein Golfball?...
+[2023-03-31 18:57:33] INFO: Exposed answer
+[2023-03-31 18:57:33] INFO: Question completed: Wie viele Einkärbungen hat ein Golfball?...
+[2023-03-31 18:57:38] INFO: Question opened: Gustavo Fring|Saul Goodman|Jesse Pinkman...
+[2023-03-31 18:57:41] INFO: Exposed question
+[2023-03-31 18:57:44] INFO: Exposed answer
+[2023-03-31 18:57:44] INFO: Question completed: Gustavo Fring|Saul Goodman|Jesse Pinkman...
+[2023-03-31 18:57:45] INFO: Question opened: Jaskier|Cirilla Fiona Elen Riannon|Yenne...
+[2023-03-31 18:57:46] INFO: Exposed answer
+[2023-03-31 18:57:47] INFO: Question completed: Jaskier|Cirilla Fiona Elen Riannon|Yenne...
+[2023-03-31 18:57:48] INFO: Question opened: Lily Aldrin|Marshall Eriksen|Ted Mosby|B...
+[2023-03-31 18:57:48] INFO: Exposed answer
+[2023-03-31 18:57:49] INFO: Question completed: Lily Aldrin|Marshall Eriksen|Ted Mosby|B...
+[2023-03-31 18:57:49] INFO: Question opened: Lt. Dan Taylor|Jenny Curran|Bubba Blue|F...
+[2023-03-31 18:57:50] INFO: Exposed answer
+[2023-03-31 18:57:50] INFO: Question completed: Lt. Dan Taylor|Jenny Curran|Bubba Blue|F...
+[2023-03-31 18:57:51] INFO: Question opened: /flag2.png...
+[2023-03-31 18:57:52] INFO: Exposed answer
+[2023-03-31 18:57:52] INFO: Question completed: /flag2.png...
+[2023-03-31 18:57:53] INFO: Question opened: /flag3.png...
+[2023-03-31 18:57:53] INFO: Exposed answer
+[2023-03-31 18:57:54] INFO: Question completed: /flag3.png...
+[2023-03-31 18:57:55] INFO: Question opened: /flag4.png...
+[2023-03-31 18:57:55] INFO: Exposed answer
+[2023-03-31 18:57:56] INFO: Question completed: /flag4.png...
+[2023-03-31 18:57:56] INFO: Question opened: /flag5.png...
+[2023-03-31 18:57:57] INFO: Exposed answer
+[2023-03-31 18:57:57] INFO: Question completed: /flag5.png...
+[2023-03-31 18:57:58] INFO: Question opened: Welches Material, das etwa 200-mal stärk...
+[2023-03-31 18:57:59] INFO: Exposed answer
+[2023-03-31 18:57:59] INFO: Question completed: Welches Material, das etwa 200-mal stärk...
+[2023-03-31 18:58:00] INFO: Question opened: Wie heißt der flüchtige Speicher in eine...
+[2023-03-31 18:58:00] INFO: Exposed answer
+[2023-03-31 18:58:01] INFO: Question completed: Wie heißt der flüchtige Speicher in eine...
+[2023-03-31 18:58:01] INFO: Question opened: Welche Technik nutzt reflektierende Mark...
+[2023-03-31 18:58:02] INFO: Exposed answer
+[2023-03-31 18:58:03] INFO: Question completed: Welche Technik nutzt reflektierende Mark...
+[2023-03-31 18:58:04] INFO: Question opened: Welche Kryptowährung wurde 2015 eingefüh...
+[2023-03-31 18:58:04] INFO: Exposed answer
+[2023-03-31 18:58:05] INFO: Question completed: Welche Kryptowährung wurde 2015 eingefüh...
+[2023-03-31 18:58:05] INFO: Question opened: An welchem Datum fiel die Berliner Mauer...
+[2023-03-31 18:58:06] INFO: Exposed answer
+[2023-03-31 18:58:07] INFO: Question completed: An welchem Datum fiel die Berliner Mauer...
+[2023-03-31 18:58:07] INFO: Question opened: Wie wurde die Armee der Sowjetunion im 2...
+[2023-03-31 18:58:08] INFO: Exposed answer
+[2023-03-31 18:58:09] INFO: Question completed: Wie wurde die Armee der Sowjetunion im 2...
+[2023-03-31 18:58:09] INFO: Question opened: Wie oft finden die Wahlen zum Europäisch...
+[2023-03-31 18:58:10] INFO: Exposed answer
+[2023-03-31 18:58:10] INFO: Question completed: Wie oft finden die Wahlen zum Europäisch...
+[2023-03-31 18:58:11] INFO: Question opened: Welche politische Bewegung wurde 1980 in...
+[2023-03-31 18:58:11] INFO: Exposed answer
+[2023-03-31 18:58:12] INFO: Question completed: Welche politische Bewegung wurde 1980 in...
+[2023-03-31 18:58:12] INFO: Question opened: Wofür steht die Abkürzung NATO?...
+[2023-03-31 18:58:13] INFO: Exposed answer
+[2023-03-31 18:58:13] INFO: Question completed: Wofür steht die Abkürzung NATO?...
+[2023-03-31 18:58:14] INFO: Question opened: "Geblitzt fürs Falschparken"...
+[2023-03-31 18:58:15] INFO: Exposed answer
+[2023-03-31 18:58:15] INFO: Question completed: "Geblitzt fürs Falschparken"...
+[2023-03-31 18:58:20] INFO: Question opened: "Deutz-Schwedische Grenze"...
+[2023-03-31 18:58:23] INFO: Question aborted: "Deutz-Schwedische Grenze"...
+[2023-03-31 18:58:23] INFO: Question opened: "Ich kann diesen King-Dingens sehr empfe...
+[2023-03-31 18:58:24] INFO: Exposed answer
+[2023-03-31 18:58:25] INFO: Question completed: "Ich kann diesen King-Dingens sehr empfe...
+[2023-03-31 19:07:53] INFO: Question opened: "Deutz-Schwedische Grenze"...
+[2023-03-31 19:13:16] INFO: Exposed question
+[2023-03-31 19:13:18] INFO: Exposed answer
+[2023-03-31 19:13:21] INFO: Question completed: "Deutz-Schwedische Grenze"...
+[2023-03-31 19:13:26] INFO: Question opened: "Ich habs wie bei nem guten Cyberpunk Ga...
+[2023-03-31 19:13:29] INFO: Exposed answer
+[2023-03-31 19:13:29] INFO: Question completed: "Ich habs wie bei nem guten Cyberpunk Ga...
+[2023-03-31 19:13:30] INFO: Question opened: /flag1.png...
+[2023-03-31 19:13:31] INFO: Exposed answer
+[2023-03-31 19:13:31] INFO: Question completed: /flag1.png...
+[2023-03-31 19:13:32] INFO: Question opened: Wie heißt die Display-Technologie, welch...
+[2023-03-31 19:13:33] INFO: Exposed answer
+[2023-03-31 19:13:33] INFO: Question completed: Wie heißt die Display-Technologie, welch...
+[2023-03-31 19:13:34] INFO: Question opened: Dwight Schrute|Pam Beesly|Jim Halpert|Mi...
+[2023-03-31 19:13:34] INFO: Exposed answer
+[2023-03-31 19:13:35] INFO: Question completed: Dwight Schrute|Pam Beesly|Jim Halpert|Mi...
+[2023-03-31 19:17:25] INFO: A user has disconnected: hp38ZizKTP8NNjZ4AAAD
+[2023-03-31 19:59:08] INFO: A user has disconnected: OTut7h8EAuqgHqaUAAAH
+[2023-03-31 19:59:08] INFO: A user has disconnected: 8iH8rE2seXcdIzSfAAAF
+[2023-03-31 19:59:09] INFO: A user has connected: SYaL_eDP_w50wVt1AAAJ
+[2023-03-31 19:59:10] INFO: A user has connected: khCohgq3n6RMoFHlAAAL
+[2023-03-31 19:59:10] INFO: User rejoined: khCohgq3n6RMoFHlAAAL | Name: Timo | Unique ID: 3cf6f1aed005f9ca609801deb32d9995
+[2023-03-31 19:59:10] INFO: A user has connected: HBDR27X8zxyR1J8HAAAN
+[2023-03-31 20:01:05] INFO: A user has disconnected: SYaL_eDP_w50wVt1AAAJ
+[2023-03-31 20:01:20] INFO: A user has disconnected: HBDR27X8zxyR1J8HAAAN
+[2023-03-31 20:01:20] INFO: A user has disconnected: khCohgq3n6RMoFHlAAAL
+[2023-03-31 20:01:21] INFO: A user has connected: uvtmRhEDiItC1BMrAAAP
+[2023-03-31 20:01:21] INFO: A user has connected: pHLiCKmcsWonlqTTAAAS
+[2023-03-31 20:01:21] INFO: A user has connected: exArWJZWi8WS4m7GAAAT
+[2023-03-31 20:01:21] INFO: User rejoined: exArWJZWi8WS4m7GAAAT | Name: Timo | Unique ID: 3cf6f1aed005f9ca609801deb32d9995
+[2023-03-31 20:01:24] INFO: A user has disconnected: exArWJZWi8WS4m7GAAAT
+[2023-03-31 20:01:24] INFO: A user has disconnected: pHLiCKmcsWonlqTTAAAS
+[2023-03-31 20:01:24] INFO: A user has connected: 3o1FM7xbMJX44TucAAAV
+[2023-03-31 20:01:25] INFO: A user has connected: UgXI2oxS3eAYcVvzAAAX
+[2023-03-31 20:01:25] INFO: User rejoined: UgXI2oxS3eAYcVvzAAAX | Name: Timo | Unique ID: 3cf6f1aed005f9ca609801deb32d9995
+[2023-03-31 20:01:25] INFO: A user has connected: yDM0Qfua9r5_KAUqAAAZ
+[2023-03-31 20:03:48] INFO: User rejoined: UgXI2oxS3eAYcVvzAAAX | Name: Timo | Unique ID: 3cf6f1aed005f9ca609801deb32d9995
+[2023-03-31 20:05:27] INFO: User rejoined: UgXI2oxS3eAYcVvzAAAX | Name: Timo | Unique ID: 3cf6f1aed005f9ca609801deb32d9995
+[2023-03-31 20:23:25] INFO: A user has disconnected: UgXI2oxS3eAYcVvzAAAX
+[2023-03-31 20:23:26] INFO: A user has connected: bJacjGAwdENyjGH2AAAb
+[2023-03-31 20:23:26] INFO: User rejoined: bJacjGAwdENyjGH2AAAb | Name: Timo | Unique ID: 3cf6f1aed005f9ca609801deb32d9995
+[2023-03-31 20:24:39] INFO: A user has disconnected: bJacjGAwdENyjGH2AAAb
+[2023-03-31 20:24:40] INFO: A user has connected: APzf3gskwdRXtNfyAAAd
+[2023-03-31 20:24:40] INFO: User rejoined: APzf3gskwdRXtNfyAAAd | Name: Timo | Unique ID: 3cf6f1aed005f9ca609801deb32d9995
+[2023-03-31 20:25:28] INFO: A user has disconnected: APzf3gskwdRXtNfyAAAd
+[2023-03-31 20:25:29] INFO: A user has connected: BSmDP4KafM7FyT28AAAf
+[2023-03-31 20:25:29] INFO: User rejoined: BSmDP4KafM7FyT28AAAf | Name: Timo | Unique ID: 3cf6f1aed005f9ca609801deb32d9995
+[2023-03-31 20:25:50] INFO: A user has disconnected: BSmDP4KafM7FyT28AAAf
+[2023-03-31 20:25:51] INFO: A user has connected: 47v9hBl409cza07SAAAh
+[2023-03-31 20:25:51] INFO: User rejoined: 47v9hBl409cza07SAAAh | Name: Timo | Unique ID: 3cf6f1aed005f9ca609801deb32d9995
+[2023-03-31 20:27:02] INFO: A user has disconnected: 47v9hBl409cza07SAAAh
+[2023-03-31 20:27:02] INFO: A user has connected: Mte_hCsPNJbAL9XGAAAj
+[2023-03-31 20:27:02] INFO: User rejoined: Mte_hCsPNJbAL9XGAAAj | Name: Timo | Unique ID: 3cf6f1aed005f9ca609801deb32d9995
+[2023-03-31 20:27:29] INFO: Buzzed
+[2023-03-31 20:27:29] INFO: Player buzzed: Timo
+[2023-03-31 20:27:32] INFO: A user has disconnected: Mte_hCsPNJbAL9XGAAAj
+[2023-03-31 20:27:32] INFO: A user has connected: ID70DvCw_T9XCBCeAAAl
+[2023-03-31 20:27:32] INFO: User rejoined: ID70DvCw_T9XCBCeAAAl | Name: Timo | Unique ID: 3cf6f1aed005f9ca609801deb32d9995
+[2023-03-31 20:28:48] INFO: A user has disconnected: ID70DvCw_T9XCBCeAAAl
+[2023-03-31 20:28:49] INFO: A user has connected: XyaZzGYRKNtU1dwkAAAn
+[2023-03-31 20:28:49] INFO: User rejoined: XyaZzGYRKNtU1dwkAAAn | Name: Timo | Unique ID: 3cf6f1aed005f9ca609801deb32d9995
+[2023-03-31 20:29:03] INFO: A user has disconnected: XyaZzGYRKNtU1dwkAAAn
+[2023-03-31 20:29:03] INFO: A user has connected: sF6PMmRADROY81F4AAAp
+[2023-03-31 20:29:03] INFO: User rejoined: sF6PMmRADROY81F4AAAp | Name: Timo | Unique ID: 3cf6f1aed005f9ca609801deb32d9995
+[2023-03-31 20:29:53] INFO: A user has disconnected: yDM0Qfua9r5_KAUqAAAZ
+[2023-03-31 20:29:54] INFO: A user has connected: Jp2ahba9nj9QV88KAAAr
+[2023-03-31 20:32:17] INFO: Server listening on port 3000
+[2023-03-31 20:32:18] INFO: A user has connected: xyw3VRpXF9Cz3Hq-AAAB
+[2023-03-31 20:32:19] INFO: A user has connected: HCcHNwZJkt_q_GfMAAAD
+[2023-03-31 20:32:19] INFO: A user has connected: pgtcOitbKORMED-vAAAF
+[2023-03-31 20:32:22] INFO: A user has connected: g-JfiApHi-3eA1g4AAAH
+[2023-03-31 20:32:45] INFO: A user has disconnected: pgtcOitbKORMED-vAAAF
+[2023-03-31 20:32:45] INFO: A user has connected: DHNQXW9U-q4uAJA-AAAJ
+[2023-03-31 20:32:52] INFO: Showed board
+[2023-03-31 20:32:55] INFO: A user has disconnected: xyw3VRpXF9Cz3Hq-AAAB
+[2023-03-31 20:32:56] INFO: A user has connected: MntDF-QqZLKdjpioAAAL
+[2023-03-31 20:32:56] INFO: User tried to rejoin but is unknown: MntDF-QqZLKdjpioAAAL | Unique ID: 3cf6f1aed005f9ca609801deb32d9995
+[2023-03-31 20:32:58] INFO: Adding player: MntDF-QqZLKdjpioAAAL | Name: Timo | Unique ID: 4b4be7ea36f829bd389352bd82bbaf20
+[2023-03-31 20:32:58] INFO: User rejoined: MntDF-QqZLKdjpioAAAL | Name: Timo | Unique ID: 4b4be7ea36f829bd389352bd82bbaf20
+[2023-03-31 20:33:07] INFO: Question opened: /flag1.webp...
+[2023-03-31 20:33:09] INFO: Exposed question
+[2023-03-31 20:33:21] INFO: Question aborted: /flag1.webp...
+[2023-03-31 20:33:23] INFO: Question opened: /flag2.webp...
+[2023-03-31 20:33:25] INFO: Exposed question
+[2023-03-31 20:33:26] INFO: Question aborted: /flag2.webp...
+[2023-03-31 20:33:27] INFO: Question opened: /flag3.webp...
+[2023-03-31 20:33:28] INFO: Exposed question
+[2023-03-31 20:33:29] INFO: Question aborted: /flag3.webp...
+[2023-03-31 20:33:30] INFO: Question opened: /flag4.webp...
+[2023-03-31 20:33:31] INFO: Exposed question
+[2023-03-31 20:33:31] INFO: Question aborted: /flag4.webp...
+[2023-03-31 20:33:32] INFO: Question opened: /flag5.webp...
+[2023-03-31 20:33:33] INFO: Exposed question
+[2023-03-31 20:33:33] INFO: Question aborted: /flag5.webp...
+[2023-03-31 20:33:36] INFO: Question opened: /flag5.webp...
+[2023-03-31 20:33:37] INFO: Exposed question
+[2023-03-31 20:33:38] INFO: Exposed answer
+[2023-03-31 20:33:44] INFO: Question aborted: /flag5.webp...
+[2023-03-31 20:38:13] INFO: A user has disconnected: MntDF-QqZLKdjpioAAAL
+[2023-03-31 20:38:46] INFO: A user has disconnected: g-JfiApHi-3eA1g4AAAH
+[2023-03-31 20:38:46] INFO: A user has disconnected: HCcHNwZJkt_q_GfMAAAD
+[2023-03-31 20:38:53] INFO: A user has disconnected: DHNQXW9U-q4uAJA-AAAJ
+[2023-03-31 20:38:54] INFO: A user has connected: nOf5jC7gcn82t021AAAN
+[2023-03-31 20:39:14] INFO: A user has connected: 4FK5mWnD1zw1-aWsAAAP
+[2023-03-31 20:39:14] INFO: A user has connected: ovT8Ba9yk_sD57ZiAAAR
+[2023-03-31 20:39:14] INFO: User rejoined: ovT8Ba9yk_sD57ZiAAAR | Name: Timo | Unique ID: 4b4be7ea36f829bd389352bd82bbaf20
+[2023-03-31 20:40:27] INFO: A user has disconnected: ovT8Ba9yk_sD57ZiAAAR
+[2023-03-31 20:40:28] INFO: A user has connected: a75cwFqzGa4HaDpZAAAT
+[2023-03-31 20:40:28] INFO: User rejoined: a75cwFqzGa4HaDpZAAAT | Name: Timo | Unique ID: 4b4be7ea36f829bd389352bd82bbaf20
+[2023-03-31 20:45:10] INFO: Launched fireworks for Timo
+[2023-03-31 20:45:19] INFO: A user has disconnected: 4FK5mWnD1zw1-aWsAAAP
+[2023-03-31 20:45:19] INFO: A user has connected: GyePRIbvINZLnvsSAAAV
+[2023-03-31 20:45:25] INFO: Launched fireworks for Timo
+[2023-03-31 20:45:40] INFO: Launched fireworks for Timo
+[2023-03-31 20:45:42] INFO: A user has disconnected: a75cwFqzGa4HaDpZAAAT
+[2023-03-31 20:45:43] INFO: A user has connected: PFPej8t2YNx2oYkAAAAX
+[2023-03-31 20:45:43] INFO: User rejoined: PFPej8t2YNx2oYkAAAAX | Name: Timo | Unique ID: 4b4be7ea36f829bd389352bd82bbaf20
+[2023-03-31 20:45:48] INFO: Launched fireworks for Timo
+[2023-03-31 20:46:00] INFO: Launched fireworks for Timo
+[2023-03-31 20:46:08] INFO: A user has disconnected: GyePRIbvINZLnvsSAAAV
+[2023-03-31 20:46:08] INFO: A user has connected: mR1No9HKSSbGfbjjAAAZ
+[2023-03-31 20:46:10] INFO: A user has disconnected: PFPej8t2YNx2oYkAAAAX
+[2023-03-31 20:46:10] INFO: A user has connected: xaktiTODCmm7Kd3fAAAb
+[2023-03-31 20:46:10] INFO: User rejoined: xaktiTODCmm7Kd3fAAAb | Name: Timo | Unique ID: 4b4be7ea36f829bd389352bd82bbaf20
+[2023-03-31 20:46:12] INFO: Launched fireworks for Timo
+[2023-03-31 20:46:45] INFO: A user has disconnected: xaktiTODCmm7Kd3fAAAb
+[2023-03-31 20:46:45] INFO: A user has connected: WUkpVjYJCBlrIhwLAAAd
+[2023-03-31 20:46:45] INFO: User rejoined: WUkpVjYJCBlrIhwLAAAd | Name: Timo | Unique ID: 4b4be7ea36f829bd389352bd82bbaf20
+[2023-03-31 20:46:47] INFO: A user has disconnected: mR1No9HKSSbGfbjjAAAZ
+[2023-03-31 20:46:47] INFO: A user has connected: fti6Bo2Mt7K1FnhiAAAf
+[2023-03-31 20:46:49] INFO: Buzzed
+[2023-03-31 20:46:49] INFO: Player buzzed: Timo
+[2023-03-31 20:46:52] INFO: Resetting buzzer
+[2023-03-31 20:46:54] INFO: Launched fireworks for Timo
+[2023-03-31 20:47:06] INFO: A user has disconnected: fti6Bo2Mt7K1FnhiAAAf
+[2023-03-31 20:47:07] INFO: A user has connected: -peHTso9bHgtfO_LAAAh
+[2023-03-31 20:47:09] INFO: A user has disconnected: WUkpVjYJCBlrIhwLAAAd
+[2023-03-31 20:47:09] INFO: A user has connected: GRjyxJ3XJ-L_nd02AAAj
+[2023-03-31 20:47:09] INFO: User rejoined: GRjyxJ3XJ-L_nd02AAAj | Name: Timo | Unique ID: 4b4be7ea36f829bd389352bd82bbaf20
+[2023-03-31 20:47:12] INFO: Buzzed
+[2023-03-31 20:47:12] INFO: Player buzzed: Timo
+[2023-03-31 20:47:18] INFO: Resetting buzzer
+[2023-03-31 20:47:21] INFO: Launched fireworks for Timo
+[2023-03-31 20:47:43] INFO: A user has disconnected: -peHTso9bHgtfO_LAAAh
+[2023-03-31 20:47:53] INFO: A user has disconnected: GRjyxJ3XJ-L_nd02AAAj
+[2023-03-31 20:47:56] INFO: A user has disconnected: nOf5jC7gcn82t021AAAN

@@ -7,6 +7,7 @@ import path from "path";
 import crypto from "crypto";
 import { Question, Participant, GameState, Category, QuestionType } from "./types";
 import logger from "./logger";
+import { isDoublePoints } from "./util";
 
 const PORT = process.env.PORT || 3000;
 
@@ -44,6 +45,7 @@ function addPlayer(socketId: string, name: string, uniqueId: string) {
     socketId,
     name,
     score: 0,
+    textInput: "",
   });
 
   // Senden Sie den aktualisierten Spielzustand an alle Clients
@@ -56,6 +58,10 @@ function nextPlayersTurn() {
   const nextPlayerIndex = playerIndex + 1 >= gameState.players.length ? 0 : playerIndex + 1;
   gameState.playersTurn = gameState.players[nextPlayerIndex];
   io.emit("updateGameState", gameState);
+}
+
+function emptyTextInputs() {
+  gameState.players.forEach((p) => (p.textInput = ""));
 }
 
 async function main() {
@@ -78,6 +84,8 @@ async function main() {
     exposeAnswer: false,
     showBoard: false,
     enumRevealAmount: 0,
+    lockTextInput: false,
+    revealTextInput: false,
   };
 
   io.on("connection", (socket) => {
@@ -108,6 +116,8 @@ async function main() {
         return;
       }
 
+      existingPlayer.socketId = socket.id;
+
       logger.info(`User rejoined: ${socket.id} | Name: ${existingPlayer.name} | Unique ID: ${uniqueId}`);
       // Sende den aktuellen Spielzustand an den zurückkehrenden Teilnehmer
       io.emit("updateGameState", gameState);
@@ -123,10 +133,11 @@ async function main() {
       if (removedPlayer) {
         gameState.players = gameState.players.filter((player) => player.id !== playerId);
 
-        logger.info(`Removed player: ${removedPlayer.name}`);
+        logger.info(`Removed player: ${removedPlayer.name} (${removedPlayer.id})`);
 
         io.emit("updateGameState", gameState);
         io.to(removedPlayer.socketId).emit("removedFromGame");
+        io.to(removedPlayer.socketId).disconnectSockets();
       }
     });
 
@@ -153,8 +164,11 @@ async function main() {
           gameState.exposeQuestion = false;
           gameState.exposeAnswer = false;
           gameState.enumRevealAmount = 0;
+          gameState.revealTextInput = false;
+          gameState.lockTextInput = false;
+          emptyTextInputs();
 
-          logger.info(`Question opened: ${question.question.slice(0, 40)}...}`);
+          logger.info(`Question opened: ${question.question.slice(0, 40)}...`);
 
           io.emit("updateGameState", gameState);
         }
@@ -164,20 +178,23 @@ async function main() {
     socket.on("abortQuestion", () => {
       if (!gameState.activeQuestion) return;
 
-      logger.info(`Question aborted: ${gameState.activeQuestion.question.slice(0, 40)}...}`);
+      logger.info(`Question aborted: ${gameState.activeQuestion.question.slice(0, 40)}...`);
 
       gameState.activeQuestion = null;
       gameState.buzzedPlayer = null;
       gameState.exposeAnswer = false;
       gameState.exposeQuestion = false;
       gameState.enumRevealAmount = 0;
+      gameState.revealTextInput = false;
+      gameState.lockTextInput = false;
+      emptyTextInputs();
       io.emit("updateGameState", gameState);
     });
 
     socket.on("completeQuestion", () => {
       if (!gameState.activeQuestion) return;
 
-      logger.info(`Question completed: ${gameState.activeQuestion.question.slice(0, 40)}...}`);
+      logger.info(`Question completed: ${gameState.activeQuestion.question.slice(0, 40)}...`);
 
       gameState.categories.forEach((category) => {
         const question = category.questions.find((q) => q.question === gameState.activeQuestion!.question);
@@ -191,6 +208,9 @@ async function main() {
       gameState.exposeAnswer = false;
       gameState.exposeQuestion = false;
       gameState.enumRevealAmount = 0;
+      gameState.revealTextInput = false;
+      gameState.lockTextInput = false;
+      emptyTextInputs();
       io.emit("updateGameState", gameState);
       nextPlayersTurn();
     });
@@ -240,7 +260,7 @@ async function main() {
 
     socket.on("correctAnswer", () => {
       if (gameState.buzzedPlayer && gameState.activeQuestion) {
-        gameState.buzzedPlayer.score += gameState.activeQuestion.value;
+        gameState.buzzedPlayer.score += isDoublePoints(gameState.categories) ? gameState.activeQuestion.value * 2 : gameState.activeQuestion.value;
 
         logger.info(`Player answered correctly: ${gameState.buzzedPlayer.name}. Added ${gameState.activeQuestion.value} points (-> ${gameState.buzzedPlayer.score}).`);
       }
@@ -252,7 +272,7 @@ async function main() {
 
     socket.on("wrongAnswer", () => {
       if (gameState.buzzedPlayer && gameState.activeQuestion) {
-        gameState.buzzedPlayer.score -= gameState.activeQuestion.value / 2;
+        gameState.buzzedPlayer.score -= isDoublePoints(gameState.categories) ? gameState.activeQuestion.value : gameState.activeQuestion.value / 2;
 
         logger.info(`Player answered incorrectly: ${gameState.buzzedPlayer.name}. Removed ${gameState.activeQuestion.value / 2} points (-> ${gameState.buzzedPlayer.score}).`);
       }
@@ -285,6 +305,41 @@ async function main() {
       gameState.enumRevealAmount++;
       io.emit("updateGameState", gameState);
       logger.info("Revealed enum item " + gameState.enumRevealAmount);
+    });
+
+    socket.on("updateTextInput", (text: string) => {
+      const player = gameState.players.find((p) => p.socketId === socket.id);
+      if (player) {
+        player.textInput = text;
+        io.emit("updateGameState", gameState);
+        logger.info(`Updated user input from ${player.name}: ${player.textInput}`);
+      }
+    });
+
+    socket.on("lockTextInput", () => {
+      gameState.lockTextInput = true;
+      io.emit("updateGameState", gameState);
+      logger.info("Locked text inputs");
+    });
+
+    socket.on("revealTextInput", () => {
+      if (!gameState.lockTextInput) return;
+      gameState.revealTextInput = true;
+      io.emit("updateGameState", gameState);
+      logger.info("Revealed text inputs");
+    });
+
+    socket.on("launch-fireworks", () => {
+      const player = gameState.players.reduce((highestScorer, player) => {
+        if (player.score > highestScorer.score) {
+          return player;
+        }
+        return highestScorer;
+      }, gameState.players[0]);
+      if (player) {
+        io.emit("launch-fireworks", player);
+        logger.info(`Launched fireworks for ${player.name}`);
+      }
     });
   });
 

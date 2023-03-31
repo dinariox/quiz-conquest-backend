@@ -23,6 +23,7 @@ export interface Participant {
   socketId: string;
   name: string;
   score: number;
+  textInput: string;
 }
 
 export interface GameState {
@@ -35,4 +36,6 @@ export interface GameState {
   exposeAnswer: boolean;
   showBoard: boolean;
   enumRevealAmount: number;
+  lockTextInput: boolean;
+  revealTextInput: boolean;
 }
