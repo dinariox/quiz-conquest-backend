@@ -144,6 +144,17 @@
           "choices": ["Griechenland", "Großbritannien", "Frankreich", "Deutschland"]
         }
       ]
+    },
+    {
+      "name": "Internet",
+      "questions": [
+        {
+          "value": 400,
+          "question": "Welchem Land gehört die Top-Level-Domain .tv?",
+          "answer": "Tuvalu",
+          "type": "normal"
+        }
+      ]
     }
   ]
 }
