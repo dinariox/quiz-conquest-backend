@@ -1,0 +1,194 @@
+{
+  "categories": [
+    {
+      "name": "Zahlenzauber",
+      "questions": [
+        {
+          "value": 300,
+          "question": "Wie viele Liter Bier werden in Deutschland pro Kopf jährlich getrunken?",
+          "answer": "100 Liter",
+          "type": "estimate"
+        },
+        {
+          "value": 300,
+          "question": "Bei wie vielen Grad Celsius liegt der absolute Nullpunkt?",
+          "answer": "-273,15 °C",
+          "type": "estimate"
+        },
+        {
+          "value": 400,
+          "question": "Wie viele Sprachen werden Schätzungen zufolge weltweit gesprochen?",
+          "answer": "ca. 7000",
+          "type": "estimate"
+        },
+        {
+          "value": 400,
+          "question": "Wie viele Kilometer an Eisenbahnschienen gibt es weltweit (Stand 2021)?",
+          "answer": "ca. 1,17 Millionen Kilometer",
+          "type": "estimate"
+        },
+        {
+          "value": 500,
+          "question": "Wie viele Einkärbungen hat ein Golfball?",
+          "answer": "336",
+          "type": "estimate"
+        }
+      ]
+    },
+    {
+      "name": "Netflix & chill",
+      "questions": [
+        {
+          "value": 200,
+          "question": "Gustavo Fring|Saul Goodman|Jesse Pinkman|Walter White",
+          "answer": "Breaking Bad",
+          "type": "enum"
+        },
+        {
+          "value": 200,
+          "question": "Jaskier|Cirilla Fiona Elen Riannon|Yennefer von Vengerberg|Geralt von Riva",
+          "answer": "The Witcher",
+          "type": "enum"
+        },
+        {
+          "value": 300,
+          "question": "Lily Aldrin|Marshall Eriksen|Ted Mosby|Barney Stinson",
+          "answer": "How I Met Your Mother",
+          "type": "enum"
+        },
+        {
+          "value": 400,
+          "question": "Lt. Dan Taylor|Jenny Curran|Bubba Blue|Forrest Gump",
+          "answer": "Forrest Gump",
+          "type": "enum"
+        },
+        {
+          "value": 500,
+          "question": "Dwight Schrute|Pam Beesly|Jim Halpert|Michael Scott",
+          "answer": "The Office",
+          "type": "enum"
+        }
+      ]
+    },
+    {
+      "name": "Die Technik Thaddäus",
+      "questions": [
+        {
+          "value": 200,
+          "question": "Wie heißt die Display-Technologie, welche vorwiegend in eBook-Readern Verwendung findet?",
+          "answer": "E-Ink",
+          "type": "normal"
+        },
+        {
+          "value": 300,
+          "question": "Welche Technik nutzt reflektierende Marker oder Sensoren an Schauspielern, um Bewegungen für computergenerierte Charaktere und Effekte zu erfassen?",
+          "answer": "Motion Capture",
+          "type": "normal"
+        },
+        {
+          "value": 400,
+          "question": "Wie heißt der flüchtige Speicher in einem Computer, der auch als Hauptspeicher bezeichnet wird (nicht die Abkürzung)?",
+          "answer": "Random Access Memory",
+          "type": "normal"
+        },
+        {
+          "value": 500,
+          "question": "Welches Material, das etwa 200-mal stärker ist als Stahl und extrem dünn ist, wurde 2004 entdeckt und gilt als eines der vielversprechendsten Materialien für zukünftige Technologien und Anwendungen?",
+          "answer": "Graphen",
+          "type": "normal"
+        },
+        {
+          "value": 600,
+          "question": "Welche Kryptowährung wurde 2015 eingeführt und hat den Fokus auf Smart Contracts, wodurch es möglich ist, dezentrale Anwendungen (dApps) auf ihrer Plattform zu entwickeln?",
+          "answer": "Ethereum",
+          "type": "normal"
+        }
+      ]
+    },
+    {
+      "name": "Spaß mit Flaggen",
+      "questions": [
+        {
+          "value": 200,
+          "question": "/flag1.webp",
+          "answer": "Australien",
+          "type": "img"
+        },
+        {
+          "value": 300,
+          "question": "/flag2.webp",
+          "answer": "Bayern",
+          "type": "img"
+        },
+        {
+          "value": 400,
+          "question": "/flag3.webp",
+          "answer": "Ägypten",
+          "type": "img"
+        },
+        {
+          "value": 500,
+          "question": "/flag4.webp",
+          "answer": "Papua-Neuguinea",
+          "type": "img"
+        },
+        {
+          "value": 600,
+          "question": "/flag5.webp",
+          "answer": "Bhutan",
+          "type": "img"
+        }
+      ]
+    },
+    {
+      "name": "Urknall bis Mauerfall",
+      "questions": [
+        {
+          "value": 300,
+          "question": "An welchem Datum fiel die Berliner Mauer?",
+          "answer": "9. November 1989",
+          "type": "normal"
+        },
+        {
+          "value": 300,
+          "question": "Wie wurde die Armee der Sowjetunion im 20. Jahrhundert genannt?",
+          "answer": "Rote Armee",
+          "type": "normal"
+        },
+        {
+          "value": 400,
+          "question": "Wie oft finden die Wahlen zum Europäischen Parlament statt?",
+          "answer": "Alle 5 Jahre",
+          "type": "normal"
+        },
+        {
+          "value": 500,
+          "question": "Welche politische Bewegung wurde 1980 in Polen gegründet und spielte eine entscheidende Rolle bei der Beendigung der kommunistischen Herrschaft im Land und später in ganz Osteuropa?",
+          "answer": "Solidarność / Solidarität",
+          "type": "normal"
+        },
+        {
+          "value": 600,
+          "question": "Wofür steht die Abkürzung NATO?",
+          "answer": "North Atlantic Treaty Organization",
+          "type": "normal"
+        }
+      ]
+    },
+    {
+      "name": "Hat er nicht gesagt",
+      "questions": [
+        { "value": 200, "question": "\"Ich habs wie bei nem guten Cyberpunk Gangbang, 4 schwarze, 2 Weiße und 2 aus Metall\"", "answer": "Julian", "type": "normal" },
+        {
+          "value": 300,
+          "question": "\"Konni, mach doch einfach dein HUD aus, dann hast du auch mehr Platz auf deinem Bildschirm, die Lebensanzeige beachtest du doch eh nicht\"",
+          "answer": "Timo",
+          "type": "normal"
+        },
+        { "value": 300, "question": "\"Geblitzt fürs Falschparken\"", "answer": "Ben", "type": "normal" },
+        { "value": 300, "question": "\"Deutz-Schwedische Grenze\"", "answer": "Konrad", "type": "normal" },
+        { "value": 500, "question": "\"Ich kann diesen King-Dingens sehr empfehlen\"", "answer": "Arturs genaue Beschreibung eines BurgerKING Burgers", "type": "normal" }
+      ]
+    }
+  ]
+}
