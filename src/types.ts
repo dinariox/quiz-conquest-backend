@@ -3,6 +3,7 @@ export enum QuestionType {
   Enum = "enum",
   Img = "img",
   Estimate = "estimate",
+  Choice = "choice",
 }
 
 export interface Question {
@@ -11,6 +12,8 @@ export interface Question {
   answer: string;
   answered: boolean;
   type: QuestionType;
+  notes?: string;
+  choices?: string[];
 }
 
 export interface Category {
@@ -24,6 +27,7 @@ export interface Participant {
   name: string;
   score: number;
   textInput: string;
+  choice: number;
 }
 
 export interface GameState {
@@ -38,4 +42,6 @@ export interface GameState {
   enumRevealAmount: number;
   lockTextInput: boolean;
   revealTextInput: boolean;
+  lockChoice: boolean;
+  revealChoice: boolean;
 }

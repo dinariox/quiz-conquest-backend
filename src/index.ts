@@ -46,6 +46,7 @@ function addPlayer(socketId: string, name: string, uniqueId: string) {
     name,
     score: 0,
     textInput: "",
+    choice: -1,
   });
 
   // Senden Sie den aktualisierten Spielzustand an alle Clients
@@ -60,8 +61,11 @@ function nextPlayersTurn() {
   io.emit("updateGameState", gameState);
 }
 
-function emptyTextInputs() {
-  gameState.players.forEach((p) => (p.textInput = ""));
+function emptyTextInputsAndChoices() {
+  gameState.players.forEach((p) => {
+    p.textInput = "";
+    p.choice = -1;
+  });
 }
 
 async function main() {
@@ -86,6 +90,8 @@ async function main() {
     enumRevealAmount: 0,
     lockTextInput: false,
     revealTextInput: false,
+    lockChoice: false,
+    revealChoice: false,
   };
 
   io.on("connection", (socket) => {
@@ -166,7 +172,9 @@ async function main() {
           gameState.enumRevealAmount = 0;
           gameState.revealTextInput = false;
           gameState.lockTextInput = false;
-          emptyTextInputs();
+          gameState.revealChoice = false;
+          gameState.lockChoice = false;
+          emptyTextInputsAndChoices();
 
           logger.info(`Question opened: ${question.question.slice(0, 40)}...`);
 
@@ -187,7 +195,9 @@ async function main() {
       gameState.enumRevealAmount = 0;
       gameState.revealTextInput = false;
       gameState.lockTextInput = false;
-      emptyTextInputs();
+      gameState.revealChoice = false;
+      gameState.lockChoice = false;
+      emptyTextInputsAndChoices();
       io.emit("updateGameState", gameState);
     });
 
@@ -210,7 +220,9 @@ async function main() {
       gameState.enumRevealAmount = 0;
       gameState.revealTextInput = false;
       gameState.lockTextInput = false;
-      emptyTextInputs();
+      gameState.revealChoice = false;
+      gameState.lockChoice = false;
+      emptyTextInputsAndChoices();
       io.emit("updateGameState", gameState);
       nextPlayersTurn();
     });
@@ -312,7 +324,7 @@ async function main() {
       if (player) {
         player.textInput = text;
         io.emit("updateGameState", gameState);
-        logger.info(`Updated user input from ${player.name}: ${player.textInput}`);
+        logger.info(`Updated user input of ${player.name}: ${player.textInput}`);
       }
     });
 
@@ -327,6 +339,28 @@ async function main() {
       gameState.revealTextInput = true;
       io.emit("updateGameState", gameState);
       logger.info("Revealed text inputs");
+    });
+
+    socket.on("updateChoice", (choice: number) => {
+      const player = gameState.players.find((p) => p.socketId === socket.id);
+      if (player) {
+        player.choice = choice;
+        io.emit("updateGameState", gameState);
+        logger.info(`Updated choice of ${player.name}: ${player.textInput}`);
+      }
+    });
+
+    socket.on("lockChoice", () => {
+      gameState.lockChoice = true;
+      io.emit("updateGameState", gameState);
+      logger.info("Locked choice inputs");
+    });
+
+    socket.on("revealChoice", () => {
+      if (!gameState.lockChoice) return;
+      gameState.revealChoice = true;
+      io.emit("updateGameState", gameState);
+      logger.info("Revealed choice inputs");
     });
 
     socket.on("launch-fireworks", () => {

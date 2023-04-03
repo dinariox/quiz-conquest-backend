@@ -1,41 +1,6 @@
 {
   "categories": [
     {
-      "name": "Schätzen",
-      "questions": [
-        {
-          "value": 400,
-          "question": "In welchem Jahr wurde der heutige Videospiel-Riese Nintendo gegründet?",
-          "answer": "1889",
-          "type": "estimate"
-        },
-        {
-          "value": 400,
-          "question": "Wie lang ist die längste Eisenbahnstrecke der Welt?",
-          "answer": "9288 km; die Transsibirische Eisenbahn",
-          "type": "estimate"
-        },
-        {
-          "value": 400,
-          "question": "Wie viele offizielle Sprachen (oder auch Amtssprachen) hat die Europäische Union?",
-          "answer": "24 offizielle Sprachen",
-          "type": "estimate"
-        },
-        {
-          "value": 400,
-          "question": "Wie viele Entenarten gibt es auf der Welt?",
-          "answer": "150 Arten",
-          "type": "estimate"
-        },
-        {
-          "value": 400,
-          "question": "Placeholder",
-          "answer": "Placeholder",
-          "type": "estimate"
-        }
-      ]
-    },
-    {
       "name": "Literatur",
       "questions": [
         {
@@ -102,9 +67,44 @@
         {
           "value": 400,
           "question": "Welche Hauptstadt liegt am höchsten über dem Meeresspiegel?",
-          "answer": "[B:] La Paz, Bolivien",
+          "answer": "[B] La Paz, Bolivien",
           "type": "choice",
-          "choices": ["[A:] Quito, Ecuador", "[B:] La Paz, Bolivien", "[C:] Thimphu, Bhutan", "[D:] Bogotá, Kolumbien"]
+          "choices": ["Quito, Ecuador", "La Paz, Bolivien", "Thimphu, Bhutan", "Bogotá, Kolumbien"]
+        }
+      ]
+    },
+    {
+      "name": "Schätzen",
+      "questions": [
+        {
+          "value": 400,
+          "question": "In welchem Jahr wurde der heutige Videospiel-Riese Nintendo gegründet?",
+          "answer": "1889",
+          "type": "estimate"
+        },
+        {
+          "value": 400,
+          "question": "Wie lang ist die längste Eisenbahnstrecke der Welt?",
+          "answer": "9288 km; die Transsibirische Eisenbahn",
+          "type": "estimate"
+        },
+        {
+          "value": 400,
+          "question": "Wie viele offizielle Sprachen (oder auch Amtssprachen) hat die Europäische Union?",
+          "answer": "24 offizielle Sprachen",
+          "type": "estimate"
+        },
+        {
+          "value": 400,
+          "question": "Wie viele Entenarten gibt es auf der Welt?",
+          "answer": "150 Arten",
+          "type": "estimate"
+        },
+        {
+          "value": 400,
+          "question": "Placeholder",
+          "answer": "Placeholder",
+          "type": "estimate"
         }
       ]
     },
@@ -126,9 +126,9 @@
         {
           "value": 300,
           "question": "Welches Spiel hat das größte jährliche E-Sport-Turnier in Bezug auf das Preisgeld?",
-          "answer": "[C:] Dota 2 - 2021 etwa 40 Mio USD",
+          "answer": "[C] Dota 2 - 2021 etwa 40 Mio USD",
           "type": "choice",
-          "choices": ["[A:] League of Legends", "[B:] Counter-Strike: Global Offensive", "[C:] Dota 2", "[D:] Fortnite"]
+          "choices": ["League of Legends", "Counter-Strike: Global Offensive", "Dota 2", "Fortnite"]
         },
         {
           "value": 400,
@@ -139,9 +139,9 @@
         {
           "value": 500,
           "question": "Welches Land ist für die Einführung des modernen Marathons bei den ersten Olympischen Spielen der Neuzeit im Jahr 1896 bekannt?",
-          "answer": "[A:] Griechenland",
+          "answer": "[A] Griechenland",
           "type": "choice",
-          "choices": ["[A:] Griechenland", "[B:] Großbritannien", "[C:] Frankreich", "[D:] Deutschland"]
+          "choices": ["Griechenland", "Großbritannien", "Frankreich", "Deutschland"]
         }
       ]
     }
