@@ -144,6 +144,76 @@
           "choices": ["Griechenland", "Großbritannien", "Frankreich", "Deutschland"]
         }
       ]
+    },
+    {
+      "name": "Entwickler und Publisher",
+      "questions": [
+        {
+          "value": 200,
+          "question": "The Lost Vikings 2|Diablo|Warcraft III|Overwatch 2",
+          "answer": "Blizzard Entertainment",
+          "type": "enum"
+        },
+        {
+          "value": 300,
+          "question": "Panzer General Online|Battle Isle Platinum|Die Siedler 7|Anno 1800",
+          "answer": "Blue Byte",
+          "type": "enum"
+        },
+        {
+          "value": 300,
+          "question": "Midnight Club: Los Angeles|L.A. Noire|Bully: Die Ehrenrunde|GTA V",
+          "answer": "Rockstar Games",
+          "type": "enum"
+        },
+        {
+          "value": 400,
+          "question": "Jak and Daxter: The Precursor Legacy|Crash Bandicoot|Uncharted: The Lost Legacy|The Last of Us Part I",
+          "answer": "Naughty Dog",
+          "type": "enum"
+        },
+        {
+          "value": 500,
+          "question": "Perfect Dark Zero|Zoo Tycoon 2|Ori and the Will of the Wisps|Forza Horizon",
+          "answer": "Xbox Game Studios (Microsoft Studios)",
+          "type": "enum"
+        }
+      ]
+    },
+    {
+      "name": "Länderflaggen",
+      "questions": [
+        {
+          "value": 200,
+          "question": "/flag1.svg",
+          "answer": "Argentinien",
+          "type": "img"
+        },
+        {
+          "value": 300,
+          "question": "/flag2.svg",
+          "answer": "Vatikanstadt",
+          "type": "img"
+        },
+        {
+          "value": 300,
+          "question": "/flag3.svg",
+          "answer": "Peru",
+          "type": "img"
+        },
+        {
+          "value": 200,
+          "question": "/flag4.svg",
+          "answer": "Kap Verde",
+          "type": "img"
+        },
+        {
+          "value": 200,
+          "question": "/flag5.svg",
+          "answer": "Eritrea",
+          "type": "img"
+        }
+      ]
     }
   ]
 }
