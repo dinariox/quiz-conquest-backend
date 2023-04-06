@@ -1,0 +1,256 @@
+{
+  "players": [
+    {
+      "id": "c2f90b8c35d80261332b301bd8d03fe4",
+      "socketId": "3uElac0X_1xruP7TAAAJ",
+      "name": "Timo",
+      "score": 0,
+      "textInput": "",
+      "choice": -1
+    }
+  ],
+  "categories": [
+    {
+      "name": "Literatur",
+      "questions": [
+        {
+          "value": 200,
+          "question": "Wie heißt die Straße in London, in der der weltberühmte Detektiv Sherlock Holmes wohnt?",
+          "answer": "221B Baker Street",
+          "type": "normal",
+          "notes": "Bonuspunkte für die Hausnummer"
+        },
+        {
+          "value": 300,
+          "question": "In welchem Jahrhundert lebte und schrieb der britische Dramatiker und Dichter William Shakespeare überwiegend?",
+          "answer": "16. Jahrhundert (1564-1616)",
+          "type": "normal"
+        },
+        {
+          "value": 400,
+          "question": "Welcher Roman von George Orwell beschreibt eine düstere Zukunft, in der Überwachung und Unterdrückung allgegenwärtig sind?",
+          "answer": "1984",
+          "type": "normal"
+        },
+        {
+          "value": 400,
+          "question": "Welches stilistische Mittel ist eine bewusste Übertreibung oder Überspitzung, um eine starke Emotion oder einen Eindruck zu erzeugen?",
+          "answer": "Hyperbel",
+          "type": "normal"
+        },
+        {
+          "value": 500,
+          "question": "Welche mittelalterliche französische Gedichtsform hat eine feste Struktur und besteht aus sechs Strophen mit jeweils sechs Zeilen und einer abschließenden dreizeiligen Strophe, die als Envoi bezeichnet wird? ",
+          "answer": "Ballade",
+          "type": "normal"
+        }
+      ]
+    },
+    {
+      "name": "Geografie",
+      "questions": [
+        {
+          "value": 200,
+          "question": "In welchem Land befindet sich der höchste Berg der Welt und wie heißt er?",
+          "answer": "Mount Everest in Nepal",
+          "type": "normal"
+        },
+        {
+          "value": 300,
+          "question": "Welcher ist der größte der fünf Ozeane der Erde?",
+          "answer": "Pazifischer Ozean",
+          "type": "normal"
+        },
+        {
+          "value": 300,
+          "question": "US-Bundesstaat ist der flächenmäßig größte?",
+          "answer": "Alaska",
+          "type": "normal"
+        },
+        {
+          "value": 400,
+          "question": "/geo-400-1.webp",
+          "answer": "Tokyo Tower, Tokio, Japan",
+          "type": "img",
+          "notes": "Welche Sehenswürdigkeit sieht man auf dem Foto und wo befindet sich diese?"
+        },
+        {
+          "value": 400,
+          "question": "Welche Hauptstadt liegt am höchsten über dem Meeresspiegel?",
+          "answer": "[B] La Paz, Bolivien",
+          "type": "choice",
+          "choices": [
+            "Quito, Ecuador",
+            "La Paz, Bolivien",
+            "Thimphu, Bhutan",
+            "Bogotá, Kolumbien"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Schätzen",
+      "questions": [
+        {
+          "value": 400,
+          "question": "In welchem Jahr wurde der heutige Videospiel-Riese Nintendo gegründet?",
+          "answer": "1889",
+          "type": "estimate"
+        },
+        {
+          "value": 400,
+          "question": "Wie lang ist die längste Eisenbahnstrecke der Welt?",
+          "answer": "9288 km; die Transsibirische Eisenbahn",
+          "type": "estimate",
+          "answered": true
+        },
+        {
+          "value": 400,
+          "question": "Wie viele offizielle Sprachen (oder auch Amtssprachen) hat die Europäische Union?",
+          "answer": "24 offizielle Sprachen",
+          "type": "estimate"
+        },
+        {
+          "value": 400,
+          "question": "Wie viele Entenarten gibt es auf der Welt?",
+          "answer": "150 Arten",
+          "type": "estimate"
+        },
+        {
+          "value": 400,
+          "question": "Placeholder",
+          "answer": "Placeholder",
+          "type": "estimate"
+        }
+      ]
+    },
+    {
+      "name": "Sport",
+      "questions": [
+        {
+          "value": 200,
+          "question": "Welche Sportart ist für die Begriffe \"Eagle\", \"Birde\" und \"Bogey\" bekannt?",
+          "answer": "Golf",
+          "type": "normal"
+        },
+        {
+          "value": 300,
+          "question": "Welches Land war Gastgeber der Fußball-Weltmeisterschaft 2010?",
+          "answer": "Südafrika",
+          "type": "normal"
+        },
+        {
+          "value": 300,
+          "question": "Welches Spiel hat das größte jährliche E-Sport-Turnier in Bezug auf das Preisgeld?",
+          "answer": "[C] Dota 2 - 2021 etwa 40 Mio USD",
+          "type": "choice",
+          "choices": [
+            "League of Legends",
+            "Counter-Strike: Global Offensive",
+            "Dota 2",
+            "Fortnite"
+          ]
+        },
+        {
+          "value": 400,
+          "question": "Aus welchem Land stammt die Kampfsportart Taekwondo?",
+          "answer": "(Süd-)Korea",
+          "type": "normal"
+        },
+        {
+          "value": 500,
+          "question": "Welches Land ist für die Einführung des modernen Marathons bei den ersten Olympischen Spielen der Neuzeit im Jahr 1896 bekannt?",
+          "answer": "[A] Griechenland",
+          "type": "choice",
+          "choices": [
+            "Griechenland",
+            "Großbritannien",
+            "Frankreich",
+            "Deutschland"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Entwickler und Publisher",
+      "questions": [
+        {
+          "value": 200,
+          "question": "The Lost Vikings 2|Diablo|Warcraft III|Overwatch 2",
+          "answer": "Blizzard Entertainment",
+          "type": "enum"
+        },
+        {
+          "value": 300,
+          "question": "Panzer General Online|Battle Isle Platinum|Die Siedler 7|Anno 1800",
+          "answer": "Blue Byte",
+          "type": "enum"
+        },
+        {
+          "value": 300,
+          "question": "Midnight Club: Los Angeles|L.A. Noire|Bully: Die Ehrenrunde|GTA V",
+          "answer": "Rockstar Games",
+          "type": "enum"
+        },
+        {
+          "value": 400,
+          "question": "Jak and Daxter: The Precursor Legacy|Crash Bandicoot|Uncharted: The Lost Legacy|The Last of Us Part I",
+          "answer": "Naughty Dog",
+          "type": "enum"
+        },
+        {
+          "value": 500,
+          "question": "Perfect Dark Zero|Zoo Tycoon 2|Ori and the Will of the Wisps|Forza Horizon",
+          "answer": "Xbox Game Studios (Microsoft Studios)",
+          "type": "enum"
+        }
+      ]
+    },
+    {
+      "name": "Länderflaggen",
+      "questions": [
+        {
+          "value": 200,
+          "question": "/flag1.svg",
+          "answer": "Argentinien",
+          "type": "img"
+        },
+        {
+          "value": 300,
+          "question": "/flag2.svg",
+          "answer": "Vatikanstadt",
+          "type": "img"
+        },
+        {
+          "value": 300,
+          "question": "/flag3.svg",
+          "answer": "Peru",
+          "type": "img"
+        },
+        {
+          "value": 200,
+          "question": "/flag4.svg",
+          "answer": "Kap Verde",
+          "type": "img"
+        },
+        {
+          "value": 200,
+          "question": "/flag5.svg",
+          "answer": "Eritrea",
+          "type": "img"
+        }
+      ]
+    }
+  ],
+  "activeQuestion": null,
+  "buzzedPlayer": null,
+  "playersTurn": null,
+  "exposeQuestion": false,
+  "exposeAnswer": false,
+  "showBoard": true,
+  "enumRevealAmount": 0,
+  "lockTextInput": false,
+  "revealTextInput": false,
+  "lockChoice": false,
+  "revealChoice": false
+}

@@ -2,7 +2,8 @@ import express from "express";
 import cors from "cors";
 import { createServer } from "http";
 import { Server, ServerOptions } from "socket.io";
-import { readFile } from "fs/promises";
+import { readFile, writeFile } from "fs/promises";
+import { existsSync, mkdirSync } from "fs";
 import path from "path";
 import crypto from "crypto";
 import { Question, Participant, GameState, Category, QuestionType } from "./types";
@@ -31,6 +32,21 @@ async function loadCategories(): Promise<Category[]> {
     console.error("Error while loading questions:", err);
     process.exit(1);
   }
+}
+
+async function saveGameState(gameState: GameState) {
+  const dataDirectory = path.join(__dirname, "..", "data");
+  const gameStatePath = path.join(dataDirectory, "gameState.json");
+
+  // Stelle sicher, dass das "data" Verzeichnis existiert
+  if (!existsSync(dataDirectory)) {
+    mkdirSync(dataDirectory);
+  }
+
+  logger.info(`Saving gameState to ${gameStatePath}`);
+
+  // Speichere das gameState-Objekt als JSON
+  await writeFile(gameStatePath, JSON.stringify(gameState, null, 2), "utf8");
 }
 
 function generateUniqueId(): string {
@@ -225,6 +241,7 @@ async function main() {
       emptyTextInputsAndChoices();
       io.emit("updateGameState", gameState);
       nextPlayersTurn();
+      saveGameState(gameState);
     });
 
     socket.on("selectRandomPlayersTurn", () => {
