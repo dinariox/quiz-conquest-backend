@@ -1,7 +1,17 @@
 {
+  "players": [
+    {
+      "id": "c2f90b8c35d80261332b301bd8d03fe4",
+      "socketId": "3uElac0X_1xruP7TAAAJ",
+      "name": "Timo",
+      "score": 0,
+      "textInput": "",
+      "choice": -1
+    }
+  ],
   "categories": [
     {
-      "name": "Belesen",
+      "name": "Literatur",
       "questions": [
         {
           "value": 200,
@@ -33,17 +43,11 @@
           "question": "Welche mittelalterliche französische Gedichtsform hat eine feste Struktur und besteht aus sechs Strophen mit jeweils sechs Zeilen und einer abschließenden dreizeiligen Strophe, die als Envoi bezeichnet wird? ",
           "answer": "Ballade",
           "type": "normal"
-        },
-        {
-          "value": 500,
-          "question": "Wie viele Bücher der Kindersachbuchreihe \"Wieso? Weshalb? Warum?\" von Ravensburger wurden bisher veröffentlicht? (Stand 06.04.2023)",
-          "answer": "241",
-          "type": "estimate"
         }
       ]
     },
     {
-      "name": "Kontinental-Kuriositäten",
+      "name": "Geografie",
       "questions": [
         {
           "value": 200,
@@ -65,13 +69,6 @@
         },
         {
           "value": 400,
-          "question": "Welches Seitenverhältnis hat die Deutsche Nationalflagge? (Länge:Breite)",
-          "answer": "[A] 5:3",
-          "type": "choice",
-          "choices": ["5:3", "3:2", "2:1", "4:3"]
-        },
-        {
-          "value": 400,
           "question": "/geo-400-1.webp",
           "answer": "Tokyo Tower, Tokio, Japan",
           "type": "img",
@@ -82,12 +79,17 @@
           "question": "Welche Hauptstadt liegt am höchsten über dem Meeresspiegel?",
           "answer": "[B] La Paz, Bolivien",
           "type": "choice",
-          "choices": ["Quito, Ecuador", "La Paz, Bolivien", "Thimphu, Bhutan", "Bogotá, Kolumbien"]
+          "choices": [
+            "Quito, Ecuador",
+            "La Paz, Bolivien",
+            "Thimphu, Bhutan",
+            "Bogotá, Kolumbien"
+          ]
         }
       ]
     },
     {
-      "name": "Schätzmeister",
+      "name": "Schätzen",
       "questions": [
         {
           "value": 400,
@@ -99,7 +101,8 @@
           "value": 400,
           "question": "Wie lang ist die längste Eisenbahnstrecke der Welt?",
           "answer": "9288 km; die Transsibirische Eisenbahn",
-          "type": "estimate"
+          "type": "estimate",
+          "answered": true
         },
         {
           "value": 400,
@@ -109,37 +112,25 @@
         },
         {
           "value": 400,
-          "question": "In wie vielen Ländern weltweit ist die Gesamtlänge der asphaltierten Straßen größer als in Deutschland?",
-          "answer": "5 (USA, China, Frankreich, Japan, Russland)",
+          "question": "Wie viele Entenarten gibt es auf der Welt?",
+          "answer": "150 Arten",
           "type": "estimate"
         },
         {
           "value": 400,
-          "question": "Wie viele Millionenstädte gibt es in China? (Volkszählung 2020)",
-          "answer": "135 Städte mit > 1 Mio. Einwohner",
-          "type": "estimate"
-        },
-        {
-          "value": 400,
-          "question": "Wie viele Liter Wasser werden im Schnitt verbraucht, um ein Glas Wein zu produzieren?",
-          "answer": "120 Liter Wasser",
+          "question": "Placeholder",
+          "answer": "Placeholder",
           "type": "estimate"
         }
       ]
     },
     {
-      "name": "Pump it!",
+      "name": "Sport",
       "questions": [
         {
           "value": 200,
           "question": "Welche Sportart ist für die Begriffe \"Eagle\", \"Birde\" und \"Bogey\" bekannt?",
           "answer": "Golf",
-          "type": "normal"
-        },
-        {
-          "value": 200,
-          "question": "Wie viele Punkte erhält ein Spieler im American Football für einen Touchdown?",
-          "answer": "6",
           "type": "normal"
         },
         {
@@ -153,7 +144,12 @@
           "question": "Welches Spiel hat das größte jährliche E-Sport-Turnier in Bezug auf das Preisgeld?",
           "answer": "[C] Dota 2 - 2021 etwa 40 Mio USD",
           "type": "choice",
-          "choices": ["League of Legends", "Counter-Strike: Global Offensive", "Dota 2", "Fortnite"]
+          "choices": [
+            "League of Legends",
+            "Counter-Strike: Global Offensive",
+            "Dota 2",
+            "Fortnite"
+          ]
         },
         {
           "value": 400,
@@ -166,59 +162,52 @@
           "question": "Welches Land ist für die Einführung des modernen Marathons bei den ersten Olympischen Spielen der Neuzeit im Jahr 1896 bekannt?",
           "answer": "[A] Griechenland",
           "type": "choice",
-          "choices": ["Griechenland", "Großbritannien", "Frankreich", "Deutschland"]
+          "choices": [
+            "Griechenland",
+            "Großbritannien",
+            "Frankreich",
+            "Deutschland"
+          ]
         }
       ]
     },
     {
-      "name": "Irish Pub",
+      "name": "Entwickler und Publisher",
       "questions": [
         {
           "value": 200,
           "question": "The Lost Vikings 2|Diablo|Warcraft III|Overwatch 2",
           "answer": "Blizzard Entertainment",
-          "type": "enum",
-          "notes": "Entwickler & Publisher"
+          "type": "enum"
         },
         {
           "value": 300,
           "question": "Panzer General Online|Battle Isle Platinum|Die Siedler 7|Anno 1800",
           "answer": "Blue Byte",
-          "type": "enum",
-          "notes": "Entwickler"
+          "type": "enum"
         },
         {
           "value": 300,
           "question": "Midnight Club: Los Angeles|L.A. Noire|Bully: Die Ehrenrunde|GTA V",
           "answer": "Rockstar Games",
-          "type": "enum",
-          "notes": "Entwickler & Publisher"
+          "type": "enum"
         },
         {
           "value": 400,
           "question": "Jak and Daxter: The Precursor Legacy|Crash Bandicoot|Uncharted: The Lost Legacy|The Last of Us Part I",
           "answer": "Naughty Dog",
-          "type": "enum",
-          "notes": "Entwickler"
-        },
-        {
-          "value": 400,
-          "question": "Sonic Chronicles: The Dark Brotherhood|Baldur's Gate|Anthem|Mass Effect: Andromeda",
-          "answer": "BioWare",
-          "type": "enum",
-          "notes": "Entwickler"
+          "type": "enum"
         },
         {
           "value": 500,
           "question": "Perfect Dark Zero|Zoo Tycoon 2|Ori and the Will of the Wisps|Forza Horizon",
           "answer": "Xbox Game Studios (Microsoft Studios)",
-          "type": "enum",
-          "notes": "Publisher"
+          "type": "enum"
         }
       ]
     },
     {
-      "name": "Six Flags",
+      "name": "Länderflaggen",
       "questions": [
         {
           "value": 200,
@@ -239,24 +228,29 @@
           "type": "img"
         },
         {
-          "value": 400,
-          "question": "/flag6.svg",
-          "answer": "Uganda",
-          "type": "img"
-        },
-        {
-          "value": 500,
+          "value": 200,
           "question": "/flag4.svg",
           "answer": "Kap Verde",
           "type": "img"
         },
         {
-          "value": 500,
+          "value": 200,
           "question": "/flag5.svg",
           "answer": "Eritrea",
           "type": "img"
         }
       ]
     }
-  ]
+  ],
+  "activeQuestion": null,
+  "buzzedPlayer": null,
+  "playersTurn": null,
+  "exposeQuestion": false,
+  "exposeAnswer": false,
+  "showBoard": true,
+  "enumRevealAmount": 0,
+  "lockTextInput": false,
+  "revealTextInput": false,
+  "lockChoice": false,
+  "revealChoice": false
 }
