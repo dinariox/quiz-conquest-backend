@@ -49,6 +49,26 @@ async function saveGameState(gameState: GameState) {
   await writeFile(gameStatePath, JSON.stringify(gameState, null, 2), "utf8");
 }
 
+async function recoverCategories(): Promise<Category[]> {
+  try {
+    logger.info("Recovering gameState");
+    const data = await readFile(path.join(__dirname, "..", "data", "gameState.json"), "utf-8");
+    const parsedData = JSON.parse(data);
+
+    let scores = "";
+    parsedData.players.forEach((player: Participant) => {
+      scores += `\n${player.name}: ${player.score}`;
+    });
+    logger.info("Recovered scores:" + scores);
+
+    const categories: Category[] = parsedData.categories;
+    return categories;
+  } catch (err) {
+    console.error("Error while recovering questions:", err);
+    process.exit(1);
+  }
+}
+
 function generateUniqueId(): string {
   return crypto.randomBytes(16).toString("hex");
 }
@@ -92,7 +112,13 @@ async function main() {
   const httpServer = createServer(app);
   io = new Server(httpServer, corsOptions);
 
-  const categories = await loadCategories();
+  let categories: Category[];
+
+  if (process.argv.length > 2 && process.argv[2] === "--recover") {
+    categories = await recoverCategories();
+  } else {
+    categories = await loadCategories();
+  }
 
   gameState = {
     players: [],
