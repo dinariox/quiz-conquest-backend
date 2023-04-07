@@ -38,7 +38,8 @@
           "value": 500,
           "question": "Wie viele Bücher der Kindersachbuchreihe \"Wieso? Weshalb? Warum?\" von Ravensburger wurden bisher veröffentlicht? (Stand 06.04.2023)",
           "answer": "241",
-          "type": "estimate"
+          "type": "estimate",
+          "notes": "+100 Punkte: 237-245"
         }
       ]
     },
@@ -93,37 +94,43 @@
           "value": 400,
           "question": "In welchem Jahr wurde der heutige Videospiel-Riese Nintendo gegründet?",
           "answer": "1889",
-          "type": "estimate"
+          "type": "estimate",
+          "notes": "+100 Punkte: 1852-1927"
         },
         {
           "value": 400,
           "question": "Wie lang ist die längste Eisenbahnstrecke der Welt?",
           "answer": "9288 km; die Transsibirische Eisenbahn",
-          "type": "estimate"
+          "type": "estimate",
+          "notes": "+100 Punkte: 9103-9473"
         },
         {
           "value": 400,
           "question": "Wie viele offizielle Sprachen (oder auch Amtssprachen) hat die Europäische Union?",
           "answer": "24 offizielle Sprachen",
-          "type": "estimate"
+          "type": "estimate",
+          "notes": "+100 Punkte: 23-25"
         },
         {
           "value": 400,
           "question": "In wie vielen Ländern weltweit ist die Gesamtlänge der asphaltierten Straßen größer als in Deutschland?",
           "answer": "5 (USA, China, Frankreich, Japan, Russland)",
-          "type": "estimate"
+          "type": "estimate",
+          "notes": "+100 Punkte: exakt 5"
         },
         {
           "value": 400,
           "question": "Wie viele Millionenstädte gibt es in China? (Volkszählung 2020)",
           "answer": "135 Städte mit > 1 Mio. Einwohner",
-          "type": "estimate"
+          "type": "estimate",
+          "notes": "+100 Punkte: 132-138"
         },
         {
           "value": 400,
           "question": "Wie viele Liter Wasser werden im Schnitt verbraucht, um ein Glas Wein zu produzieren?",
           "answer": "120 Liter Wasser",
-          "type": "estimate"
+          "type": "estimate",
+          "notes": "+100 Punkte: 118-122"
         }
       ]
     },
