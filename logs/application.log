@@ -2507,3 +2507,245 @@
 [2023-03-31 20:47:56] INFO: A user has disconnected: nOf5jC7gcn82t021AAAN
 [2023-03-31 22:03:18] INFO: Server listening on port 3000
 [2023-04-01 17:18:43] INFO: Server listening on port 3000
+[2023-04-18 15:29:39] INFO: Server listening on port 3000
+[2023-04-18 15:29:39] INFO: A user has connected: kAEnPSfZvLSNRj1AAAAB
+[2023-04-18 15:29:40] INFO: A user has connected: J7UtIuxopaZvoQujAAAD
+[2023-04-18 15:29:46] INFO: Showed board
+[2023-04-18 15:29:48] INFO: Question opened: Welcher ist der größte der fünf Ozeane d...
+[2023-04-18 15:31:31] INFO: A user has connected: Un2kYiybfg4LCrWBAAAF
+[2023-04-18 15:31:33] INFO: Adding player: Un2kYiybfg4LCrWBAAAF | Name: Timo | Unique ID: a894ae916cdda0e3f109e9b28db30940
+[2023-04-18 15:31:33] INFO: User rejoined: Un2kYiybfg4LCrWBAAAF | Name: Timo | Unique ID: a894ae916cdda0e3f109e9b28db30940
+[2023-04-18 15:31:37] INFO: Exposed question
+[2023-04-18 15:31:41] INFO: Exposed answer
+[2023-04-18 15:31:44] INFO: A user has disconnected: Un2kYiybfg4LCrWBAAAF
+[2023-04-18 15:31:45] INFO: A user has disconnected: kAEnPSfZvLSNRj1AAAAB
+[2023-04-18 15:54:18] INFO: Server listening on port 3000
+[2023-04-18 15:54:22] INFO: A user has connected: vYQgTwa_nnHZanDjAAAB
+[2023-04-18 15:54:30] INFO: A user has connected: FEtGLfZ_lxkQLtCIAAAD
+[2023-04-18 15:54:34] INFO: A user has connected: ukxZu0BU9BbIk8VTAAAF
+[2023-04-18 15:54:37] INFO: Adding player: ukxZu0BU9BbIk8VTAAAF | Name: Timo | Unique ID: 8244234dc81bc0d8a5b4c5636656d0c3
+[2023-04-18 15:54:37] INFO: User rejoined: ukxZu0BU9BbIk8VTAAAF | Name: Timo | Unique ID: 8244234dc81bc0d8a5b4c5636656d0c3
+[2023-04-18 15:54:47] INFO: Showed board
+[2023-04-18 16:01:26] INFO: Server listening on port 3000
+[2023-04-18 16:01:26] INFO: A user has connected: x4xuP3IfA-eufMrRAAAC
+[2023-04-18 16:01:26] INFO: A user has connected: bp36v17ZyLmRIWT0AAAD
+[2023-04-18 16:01:26] INFO: A user has connected: VzkGHqjE1OSzGtQjAAAF
+[2023-04-18 16:01:27] INFO: A user has disconnected: x4xuP3IfA-eufMrRAAAC
+[2023-04-18 16:01:27] INFO: A user has connected: xklyNEoenL1gi5sRAAAH
+[2023-04-18 16:01:27] INFO: User tried to rejoin but is unknown: xklyNEoenL1gi5sRAAAH | Unique ID: 8244234dc81bc0d8a5b4c5636656d0c3
+[2023-04-18 16:01:30] INFO: Adding player: xklyNEoenL1gi5sRAAAH | Name: Timo | Unique ID: 730ebb106b11a15acc5d94a79dd8d65c
+[2023-04-18 16:01:30] INFO: User rejoined: xklyNEoenL1gi5sRAAAH | Name: Timo | Unique ID: 730ebb106b11a15acc5d94a79dd8d65c
+[2023-04-18 16:01:35] INFO: Showed board
+[2023-04-18 16:02:35] INFO: Buzzed
+[2023-04-18 16:02:35] INFO: Player buzzed: Timo
+[2023-04-18 16:02:37] INFO: Resetting buzzer
+[2023-04-18 16:02:44] INFO: Question opened: 🦁👑...
+[2023-04-18 16:02:54] INFO: Exposed question
+[2023-04-18 16:07:24] INFO: Exposed answer
+[2023-04-18 16:07:30] INFO: Question completed: 🦁👑...
+[2023-04-18 16:07:30] INFO: Saving gameState to C:\Users\timon\Documents\Projekte\HTML\quiz-conquest-backend\data\gameState.json
+[2023-04-18 16:07:33] INFO: Question opened: 👻🚫...
+[2023-04-18 16:07:38] INFO: Exposed question
+[2023-04-18 16:08:05] INFO: Exposed answer
+[2023-04-18 16:08:06] INFO: Question completed: 👻🚫...
+[2023-04-18 16:08:06] INFO: Saving gameState to C:\Users\timon\Documents\Projekte\HTML\quiz-conquest-backend\data\gameState.json
+[2023-04-18 16:08:07] INFO: Question opened: ⚡🧹🪄...
+[2023-04-18 16:08:08] INFO: Exposed question
+[2023-04-18 16:08:15] INFO: Exposed answer
+[2023-04-18 16:08:19] INFO: Question completed: ⚡🧹🪄...
+[2023-04-18 16:08:19] INFO: Saving gameState to C:\Users\timon\Documents\Projekte\HTML\quiz-conquest-backend\data\gameState.json
+[2023-04-18 16:08:20] INFO: Question opened: 🕳️🔵🟠🤖...
+[2023-04-18 16:08:23] INFO: Exposed question
+[2023-04-18 16:08:57] INFO: Exposed answer
+[2023-04-18 16:08:57] INFO: Question completed: 🕳️🔵🟠🤖...
+[2023-04-18 16:08:57] INFO: Saving gameState to C:\Users\timon\Documents\Projekte\HTML\quiz-conquest-backend\data\gameState.json
+[2023-04-18 16:08:59] INFO: Question opened: 🚗⚽️🥅...
+[2023-04-18 16:09:05] INFO: Exposed answer
+[2023-04-18 16:09:08] INFO: Exposed question
+[2023-04-18 16:09:18] INFO: Question completed: 🚗⚽️🥅...
+[2023-04-18 16:09:18] INFO: Saving gameState to C:\Users\timon\Documents\Projekte\HTML\quiz-conquest-backend\data\gameState.json
+[2023-04-18 16:09:20] INFO: Question opened: Welche Figur der "Sesamstraße" hat meist...
+[2023-04-18 16:09:23] INFO: Exposed question
+[2023-04-18 16:09:28] INFO: Exposed answer
+[2023-04-18 16:09:32] INFO: Question completed: Welche Figur der "Sesamstraße" hat meist...
+[2023-04-18 16:09:32] INFO: Saving gameState to C:\Users\timon\Documents\Projekte\HTML\quiz-conquest-backend\data\gameState.json
+[2023-04-18 16:09:33] INFO: Question opened: Wie heißt die verhasste Nachbarstadt Spr...
+[2023-04-18 16:09:35] INFO: Exposed question
+[2023-04-18 16:09:38] INFO: Exposed answer
+[2023-04-18 16:09:38] INFO: Question completed: Wie heißt die verhasste Nachbarstadt Spr...
+[2023-04-18 16:09:38] INFO: Saving gameState to C:\Users\timon\Documents\Projekte\HTML\quiz-conquest-backend\data\gameState.json
+[2023-04-18 16:09:39] INFO: Question opened: Wie lautet in den "Star Wars"-Filmen der...
+[2023-04-18 16:09:42] INFO: Exposed question
+[2023-04-18 16:09:45] INFO: Exposed answer
+[2023-04-18 16:09:48] INFO: Question completed: Wie lautet in den "Star Wars"-Filmen der...
+[2023-04-18 16:09:48] INFO: Saving gameState to C:\Users\timon\Documents\Projekte\HTML\quiz-conquest-backend\data\gameState.json
+[2023-04-18 16:09:49] INFO: Question opened: Wie heißt der erfundene britische Geheim...
+[2023-04-18 16:09:51] INFO: Exposed question
+[2023-04-18 16:10:33] INFO: Exposed answer
+[2023-04-18 16:11:33] INFO: Question completed: Wie heißt der erfundene britische Geheim...
+[2023-04-18 16:11:33] INFO: Saving gameState to C:\Users\timon\Documents\Projekte\HTML\quiz-conquest-backend\data\gameState.json
+[2023-04-18 16:11:34] INFO: Question opened: Laut welchem Film fand am 29. August 199...
+[2023-04-18 16:11:49] INFO: Exposed question
+[2023-04-18 16:11:54] INFO: Exposed answer
+[2023-04-18 16:11:56] INFO: Question completed: Laut welchem Film fand am 29. August 199...
+[2023-04-18 16:11:56] INFO: Saving gameState to C:\Users\timon\Documents\Projekte\HTML\quiz-conquest-backend\data\gameState.json
+[2023-04-18 16:11:58] INFO: Question opened: Der Name der Schokoladenmarke "Milka" is...
+[2023-04-18 16:12:01] INFO: Exposed question
+[2023-04-18 16:12:07] INFO: Exposed answer
+[2023-04-18 16:12:08] INFO: Question completed: Der Name der Schokoladenmarke "Milka" is...
+[2023-04-18 16:12:08] INFO: Saving gameState to C:\Users\timon\Documents\Projekte\HTML\quiz-conquest-backend\data\gameState.json
+[2023-04-18 16:12:09] INFO: Question opened: Wie heißt das langjährige Clown-Maskottc...
+[2023-04-18 16:12:11] INFO: Exposed question
+[2023-04-18 16:12:17] INFO: Exposed answer
+[2023-04-18 16:12:19] INFO: Question completed: Wie heißt das langjährige Clown-Maskottc...
+[2023-04-18 16:12:19] INFO: Saving gameState to C:\Users\timon\Documents\Projekte\HTML\quiz-conquest-backend\data\gameState.json
+[2023-04-18 16:12:20] INFO: Question opened: Ausgehend von der Sonne kommt welcher Pl...
+[2023-04-18 16:12:21] INFO: Exposed question
+[2023-04-18 16:12:24] INFO: Exposed answer
+[2023-04-18 16:12:25] INFO: Question completed: Ausgehend von der Sonne kommt welcher Pl...
+[2023-04-18 16:12:25] INFO: Saving gameState to C:\Users\timon\Documents\Projekte\HTML\quiz-conquest-backend\data\gameState.json
+[2023-04-18 16:12:26] INFO: Question opened: Welches der sieben Weltwunder der Antike...
+[2023-04-18 16:12:27] INFO: Exposed question
+[2023-04-18 16:12:29] INFO: Exposed answer
+[2023-04-18 16:12:31] INFO: Question completed: Welches der sieben Weltwunder der Antike...
+[2023-04-18 16:12:31] INFO: Saving gameState to C:\Users\timon\Documents\Projekte\HTML\quiz-conquest-backend\data\gameState.json
+[2023-04-18 16:12:32] INFO: Question opened: Welche Farbe hat das Blut von Hummern?...
+[2023-04-18 16:12:33] INFO: Exposed question
+[2023-04-18 16:12:35] INFO: Exposed answer
+[2023-04-18 16:12:39] INFO: Question completed: Welche Farbe hat das Blut von Hummern?...
+[2023-04-18 16:12:39] INFO: Saving gameState to C:\Users\timon\Documents\Projekte\HTML\quiz-conquest-backend\data\gameState.json
+[2023-04-18 16:12:40] INFO: Question opened: Die Jahreszahlen der Spielereihe Anno er...
+[2023-04-18 16:12:42] INFO: Exposed question
+[2023-04-18 16:13:03] INFO: Exposed answer
+[2023-04-18 16:13:05] INFO: Question completed: Die Jahreszahlen der Spielereihe Anno er...
+[2023-04-18 16:13:05] INFO: Saving gameState to C:\Users\timon\Documents\Projekte\HTML\quiz-conquest-backend\data\gameState.json
+[2023-04-18 16:13:06] INFO: Question opened: Welchen Namen trägt der 2021 erschienene...
+[2023-04-18 16:13:13] INFO: Exposed question
+[2023-04-18 16:13:18] INFO: Exposed answer
+[2023-04-18 16:13:28] INFO: Question completed: Welchen Namen trägt der 2021 erschienene...
+[2023-04-18 16:13:28] INFO: Saving gameState to C:\Users\timon\Documents\Projekte\HTML\quiz-conquest-backend\data\gameState.json
+[2023-04-18 16:13:29] INFO: Question opened: Wie viele Diamanten werden benötigt um e...
+[2023-04-18 16:13:38] INFO: Exposed question
+[2023-04-18 16:13:40] INFO: Exposed answer
+[2023-04-18 16:13:41] INFO: Question completed: Wie viele Diamanten werden benötigt um e...
+[2023-04-18 16:13:41] INFO: Saving gameState to C:\Users\timon\Documents\Projekte\HTML\quiz-conquest-backend\data\gameState.json
+[2023-04-18 16:13:42] INFO: Question opened: Mit welchem MMORPG versuchte Amazon Game...
+[2023-04-18 16:13:44] INFO: Exposed question
+[2023-04-18 16:13:48] INFO: Exposed answer
+[2023-04-18 16:13:49] INFO: Question completed: Mit welchem MMORPG versuchte Amazon Game...
+[2023-04-18 16:13:49] INFO: Saving gameState to C:\Users\timon\Documents\Projekte\HTML\quiz-conquest-backend\data\gameState.json
+[2023-04-18 16:13:49] INFO: Question opened: Welchen ungewöhnlichen Vornamen trägt di...
+[2023-04-18 16:13:58] INFO: Exposed question
+[2023-04-18 16:14:04] INFO: Exposed answer
+[2023-04-18 16:14:07] INFO: Question completed: Welchen ungewöhnlichen Vornamen trägt di...
+[2023-04-18 16:14:07] INFO: Saving gameState to C:\Users\timon\Documents\Projekte\HTML\quiz-conquest-backend\data\gameState.json
+[2023-04-18 16:14:08] INFO: Question opened: hāora (Maori), ساعة (sa'ah, Arabisch), o...
+[2023-04-18 16:14:13] INFO: Exposed question
+[2023-04-18 16:14:15] INFO: Revealed enum item 1
+[2023-04-18 16:15:06] INFO: Server listening on port 3000
+[2023-04-18 16:15:06] INFO: A user has connected: 1UO9u55qk6BDS6Q_AAAB
+[2023-04-18 16:15:08] INFO: A user has connected: 3C2-72PSzOS8vzeIAAAD
+[2023-04-18 16:15:08] INFO: A user has connected: vT8Hz3pQX9uxD2r9AAAF
+[2023-04-18 16:15:09] INFO: A user has disconnected: vT8Hz3pQX9uxD2r9AAAF
+[2023-04-18 16:15:10] INFO: A user has connected: NpYafnVT2t_WvJhTAAAH
+[2023-04-18 16:15:10] INFO: User tried to rejoin but is unknown: NpYafnVT2t_WvJhTAAAH | Unique ID: 730ebb106b11a15acc5d94a79dd8d65c
+[2023-04-18 16:15:11] INFO: Adding player: NpYafnVT2t_WvJhTAAAH | Name: Timo | Unique ID: a5f2a0c8e5e31ef169c7fb0d3e0efb84
+[2023-04-18 16:15:11] INFO: User rejoined: NpYafnVT2t_WvJhTAAAH | Name: Timo | Unique ID: a5f2a0c8e5e31ef169c7fb0d3e0efb84
+[2023-04-18 16:15:13] INFO: Showed board
+[2023-04-18 16:15:16] INFO: Question opened: hāora (Maori)|ساعة (sa'ah, Arabisch)|oro...
+[2023-04-18 16:15:17] INFO: Exposed question
+[2023-04-18 16:15:19] INFO: Revealed enum item 1
+[2023-04-18 16:22:42] INFO: Revealed enum item 2
+[2023-04-18 16:22:51] INFO: Revealed enum item 3
+[2023-04-18 16:22:56] INFO: Revealed enum item 4
+[2023-04-18 16:23:01] INFO: Revealed enum item 5
+[2023-04-18 16:23:03] INFO: Revealed enum item 6
+[2023-04-18 16:23:06] INFO: Exposed answer
+[2023-04-18 16:23:07] INFO: Question completed: hāora (Maori)|ساعة (sa'ah, Arabisch)|oro...
+[2023-04-18 16:23:07] INFO: Saving gameState to C:\Users\timon\Documents\Projekte\HTML\quiz-conquest-backend\data\gameState.json
+[2023-04-18 16:23:09] INFO: Question opened: pyörä (Finnisch)|fiets (Niederländisch)|...
+[2023-04-18 16:23:11] INFO: Exposed question
+[2023-04-18 16:23:15] INFO: Revealed enum item 1
+[2023-04-18 16:23:16] INFO: Revealed enum item 2
+[2023-04-18 16:23:19] INFO: Revealed enum item 3
+[2023-04-18 16:23:20] INFO: Revealed enum item 4
+[2023-04-18 16:23:22] INFO: Exposed answer
+[2023-04-18 16:23:23] INFO: Question completed: pyörä (Finnisch)|fiets (Niederländisch)|...
+[2023-04-18 16:23:23] INFO: Saving gameState to C:\Users\timon\Documents\Projekte\HTML\quiz-conquest-backend\data\gameState.json
+[2023-04-18 16:23:24] INFO: Question opened: מים (mayim, Hebräisch)|uisce (Irisch)|ve...
+[2023-04-18 16:23:25] INFO: Exposed question
+[2023-04-18 16:23:26] INFO: Revealed enum item 1
+[2023-04-18 16:23:30] INFO: Revealed enum item 2
+[2023-04-18 16:23:33] INFO: Revealed enum item 3
+[2023-04-18 16:23:35] INFO: Revealed enum item 4
+[2023-04-18 16:23:37] INFO: Exposed answer
+[2023-04-18 16:23:38] INFO: Question completed: מים (mayim, Hebräisch)|uisce (Irisch)|ve...
+[2023-04-18 16:23:38] INFO: Saving gameState to C:\Users\timon\Documents\Projekte\HTML\quiz-conquest-backend\data\gameState.json
+[2023-04-18 16:23:39] INFO: Question opened: قهوة (qahwa, Arabisch)|kahvi (Finnisch)|...
+[2023-04-18 16:23:40] INFO: Exposed question
+[2023-04-18 16:23:41] INFO: Revealed enum item 1
+[2023-04-18 16:23:45] INFO: Revealed enum item 2
+[2023-04-18 16:23:49] INFO: Revealed enum item 3
+[2023-04-18 16:23:52] INFO: Revealed enum item 4
+[2023-04-18 16:23:54] INFO: Exposed answer
+[2023-04-18 16:23:55] INFO: Question completed: قهوة (qahwa, Arabisch)|kahvi (Finnisch)|...
+[2023-04-18 16:23:55] INFO: Saving gameState to C:\Users\timon\Documents\Projekte\HTML\quiz-conquest-backend\data\gameState.json
+[2023-04-18 16:23:57] INFO: Question opened: 蝶 (chō, Japanisch)|mariposa (Spanisch)|m...
+[2023-04-18 16:23:59] INFO: Exposed question
+[2023-04-18 16:24:01] INFO: Revealed enum item 1
+[2023-04-18 16:24:06] INFO: Revealed enum item 2
+[2023-04-18 16:24:11] INFO: Revealed enum item 3
+[2023-04-18 16:24:13] INFO: Revealed enum item 4
+[2023-04-18 16:24:19] INFO: Exposed answer
+[2023-04-18 16:24:20] INFO: Question completed: 蝶 (chō, Japanisch)|mariposa (Spanisch)|m...
+[2023-04-18 16:24:20] INFO: Saving gameState to C:\Users\timon\Documents\Projekte\HTML\quiz-conquest-backend\data\gameState.json
+[2023-04-18 16:24:22] INFO: Question opened: Welcher Mensch setzte als Zweiter einen ...
+[2023-04-18 16:24:28] INFO: Exposed question
+[2023-04-18 16:24:31] INFO: Exposed answer
+[2023-04-18 16:24:33] INFO: Question completed: Welcher Mensch setzte als Zweiter einen ...
+[2023-04-18 16:24:33] INFO: Saving gameState to C:\Users\timon\Documents\Projekte\HTML\quiz-conquest-backend\data\gameState.json
+[2023-04-18 16:24:34] INFO: Question opened: Wie viele bekannte Monde hat der Planet ...
+[2023-04-18 16:24:36] INFO: Exposed question
+[2023-04-18 16:24:41] INFO: Updated user input of Timo: 6
+[2023-04-18 16:24:41] INFO: Updated user input of Timo: 69
+[2023-04-18 16:24:45] INFO: Locked text inputs
+[2023-04-18 16:24:45] INFO: Revealed text inputs
+[2023-04-18 16:24:59] INFO: Selecting random player's turn...
+[2023-04-18 16:25:01] INFO: Random player's turn selected: Timo
+[2023-04-18 16:25:05] INFO: Exposed answer
+[2023-04-18 16:25:09] INFO: Question completed: Wie viele bekannte Monde hat der Planet ...
+[2023-04-18 16:25:09] INFO: Saving gameState to C:\Users\timon\Documents\Projekte\HTML\quiz-conquest-backend\data\gameState.json
+[2023-04-18 16:25:10] INFO: Question opened: Welche Raumfahrtmission brachte das erst...
+[2023-04-18 16:25:30] INFO: Exposed question
+[2023-04-18 16:25:37] INFO: Updated choice of Timo: 
+[2023-04-18 16:25:38] INFO: Updated choice of Timo: 
+[2023-04-18 16:25:39] INFO: Updated choice of Timo: 
+[2023-04-18 16:25:40] INFO: Updated choice of Timo: 
+[2023-04-18 16:25:40] INFO: Updated choice of Timo: 
+[2023-04-18 16:25:41] INFO: Updated choice of Timo: 
+[2023-04-18 16:25:43] INFO: Buzzed
+[2023-04-18 16:25:43] INFO: Player buzzed: Timo
+[2023-04-18 16:25:44] INFO: Resetting buzzer
+[2023-04-18 16:25:46] INFO: Locked choice inputs
+[2023-04-18 16:25:47] INFO: Revealed choice inputs
+[2023-04-18 16:25:50] INFO: Exposed answer
+[2023-04-18 16:25:51] INFO: Question completed: Welche Raumfahrtmission brachte das erst...
+[2023-04-18 16:25:51] INFO: Saving gameState to C:\Users\timon\Documents\Projekte\HTML\quiz-conquest-backend\data\gameState.json
+[2023-04-18 16:25:52] INFO: Question opened: Wie heißt das russische Pendant zum amer...
+[2023-04-18 16:25:58] INFO: Exposed question
+[2023-04-18 16:26:01] INFO: Updated choice of Timo: 
+[2023-04-18 16:26:04] INFO: Locked choice inputs
+[2023-04-18 16:26:05] INFO: Revealed choice inputs
+[2023-04-18 16:26:09] INFO: Exposed answer
+[2023-04-18 16:26:11] INFO: Question completed: Wie heißt das russische Pendant zum amer...
+[2023-04-18 16:26:11] INFO: Saving gameState to C:\Users\timon\Documents\Projekte\HTML\quiz-conquest-backend\data\gameState.json
+[2023-04-18 16:26:12] INFO: Question opened: Welche Raumsonde hat im Jahr 2015 den Zw...
+[2023-04-18 16:26:13] INFO: Exposed question
+[2023-04-18 16:26:16] INFO: Updated choice of Timo: 
+[2023-04-18 16:26:17] INFO: Locked choice inputs
+[2023-04-18 16:26:20] INFO: Exposed answer
+[2023-04-18 16:26:22] INFO: Question completed: Welche Raumsonde hat im Jahr 2015 den Zw...
+[2023-04-18 16:26:22] INFO: Saving gameState to C:\Users\timon\Documents\Projekte\HTML\quiz-conquest-backend\data\gameState.json
+[2023-04-18 16:26:28] INFO: Buzzed
+[2023-04-18 16:26:28] INFO: Player buzzed: Timo
+[2023-04-18 16:26:30] INFO: Resetting buzzer

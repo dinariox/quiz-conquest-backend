@@ -1,0 +1,13 @@
+1. Ausgabe:
+    - Julian 6000
+    - Konrad 2950
+    - Seb 2700
+    - Ben 1100
+    - Johhny -350
+
+2. Ausgabe:
+    - Julian 3750
+    - Konrad 3200
+    - Ben & Clara 2400
+    - Seb 1200
+    - Artur 1000
