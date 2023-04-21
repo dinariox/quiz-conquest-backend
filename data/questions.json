@@ -193,7 +193,8 @@
           "value": 300,
           "question": "Wie viele bekannte Monde hat der Planet Jupiter?",
           "answer": "92",
-          "type": "estimate"
+          "type": "estimate",
+          "notes": "+100 Bonuspunkte bei 87-97"
         },
         {
           "value": 400,
