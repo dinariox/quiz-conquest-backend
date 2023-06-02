@@ -1,7 +1,7 @@
 {
   "categories": [
     {
-      "name": "Übersetzungen",
+      "name": "No te entiendo",
       "questions": [
         {
           "value": 300,
@@ -116,7 +116,7 @@
       ]
     },
     {
-      "name": "Diese Städte sind in welchem Land?",
+      "name": "Örtlich",
       "questions": [
         {
           "value": 300,
@@ -151,7 +151,7 @@
       ]
     },
     {
-      "name": "Welche Währung ist das?",
+      "name": "Moneyboy",
       "questions": [
         {
           "value": 400,
