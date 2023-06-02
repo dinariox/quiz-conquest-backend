@@ -1,221 +1,187 @@
 {
   "categories": [
     {
-      "name": "🤔🤓",
+      "name": "Übersetzungen",
       "questions": [
         {
           "value": 300,
-          "question": "🦁👑",
-          "answer": "Der König der Löwen",
-          "type": "normal",
-          "notes": "Film"
-        },
-        {
-          "value": 300,
-          "question": "👻🚫",
-          "answer": "Ghostbusters",
-          "type": "normal",
-          "notes": "Film"
+          "question": "lærred (Dänisch)|tela (Portugiesisch)|kangas (Finnisch)|kanvas (Indonesisch)",
+          "answer": "Leinwand",
+          "type": "enum",
+          "notes": "Nomen"
         },
         {
           "value": 400,
-          "question": "⚡🧹🪄",
-          "answer": "Harry Potter",
-          "type": "normal",
-          "notes": "Buch- und Filmreihe"
+          "question": "活着 (Huózhe, Chinesisch)|żywy (Polnisch)|levande (Schwedisch)|vivo (Portugiesisch)",
+          "answer": "lebendig",
+          "type": "enum",
+          "notes": "Adjektiv"
         },
         {
           "value": 400,
-          "question": "🔫🔵🟠🤖",
-          "answer": "Portal",
-          "type": "normal",
-          "notes": "Videospiel"
+          "question": "προκαλούν (prokaloún, Griechisch)|išprovokuoti (Litauisch)|provoceer (Niederländisch)|provocare (Italienisch)",
+          "answer": "provozieren",
+          "type": "enum",
+          "notes": "Verb"
         },
         {
           "value": 400,
-          "question": "🚗⚽️🥅",
-          "answer": "Rocket League",
-          "type": "normal",
-          "notes": "Videospiel"
+          "question": "zakázať (Slowakisch)|melarang (Indonesisch)|forby (Norwegisch)|forbyde (Dänisch)",
+          "answer": "verbieten",
+          "type": "enum",
+          "notes": "Verb"
+        },
+        {
+          "value": 500,
+          "question": "küülik (Estnisch)|králik (Slowakisch)|кролик (krolik, Ukrainisch)|lapin (Französisch)",
+          "answer": "Kaninchen",
+          "type": "enum",
+          "notes": "Nomen"
         }
       ]
     },
     {
-      "name": "Amazon Prime & Sexy Time",
+      "name": "Trivia",
       "questions": [
         {
           "value": 200,
-          "question": "Welche Figur der \"Sesamstraße\" hat meist besonderen Heißhunger auf Kekse?",
-          "answer": "Das Krümelmonster / Cookie Monster",
+          "question": "Für was stehen die Buchstaben der Fastfood-Kette KFC?",
+          "answer": "Kentucky Fried Chicken",
           "type": "normal"
         },
         {
           "value": 300,
-          "question": "Wie heißt die verhasste Nachbarstadt Springfields aus der Zeichentrickserie \"Die Simpsons\"?",
-          "answer": "Shelbyville",
-          "type": "normal"
-        },
-        {
-          "value": 300,
-          "question": "Wie lautet in den \"Star Wars\"-Filmen der Vorname von Kanzler Palpatine?",
-          "answer": "Sheev",
-          "type": "normal"
+          "question": "Wie schnell kann eine durchschnittliche Meise fliegen?",
+          "answer": "35 km/h",
+          "type": "estimate"
         },
         {
           "value": 400,
-          "question": "Wie heißt der britische Geheimdienst, für den James Bond tätig ist?",
-          "answer": "MI6",
-          "type": "normal"
-        },
-        {
-          "value": 500,
-          "question": "Laut welchem Film fand am 29. August 1997 der Judgement Day und damit das Ende der Welt statt?",
-          "answer": "Terminator 2",
-          "type": "normal"
-        }
-      ]
-    },
-    {
-      "name": "Wer hat gefragt?",
-      "questions": [
-        {
-          "value": 200,
-          "question": "Der Name der Schokoladenmarke \"Milka\" ist ein Akronym. Was verbirgt sich dahinter?",
-          "answer": "Milch & Kakao",
-          "type": "normal"
-        },
-        {
-          "value": 300,
-          "question": "Wie heißt das langjährige Clown-Maskottchen der Fast-Food-Kette McDonalds?",
-          "answer": "Ronald McDonald",
-          "type": "normal"
-        },
-        {
-          "value": 400,
-          "question": "Ausgehend von der Sonne kommt welcher Planet unseres Sonnensystems an fünfter Stelle?",
-          "answer": "Jupiter",
-          "type": "normal"
-        },
-        {
-          "value": 400,
-          "question": "Welches der sieben Weltwunder der Antike existiert heutzutage noch als Einziges?",
-          "answer": "Die Pyramiden von Gizeh",
-          "type": "normal"
-        },
-        {
-          "value": 500,
-          "question": "Welche Farbe hat das Blut von Hummern?",
-          "answer": "Blau",
-          "type": "normal"
-        }
-      ]
-    },
-    {
-      "name": "Backseat Gaming",
-      "questions": [
-        {
-          "value": 200,
-          "question": "Die Jahreszahlen der Spielereihe Anno ergeben immer welche Quersumme?",
-          "answer": "9",
-          "type": "normal"
-        },
-        {
-          "value": 300,
-          "question": "Welchen Namen trägt der 2021 erschienene inoffizielle Nachfolger der \"Left 4 Dead\"-Reihe?",
-          "answer": "Back 4 Blood",
-          "type": "normal"
-        },
-        {
-          "value": 300,
-          "question": "Wie viele Diamanten werden benötigt um eine komplette Rüstung in Minecraft zu bauen?",
-          "answer": "24",
-          "type": "normal"
-        },
-        {
-          "value": 400,
-          "question": "Mit welchem MMORPG versuchte Amazon Games im Jahr 2021 einen Hit zu landen?",
-          "answer": "New World",
-          "type": "normal"
-        },
-        {
-          "value": 500,
-          "question": "Welchen ungewöhnlichen Vornamen trägt die Protagonistin aus der \"A Plague Tale\"-Spielereihe?",
-          "answer": "Amicia",
-          "type": "normal"
-        }
-      ]
-    },
-    {
-      "name": "Ohayô!",
-      "questions": [
-        {
-          "value": 400,
-          "question": "hodiny (Slowakisch)|ساعة (sa'ah, Arabisch)|orologio (Italienisch)|klocka (Schwedisch)",
-          "answer": "Uhr",
-          "type": "enum"
-        },
-        {
-          "value": 400,
-          "question": "pyörä (Finnisch)|fiets (Niederländisch)|rower (Polnisch)|bicikl (Kroatisch)",
-          "answer": "Fahrrad",
-          "type": "enum"
-        },
-        {
-          "value": 400,
-          "question": "מים (mayim, Hebräisch)|uisce (Irisch)|vesi (Finnisch)|agua (Spanisch)",
-          "answer": "Wasser",
-          "type": "enum"
-        },
-        {
-          "value": 400,
-          "question": "قهوة (qahwa, Arabisch)|kahvi (Finnisch)|kávé (Ungarisch)|koffie (Niederländisch)",
-          "answer": "Kaffee",
-          "type": "enum"
-        },
-        {
-          "value": 400,
-          "question": "蝶 (chō, Japanisch)|mariposa (Spanisch)|motýl (Tschechisch)|vlinder (Niederländisch)",
-          "answer": "Schmetterling",
-          "type": "enum"
-        }
-      ]
-    },
-    {
-      "name": "Sternschnuppe",
-      "questions": [
-        {
-          "value": 300,
-          "question": "Welcher Mensch setzte als Zweiter einen Fuß auf den Mond unserer Erde?",
-          "answer": "Buzz Aldrin",
-          "type": "normal"
-        },
-        {
-          "value": 300,
-          "question": "Wie viele bekannte Monde hat der Planet Jupiter?",
-          "answer": "92",
-          "type": "estimate",
-          "notes": "+100 Bonuspunkte bei 87-97"
-        },
-        {
-          "value": 400,
-          "question": "Welche Raumfahrtmission brachte das erste Modul der Internationalen Raumstation (ISS) ins All?",
-          "answer": "D: Zarya-1",
+          "question": "In welchem Jahr wurde Queen Elizabeth II geboren?",
+          "answer": "B: 1926",
           "type": "choice",
-          "choices": ["STS-88", "Apollo 11", "Soyuz TM-31", "Zarya-1"]
+          "choices": ["1923", "1926", "1929", "1930"]
+        },
+        {
+          "value": 400,
+          "question": "Welche Zahl befindet sich auf einer Dartscheibe direkt gegenüber der 1?",
+          "answer": "A: 19",
+          "type": "choice",
+          "choices": ["19", "20", "12", "15"]
         },
         {
           "value": 500,
-          "question": "Wie heißt das russische Pendant zum amerikanischen GPS?",
-          "answer": "B: GLONASS",
+          "question": "Nach der Malvenblume benannt, ist \"Mauve\" ein Farbton von was?",
+          "answer": "D: Lila",
           "type": "choice",
-          "choices": ["Galileo", "GLONASS", "QZSS", "NAVIC"]
+          "choices": ["Pink", "Braun", "Rot", "Lila"]
+        }
+      ]
+    },
+    {
+      "name": "Gaming",
+      "questions": [
+        {
+          "value": 300,
+          "question": "Welchen Buchstaben aus dem griechischen Alphabet stellt das Half-Life-Logo dar?",
+          "answer": "Lambda",
+          "type": "normal"
+        },
+        {
+          "value": 300,
+          "question": "Wie heißt die ultimative Fähigkeit von Mercy aus Overwatch?",
+          "answer": "Valkyrie",
+          "type": "normal"
+        },
+        {
+          "value": 400,
+          "question": "Welches dieser Valve-Spiele basiert NICHT auf einem Community-Mod?",
+          "answer": "D: Ricochet",
+          "type": "choice",
+          "choices": ["Day of Defeat", "Counter-Strike", "Alien Swarm", "Ricochet"]
+        },
+        {
+          "value": 400,
+          "question": "In welchem Videospiel hatte Mario seinen ersten Auftritt?",
+          "answer": "Donkey Kong",
+          "type": "normal"
         },
         {
           "value": 500,
-          "question": "Welche Raumsonde hat im Jahr 2015 den Zwergplaneten Pluto fotografiert und erforscht?",
-          "answer": "B: New Horizons",
+          "question": "In welcher US-amerikanischen Stadt ist der Sitz von Valve Corporation?",
+          "answer": "D: San Francisco, California",
           "type": "choice",
-          "choices": ["Voyager 1", "New Horizons", "Cassini", "Galileo"]
+          "choices": ["Bellevue, Washington", "Austin, Texas", "Seattle, Washington", "San Francisco, California"]
+        }
+      ]
+    },
+    {
+      "name": "Diese Städte sind in welchem Land?",
+      "questions": [
+        {
+          "value": 300,
+          "question": "Toowoomba|Sunshine Coast|Perth|Melbourne",
+          "answer": "Australien",
+          "type": "enum"
+        },
+        {
+          "value": 300,
+          "question": "Winterthur|Lausanne|Basel|Genf",
+          "answer": "Schweiz",
+          "type": "enum"
+        },
+        {
+          "value": 400,
+          "question": "Novara|Messina|Bergamo|Venedig",
+          "answer": "Italien",
+          "type": "enum"
+        },
+        {
+          "value": 400,
+          "question": "Lahti|Turku|Oulu|Helsinki",
+          "answer": "Finnland",
+          "type": "enum"
+        },
+        {
+          "value": 400,
+          "question": "Akhisar|Ordu|Antalya|Ankara",
+          "answer": "Türkei",
+          "type": "enum"
+        }
+      ]
+    },
+    {
+      "name": "Welche Währung ist das?",
+      "questions": [
+        {
+          "value": 400,
+          "question": "banknote1.webp",
+          "answer": "Dänische Krone",
+          "type": "img"
+        },
+        {
+          "value": 400,
+          "question": "banknote2.webp",
+          "answer": "Britischer Pfund",
+          "type": "img"
+        },
+        {
+          "value": 400,
+          "question": "banknote3.webp",
+          "answer": "Schweizer Franken",
+          "type": "img"
+        },
+        {
+          "value": 400,
+          "question": "banknote4.webp",
+          "answer": "Japanischer Yen",
+          "type": "img"
+        },
+        {
+          "value": 400,
+          "question": "banknote5.webp",
+          "answer": "Russischer Rubel",
+          "type": "img"
         }
       ]
     }

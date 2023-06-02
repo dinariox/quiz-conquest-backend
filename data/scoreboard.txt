@@ -11,3 +11,11 @@
     - Ben & Clara 2400
     - Seb 1200
     - Artur 1000
+
+3. Ausgabe:
+    - Julian 5000
+    - Ben & Clara 2900
+    - Seb 2300
+    - Artur 850
+    - Konrad 800
+    - Johnny 700
