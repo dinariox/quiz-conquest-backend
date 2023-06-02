@@ -155,31 +155,31 @@
       "questions": [
         {
           "value": 400,
-          "question": "banknote1.webp",
+          "question": "/banknote1.webp",
           "answer": "Dänische Krone",
           "type": "img"
         },
         {
           "value": 400,
-          "question": "banknote2.webp",
+          "question": "/banknote2.webp",
           "answer": "Britischer Pfund",
           "type": "img"
         },
         {
           "value": 400,
-          "question": "banknote3.webp",
+          "question": "/banknote3.webp",
           "answer": "Schweizer Franken",
           "type": "img"
         },
         {
           "value": 400,
-          "question": "banknote4.webp",
+          "question": "/banknote4.webp",
           "answer": "Japanischer Yen",
           "type": "img"
         },
         {
           "value": 400,
-          "question": "banknote5.webp",
+          "question": "/banknote5.webp",
           "answer": "Russischer Rubel",
           "type": "img"
         }
