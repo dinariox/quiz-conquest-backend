@@ -1,5 +1,6 @@
 import express from "express";
 import cors from "cors";
+import fileUpload from "express-fileupload";
 import { createServer } from "http";
 import { Server, ServerOptions } from "socket.io";
 import { readFile, writeFile } from "fs/promises";
@@ -107,7 +108,50 @@ function emptyTextInputsAndChoices() {
 async function main() {
   const app = express();
   app.use(cors());
+  app.use(fileUpload());
+  app.use(express.json());
   app.use(express.static(path.join(__dirname, "..", "public")));
+
+  app.post("/upload-image", (req, res) => {
+    if ("file" in req.files && "mv" in req.files.file) {
+      req.files.file
+        .mv(path.join(__dirname, "..", "public", req.files.file.name))
+        .then(() => {
+          return res.sendStatus(200);
+        })
+        .catch(() => {
+          return res.sendStatus(500);
+        });
+    } else {
+      return res.sendStatus(400);
+    }
+  });
+
+  app.post("/save-questions", (req, res) => {
+    const data = JSON.stringify(req.body);
+
+    writeFile(path.join(__dirname, "..", "data", "questions.json"), data)
+      .then(() => {
+        logger.info("Written questions.");
+        res.sendStatus(200);
+      })
+      .catch((reason) => {
+        logger.info("Writing questions failed.", reason);
+        res.sendStatus(500);
+      });
+  });
+
+  app.get("/load-questions", (req, res) => {
+    readFile(path.join(__dirname, "..", "data", "questions.json"), { encoding: "utf-8" })
+      .then((data) => {
+        logger.info("Sent questions.");
+        res.status(200).header("Content-Type", "application/json").send(JSON.parse(data));
+      })
+      .catch((reason) => {
+        logger.info("Sending questions failed.", reason);
+        res.status(500).send({ reason });
+      });
+  });
 
   const httpServer = createServer(app);
   io = new Server(httpServer, corsOptions);

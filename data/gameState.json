@@ -1,269 +1,62 @@
 {
-  "players": [
-    {
-      "id": "a5f2a0c8e5e31ef169c7fb0d3e0efb84",
-      "socketId": "NpYafnVT2t_WvJhTAAAH",
-      "name": "Timo",
-      "score": 0,
-      "textInput": "",
-      "choice": -1
-    }
-  ],
+  "players": [],
   "categories": [
     {
-      "name": "🤔🤓",
+      "name": "Hallo Welt",
       "questions": [
         {
+          "type": "normal",
+          "question": "Buzzer Frage 1",
+          "answer": "Antwort 1",
+          "answered": true,
           "value": 300,
-          "question": "🦁👑",
-          "answer": "Der König der Löwen",
-          "type": "normal",
-          "notes": "Film"
+          "notes": "Hallo"
         },
         {
-          "value": 300,
-          "question": "👻🚫",
-          "answer": "Ghostbusters",
-          "type": "normal",
-          "notes": "Film"
+          "type": "enum",
+          "question": "Aufzählung|Nummer|Zwei",
+          "answer": "Antwort 2",
+          "answered": true,
+          "value": 100
         },
         {
-          "value": 400,
-          "question": "⚡🧹🪄",
-          "answer": "Harry Potter",
-          "type": "normal",
-          "notes": "Buch- und Filmreihe"
-        },
-        {
-          "value": 400,
-          "question": "🔫🔵🟠🤖",
-          "answer": "Portal",
-          "type": "normal",
-          "notes": "Videospiel"
-        },
-        {
-          "value": 400,
-          "question": "🚗⚽️🥅",
-          "answer": "Rocket League",
-          "type": "normal",
-          "notes": "Videospiel"
+          "type": "img",
+          "question": "/_DSC5696.jpg",
+          "answer": "Antwort 3",
+          "answered": true,
+          "value": 100
         }
       ]
     },
     {
-      "name": "Amazon Prime & Sexy Time",
+      "name": "Zwo",
       "questions": [
         {
-          "value": 200,
-          "question": "Welche Figur der \"Sesamstraße\" hat meist besonderen Heißhunger auf Kekse?",
-          "answer": "Das Krümelmonster / Cookie Monster",
-          "type": "normal"
-        },
-        {
-          "value": 300,
-          "question": "Wie heißt die verhasste Nachbarstadt Springfields aus der Zeichentrickserie \"Die Simpsons\"?",
-          "answer": "Shelbyville",
-          "type": "normal"
-        },
-        {
-          "value": 300,
-          "question": "Wie lautet in den \"Star Wars\"-Filmen der Vorname von Kanzler Palpatine?",
-          "answer": "Sheev",
-          "type": "normal"
-        },
-        {
-          "value": 400,
-          "question": "Wie heißt der britische Geheimdienst, für den James Bond tätig ist?",
-          "answer": "MI6",
-          "type": "normal"
-        },
-        {
-          "value": 500,
-          "question": "Laut welchem Film fand am 29. August 1997 der Judgement Day und damit das Ende der Welt statt?",
-          "answer": "Terminator 2",
-          "type": "normal"
-        }
-      ]
-    },
-    {
-      "name": "Wer hat gefragt?",
-      "questions": [
-        {
-          "value": 200,
-          "question": "Der Name der Schokoladenmarke \"Milka\" ist ein Akronym. Was verbirgt sich dahinter?",
-          "answer": "Milch & Kakao",
-          "type": "normal"
-        },
-        {
-          "value": 300,
-          "question": "Wie heißt das langjährige Clown-Maskottchen der Fast-Food-Kette McDonalds?",
-          "answer": "Ronald McDonald",
-          "type": "normal"
-        },
-        {
-          "value": 400,
-          "question": "Ausgehend von der Sonne kommt welcher Planet unseres Sonnensystems an fünfter Stelle?",
-          "answer": "Jupiter",
-          "type": "normal"
-        },
-        {
-          "value": 400,
-          "question": "Welches der sieben Weltwunder der Antike existiert heutzutage noch als Einziges?",
-          "answer": "Die Pyramiden von Gizeh",
-          "type": "normal"
-        },
-        {
-          "value": 500,
-          "question": "Welche Farbe hat das Blut von Hummern?",
-          "answer": "Blau",
-          "type": "normal"
-        }
-      ]
-    },
-    {
-      "name": "Backseat Gaming",
-      "questions": [
-        {
-          "value": 200,
-          "question": "Die Jahreszahlen der Spielereihe Anno ergeben immer welche Quersumme?",
-          "answer": "9",
-          "type": "normal"
-        },
-        {
-          "value": 300,
-          "question": "Welchen Namen trägt der 2021 erschienene inoffizielle Nachfolger der \"Left 4 Dead\"-Reihe?",
-          "answer": "Back 4 Blood",
-          "type": "normal"
-        },
-        {
-          "value": 300,
-          "question": "Wie viele Diamanten werden benötigt um eine komplette Rüstung in Minecraft zu bauen?",
-          "answer": "24",
-          "type": "normal"
-        },
-        {
-          "value": 400,
-          "question": "Mit welchem MMORPG versuchte Amazon Games im Jahr 2021 einen Hit zu landen?",
-          "answer": "New World",
-          "type": "normal"
-        },
-        {
-          "value": 500,
-          "question": "Welchen ungewöhnlichen Vornamen trägt die Protagonistin aus der \"A Plague Tale\"-Spielereihe?",
-          "answer": "Amicia",
-          "type": "normal"
-        }
-      ]
-    },
-    {
-      "name": "Ohayô!",
-      "questions": [
-        {
-          "value": 400,
-          "question": "hāora (Maori)|ساعة (sa'ah, Arabisch)|orologio (Italienisch)|klocka (Schwedisch)",
-          "answer": "Uhr",
-          "type": "enum",
-          "answered": true
-        },
-        {
-          "value": 400,
-          "question": "pyörä (Finnisch)|fiets (Niederländisch)|rower (Polnisch)|bicikl (Kroatisch)",
-          "answer": "Fahrrad",
-          "type": "enum",
-          "answered": true
-        },
-        {
-          "value": 400,
-          "question": "מים (mayim, Hebräisch)|uisce (Irisch)|vesi (Finnisch)|agua (Spanisch)",
-          "answer": "Wasser",
-          "type": "enum",
-          "answered": true
-        },
-        {
-          "value": 400,
-          "question": "قهوة (qahwa, Arabisch)|kahvi (Finnisch)|kávé (Ungarisch)|koffie (Niederländisch)",
-          "answer": "Kaffee",
-          "type": "enum",
-          "answered": true
-        },
-        {
-          "value": 400,
-          "question": "蝶 (chō, Japanisch)|mariposa (Spanisch)|motýl (Tschechisch)|vlinder (Niederländisch)",
-          "answer": "Schmetterling",
-          "type": "enum",
-          "answered": true
-        }
-      ]
-    },
-    {
-      "name": "Sternschnuppe",
-      "questions": [
-        {
-          "value": 300,
-          "question": "Welcher Mensch setzte als Zweiter einen Fuß auf den Mond unserer Erde?",
-          "answer": "Buzz Aldrin",
-          "type": "normal",
-          "answered": true
-        },
-        {
-          "value": 300,
-          "question": "Wie viele bekannte Monde hat der Planet Jupiter?",
-          "answer": "92",
           "type": "estimate",
-          "answered": true
+          "question": "Schätzfrage",
+          "answer": "Antwort 4 oder so",
+          "answered": true,
+          "value": 100
         },
         {
-          "value": 400,
-          "question": "Welche Raumfahrtmission brachte das erste Modul der Internationalen Raumstation (ISS) ins All?",
-          "answer": "D: Zarya-1",
           "type": "choice",
+          "question": "Multiple Choiceee",
+          "answer": "A: Choize",
+          "answered": true,
+          "value": 100,
           "choices": [
-            "STS-88",
-            "Apollo 11",
-            "Soyuz TM-31",
-            "Zarya-1"
-          ],
-          "answered": true
-        },
-        {
-          "value": 500,
-          "question": "Wie heißt das russische Pendant zum amerikanischen GPS?",
-          "answer": "B: GLONASS",
-          "type": "choice",
-          "choices": [
-            "Galileo",
-            "GLONASS",
-            "QZSS",
-            "NAVIC"
-          ],
-          "answered": true
-        },
-        {
-          "value": 500,
-          "question": "Welche Raumsonde hat im Jahr 2015 den Zwergplaneten Pluto fotografiert und erforscht?",
-          "answer": "B: New Horizons",
-          "type": "choice",
-          "choices": [
-            "Voyager 1",
-            "New Horizons",
-            "Cassini",
-            "Galileo"
-          ],
-          "answered": true
+            "Choize",
+            "CHOISEE",
+            "Awuuu",
+            "Yikes"
+          ]
         }
       ]
     }
   ],
   "activeQuestion": null,
   "buzzedPlayer": null,
-  "playersTurn": {
-    "id": "a5f2a0c8e5e31ef169c7fb0d3e0efb84",
-    "socketId": "NpYafnVT2t_WvJhTAAAH",
-    "name": "Timo",
-    "score": 0,
-    "textInput": "",
-    "choice": -1
-  },
+  "playersTurn": null,
   "exposeQuestion": false,
   "exposeAnswer": false,
   "showBoard": true,

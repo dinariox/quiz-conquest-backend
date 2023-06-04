@@ -2749,3 +2749,84 @@
 [2023-04-18 16:26:28] INFO: Buzzed
 [2023-04-18 16:26:28] INFO: Player buzzed: Timo
 [2023-04-18 16:26:30] INFO: Resetting buzzer
+[2023-06-04 13:23:42] INFO: Server listening on port 3000
+[2023-06-04 13:29:56] INFO: Server listening on port 3000
+[2023-06-04 14:11:21] INFO: Server listening on port 3000
+[2023-06-04 14:13:26] INFO: Server listening on port 3000
+[2023-06-04 14:16:27] INFO: Server listening on port 3000
+[2023-06-04 15:13:23] INFO: Server listening on port 3000
+[2023-06-04 15:17:47] INFO: Server listening on port 3000
+[2023-06-04 15:30:20] INFO: Server listening on port 3000
+[2023-06-04 15:30:59] INFO: Server listening on port 3000
+[2023-06-04 15:40:44] INFO: Server listening on port 3000
+[2023-06-04 15:40:48] INFO: Written questions.
+[2023-06-04 15:41:01] INFO: Server listening on port 3000
+[2023-06-04 15:41:09] INFO: A user has connected: giZ2a1JXqhhvgfX2AAAB
+[2023-06-04 15:41:11] INFO: A user has connected: 8smE4kt5DB7w3tWpAAAD
+[2023-06-04 15:41:15] INFO: Showed board
+[2023-06-04 15:41:20] INFO: Question opened: Wie ist das Wetter?...
+[2023-06-04 15:41:26] INFO: Exposed answer
+[2023-06-04 15:41:29] INFO: Exposed question
+[2023-06-04 15:41:31] INFO: Question completed: Wie ist das Wetter?...
+[2023-06-04 15:41:31] INFO: Saving gameState to C:\Users\timon\Documents\Projekte\HTML\quiz-conquest-backend\data\gameState.json
+[2023-06-04 15:41:40] INFO: A user has disconnected: 8smE4kt5DB7w3tWpAAAD
+[2023-06-04 15:42:43] INFO: Written questions.
+[2023-06-04 15:49:52] INFO: Written questions.
+[2023-06-04 15:51:39] INFO: Server listening on port 3000
+[2023-06-04 15:51:41] INFO: A user has connected: jqr7ynmeK75d8lX4AAAB
+[2023-06-04 15:52:33] INFO: Server listening on port 3000
+[2023-06-04 15:52:35] INFO: A user has connected: ux742nyuFVKBxTAXAAAB
+[2023-06-04 15:53:59] INFO: Server listening on port 3000
+[2023-06-04 15:54:02] INFO: Sent questions.
+[2023-06-04 15:54:02] INFO: A user has connected: dA3qGAlmDpM22ZhfAAAB
+[2023-06-04 15:55:32] INFO: Server listening on port 3000
+[2023-06-04 15:55:32] INFO: A user has connected: lL1YljgUyhNoWQ7hAAAB
+[2023-06-04 15:55:33] INFO: Sent questions.
+[2023-06-04 15:56:04] INFO: Sent questions.
+[2023-06-04 15:56:34] INFO: Sent questions.
+[2023-06-04 15:56:44] INFO: Sent questions.
+[2023-06-04 15:57:46] INFO: Sent questions.
+[2023-06-04 16:00:32] INFO: Written questions.
+[2023-06-04 16:00:38] INFO: Sent questions.
+[2023-06-04 16:04:26] INFO: Sent questions.
+[2023-06-04 16:14:09] INFO: Written questions.
+[2023-06-04 16:22:27] INFO: Server listening on port 3000
+[2023-06-04 16:22:29] INFO: A user has connected: 3AscrYggrez5dRq-AAAB
+[2023-06-04 16:22:34] INFO: A user has connected: tSQcbn3kyI_GYpzJAAAD
+[2023-06-04 16:22:35] INFO: A user has connected: eHSt4vV1Z_eGHjh1AAAF
+[2023-06-04 16:22:37] INFO: Showed board
+[2023-06-04 16:22:40] INFO: Question opened: Buzzer Frage 1...
+[2023-06-04 16:22:48] INFO: Exposed question
+[2023-06-04 16:22:49] INFO: Exposed answer
+[2023-06-04 16:22:50] INFO: Question completed: Buzzer Frage 1...
+[2023-06-04 16:22:50] INFO: Saving gameState to C:\Users\timon\Documents\Projekte\HTML\quiz-conquest-backend\data\gameState.json
+[2023-06-04 16:22:51] INFO: Question opened: Aufzählung|Nummer|Zwei...
+[2023-06-04 16:22:54] INFO: Exposed question
+[2023-06-04 16:22:55] INFO: Revealed enum item 1
+[2023-06-04 16:22:56] INFO: Revealed enum item 2
+[2023-06-04 16:22:56] INFO: Revealed enum item 3
+[2023-06-04 16:22:58] INFO: Revealed enum item 4
+[2023-06-04 16:22:59] INFO: Exposed answer
+[2023-06-04 16:23:00] INFO: Question completed: Aufzählung|Nummer|Zwei...
+[2023-06-04 16:23:00] INFO: Saving gameState to C:\Users\timon\Documents\Projekte\HTML\quiz-conquest-backend\data\gameState.json
+[2023-06-04 16:23:00] INFO: Question opened: /_DSC5696.jpg...
+[2023-06-04 16:23:02] INFO: Exposed answer
+[2023-06-04 16:23:04] INFO: Exposed question
+[2023-06-04 16:23:13] INFO: Question completed: /_DSC5696.jpg...
+[2023-06-04 16:23:13] INFO: Saving gameState to C:\Users\timon\Documents\Projekte\HTML\quiz-conquest-backend\data\gameState.json
+[2023-06-04 16:23:15] INFO: Question opened: Schätzfrage...
+[2023-06-04 16:23:17] INFO: Exposed question
+[2023-06-04 16:23:20] INFO: Exposed answer
+[2023-06-04 16:23:22] INFO: Locked text inputs
+[2023-06-04 16:23:23] INFO: Revealed text inputs
+[2023-06-04 16:23:24] INFO: Question completed: Schätzfrage...
+[2023-06-04 16:23:24] INFO: Saving gameState to C:\Users\timon\Documents\Projekte\HTML\quiz-conquest-backend\data\gameState.json
+[2023-06-04 16:23:25] INFO: Question opened: Multiple Choiceee...
+[2023-06-04 16:23:27] INFO: Exposed question
+[2023-06-04 16:23:29] INFO: Exposed answer
+[2023-06-04 16:23:31] INFO: Locked choice inputs
+[2023-06-04 16:23:31] INFO: Revealed choice inputs
+[2023-06-04 16:23:44] INFO: Question completed: Multiple Choiceee...
+[2023-06-04 16:23:44] INFO: Saving gameState to C:\Users\timon\Documents\Projekte\HTML\quiz-conquest-backend\data\gameState.json
+[2023-06-04 16:23:48] INFO: A user has disconnected: eHSt4vV1Z_eGHjh1AAAF
+[2023-06-04 16:24:24] INFO: Sent questions.
