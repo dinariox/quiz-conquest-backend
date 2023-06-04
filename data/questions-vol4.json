@@ -1,0 +1,189 @@
+{
+  "categories": [
+    {
+      "name": "No te entiendo",
+      "questions": [
+        {
+          "value": 300,
+          "question": "lærred (Dänisch)|tela (Portugiesisch)|kangas (Finnisch)|kanvas (Indonesisch)",
+          "answer": "Leinwand",
+          "type": "enum",
+          "notes": "Nomen"
+        },
+        {
+          "value": 400,
+          "question": "活着 (Huózhe, Chinesisch)|żywy (Polnisch)|levande (Schwedisch)|vivo (Portugiesisch)",
+          "answer": "lebendig",
+          "type": "enum",
+          "notes": "Adjektiv"
+        },
+        {
+          "value": 400,
+          "question": "προκαλούν (prokaloún, Griechisch)|išprovokuoti (Litauisch)|provoceer (Niederländisch)|provocare (Italienisch)",
+          "answer": "provozieren",
+          "type": "enum",
+          "notes": "Verb"
+        },
+        {
+          "value": 400,
+          "question": "zakázať (Slowakisch)|melarang (Indonesisch)|forby (Norwegisch)|forbyde (Dänisch)",
+          "answer": "verbieten",
+          "type": "enum",
+          "notes": "Verb"
+        },
+        {
+          "value": 500,
+          "question": "küülik (Estnisch)|králik (Slowakisch)|кролик (krolik, Ukrainisch)|lapin (Französisch)",
+          "answer": "Kaninchen",
+          "type": "enum",
+          "notes": "Nomen"
+        }
+      ]
+    },
+    {
+      "name": "Trivia",
+      "questions": [
+        {
+          "value": 200,
+          "question": "Für was stehen die Buchstaben der Fastfood-Kette KFC?",
+          "answer": "Kentucky Fried Chicken",
+          "type": "normal"
+        },
+        {
+          "value": 300,
+          "question": "Wie schnell kann eine durchschnittliche Meise fliegen?",
+          "answer": "35 km/h",
+          "type": "estimate"
+        },
+        {
+          "value": 400,
+          "question": "In welchem Jahr wurde Queen Elizabeth II geboren?",
+          "answer": "B: 1926",
+          "type": "choice",
+          "choices": ["1923", "1926", "1929", "1930"]
+        },
+        {
+          "value": 400,
+          "question": "Welche Zahl befindet sich auf einer Dartscheibe direkt gegenüber der 1?",
+          "answer": "A: 19",
+          "type": "choice",
+          "choices": ["19", "20", "12", "15"]
+        },
+        {
+          "value": 500,
+          "question": "Nach der Malvenblume benannt, ist \"Mauve\" ein Farbton von was?",
+          "answer": "D: Lila",
+          "type": "choice",
+          "choices": ["Pink", "Braun", "Rot", "Lila"]
+        }
+      ]
+    },
+    {
+      "name": "Gaming",
+      "questions": [
+        {
+          "value": 300,
+          "question": "Welchen Buchstaben aus dem griechischen Alphabet stellt das Half-Life-Logo dar?",
+          "answer": "Lambda",
+          "type": "normal"
+        },
+        {
+          "value": 300,
+          "question": "Wie heißt die ultimative Fähigkeit von Mercy aus Overwatch?",
+          "answer": "Valkyrie",
+          "type": "normal"
+        },
+        {
+          "value": 400,
+          "question": "Welches dieser Valve-Spiele basiert NICHT auf einem Community-Mod?",
+          "answer": "D: Ricochet",
+          "type": "choice",
+          "choices": ["Day of Defeat", "Counter-Strike", "Alien Swarm", "Ricochet"]
+        },
+        {
+          "value": 400,
+          "question": "In welchem Videospiel hatte Mario seinen ersten Auftritt?",
+          "answer": "Donkey Kong",
+          "type": "normal"
+        },
+        {
+          "value": 500,
+          "question": "In welcher US-amerikanischen Stadt ist der Sitz von Valve Corporation?",
+          "answer": "D: San Francisco, California",
+          "type": "choice",
+          "choices": ["Bellevue, Washington", "Austin, Texas", "Seattle, Washington", "San Francisco, California"]
+        }
+      ]
+    },
+    {
+      "name": "Örtlich",
+      "questions": [
+        {
+          "value": 300,
+          "question": "Toowoomba|Sunshine Coast|Perth|Melbourne",
+          "answer": "Australien",
+          "type": "enum"
+        },
+        {
+          "value": 300,
+          "question": "Winterthur|Lausanne|Basel|Genf",
+          "answer": "Schweiz",
+          "type": "enum"
+        },
+        {
+          "value": 400,
+          "question": "Novara|Messina|Bergamo|Venedig",
+          "answer": "Italien",
+          "type": "enum"
+        },
+        {
+          "value": 400,
+          "question": "Lahti|Turku|Oulu|Helsinki",
+          "answer": "Finnland",
+          "type": "enum"
+        },
+        {
+          "value": 400,
+          "question": "Akhisar|Ordu|Antalya|Ankara",
+          "answer": "Türkei",
+          "type": "enum"
+        }
+      ]
+    },
+    {
+      "name": "Moneyboy",
+      "questions": [
+        {
+          "value": 400,
+          "question": "/banknote1.webp",
+          "answer": "Dänische Krone",
+          "type": "img"
+        },
+        {
+          "value": 400,
+          "question": "/banknote2.webp",
+          "answer": "Britischer Pfund",
+          "type": "img"
+        },
+        {
+          "value": 400,
+          "question": "/banknote3.webp",
+          "answer": "Schweizer Franken",
+          "type": "img"
+        },
+        {
+          "value": 400,
+          "question": "/banknote4.webp",
+          "answer": "Japanischer Yen",
+          "type": "img"
+        },
+        {
+          "value": 400,
+          "question": "/banknote5.webp",
+          "answer": "Russischer Rubel",
+          "type": "img"
+        }
+      ]
+    }
+  ]
+}
