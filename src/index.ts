@@ -134,6 +134,10 @@ async function main() {
       .then(() => {
         logger.info("Written questions.");
         res.sendStatus(200);
+        loadCategories().then((cats) => {
+          gameState.categories = cats;
+          io.emit("updateGameState", gameState);
+        });
       })
       .catch((reason) => {
         logger.info("Writing questions failed.", reason);
