@@ -19,3 +19,34 @@
     - Artur 850
     - Konrad 800
     - Johnny 700
+
+4. Ausgabe:
+    Leider nicht festgehalten
+
+5. Ausgabe:
+    - Seb 2100
+    - Timo 950
+    - Ben & Clara 900
+    - Konrad 801
+    - Johnny 650
+
+6. Ausgabe:
+    - Julian 3400
+    - Seb 2300
+    - Ben 1500
+    - Artur 0
+
+7. Ausgabe:
+    - Seb 1700
+    - Jonathan 1100
+    - Timo 1000
+    - Konrad 900
+    - Julian -100
+
+8. Ausgabe:
+    - Ben 3250
+    - Konrad 2000
+    - Artur 1350
+    - Julian 750
+    - Johnny 300
+    - Seb -650
