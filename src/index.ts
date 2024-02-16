@@ -105,6 +105,18 @@ function emptyTextInputsAndChoices() {
   });
 }
 
+function syncTeamScore(teamId: number | undefined, score: number) {
+  if (teamId === undefined) return;
+
+  logger.info(`Syncing team score of team ${teamId} to ${score}`);
+
+  gameState.players.forEach((player) => {
+    if (player.teamId === teamId) {
+      player.score = score;
+    }
+  });
+}
+
 async function main() {
   const app = express();
   app.use(cors());
@@ -243,6 +255,7 @@ async function main() {
       const player = gameState.players.find((player) => player.id === playerId);
       if (player) {
         player.score += pointDelta;
+        syncTeamScore(player.teamId, player.score);
 
         logger.info(`Updated points for player ${player.name}: ${pointDelta} (-> ${player.score})`);
 
@@ -364,6 +377,7 @@ async function main() {
     socket.on("correctAnswer", () => {
       if (gameState.buzzedPlayer && gameState.activeQuestion) {
         gameState.buzzedPlayer.score += isDoublePoints(gameState.categories) ? gameState.activeQuestion.value * 2 : gameState.activeQuestion.value;
+        syncTeamScore(gameState.buzzedPlayer.teamId, gameState.buzzedPlayer.score);
 
         logger.info(`Player answered correctly: ${gameState.buzzedPlayer.name}. Added ${gameState.activeQuestion.value} points (-> ${gameState.buzzedPlayer.score}).`);
       }
@@ -376,6 +390,7 @@ async function main() {
     socket.on("wrongAnswer", () => {
       if (gameState.buzzedPlayer && gameState.activeQuestion) {
         gameState.buzzedPlayer.score -= isDoublePoints(gameState.categories) ? gameState.activeQuestion.value : gameState.activeQuestion.value / 2;
+        syncTeamScore(gameState.buzzedPlayer.teamId, gameState.buzzedPlayer.score);
 
         logger.info(`Player answered incorrectly: ${gameState.buzzedPlayer.name}. Removed ${gameState.activeQuestion.value / 2} points (-> ${gameState.buzzedPlayer.score}).`);
       }
@@ -452,6 +467,16 @@ async function main() {
       gameState.revealChoice = true;
       io.emit("updateGameState", gameState);
       logger.info("Revealed choice inputs");
+    });
+
+    socket.on("setPlayerTeam", (data: { playerId: string; teamId: number }) => {
+      const { playerId, teamId } = data;
+      const player = gameState.players.find((p) => p.id === playerId);
+      if (player) {
+        player.teamId = teamId;
+        io.emit("updateGameState", gameState);
+        logger.info(`Set team of ${player.name} to ${teamId}`);
+      }
     });
 
     socket.on("launch-fireworks", () => {

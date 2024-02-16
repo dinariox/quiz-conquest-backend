@@ -28,6 +28,7 @@ export interface Participant {
   score: number;
   textInput: string;
   choice: number;
+  teamId?: number;
 }
 
 export interface GameState {
