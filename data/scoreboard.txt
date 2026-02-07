@@ -50,3 +50,16 @@
     - Julian 750
     - Johnny 300
     - Seb -650
+
+9. Ausgabe:
+    - Konrad 4550
+    - Julian 3048
+    - Timo 3000
+    - Johnny 0
+    - Artur -1450
+
+10. Ausgabe (vor Ort in Bollwerk):
+    - Julian 2950
+    - Konrad 2750
+    - Erik 2400
+    - Timo 2150
